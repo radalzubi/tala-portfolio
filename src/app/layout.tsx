@@ -11,6 +11,7 @@ import { SiteHeader } from "@/components/site/site-header";
 import { SiteFooter } from "@/components/site/site-footer";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://talahagras.com"),
   title: {
     default: "Tala Hagras — Architecture",
     template: "%s — Tala Hagras",
@@ -18,6 +19,11 @@ export const metadata: Metadata = {
   description:
     "Selected architectural works by Tala Hagras, 2024–2026: Maison Peplum, a music institution in Reading, and research on the homogenisation of Cairo's urban horizons.",
   applicationName: "Tala Hagras — Architecture",
+  openGraph: {
+    type: "website",
+    siteName: "Tala Hagras — Architecture",
+    images: [{ url: "/media/mp-poster-1280.jpg", width: 1280, height: 800, alt: "Interpretive 3D study of Maison Peplum" }],
+  },
 };
 
 export const viewport: Viewport = {
