@@ -13,7 +13,7 @@ physical device, no iOS Safari and no Firefox were available.
 | `npm run check` (`tsc --noEmit` + `eslint`) | pass, 0 errors |
 | `node scripts/check_content.mjs` | 52 media ids referenced, 52 built, no third-party assets, no production notes |
 | `npm run build` | 10 routes prerendered (`/`, `/work`, 3 project pages, `/research/cairo`, `/about`, 404) |
-| `npx playwright test --project=desktop-chromium` | 40 passed, 1 skipped (touch-only test) |
+| `npx playwright test --project=desktop-chromium` (all specs incl. screenshots and preset shots) | 50 passed, 1 skipped (touch-only test) |
 | `npx playwright test --project=mobile-chromium` (routes, viewer, research, inspector) | 29 passed, 5 skipped (desktop-only tests) |
 | `node scripts/check_geometry.mjs` / `check_music_geometry.mjs` | bounds and triangle counts as recorded in docs/PERFORMANCE.md |
 | Fresh clone (`git clone --depth 1`, `npm ci`, `npx next build`, `node scripts/check_content.mjs`) | pass — the committed tree builds without the private `sources/` folder |

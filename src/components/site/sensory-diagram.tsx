@@ -54,7 +54,7 @@ export function SensoryDiagram({ className, title = "Interpretive sensory diagra
       </g>
       <g fontFamily="var(--font-mono)" fontSize="10" fill="var(--color-ink-2)">
         <text x="60" y="248">market sound</text>
-        <text x="198" y="196">linen curtains</text>
+        <text x="204" y="214">linen curtains</text>
         <text x="236" y="52">flower chimneys</text>
         <text x="300" y="268">air and scent</text>
         <text x="470" y="284">rainwater</text>
