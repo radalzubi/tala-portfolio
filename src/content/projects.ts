@@ -29,7 +29,7 @@ const maisonPeplumModel: ModelSpec = {
       id: "whole",
       label: "Whole",
       description: "A calm three-quarter view of the warehouse with its fin façade, seen from the canal.",
-      camera: { position: [30, 13, 34], target: [0, 4.5, 0], fov: 30 },
+      camera: { position: [33, 14.5, 38], target: [0, 4.8, 0], fov: 30 },
       assembly: 0,
       drawingId: "mp-render-exterior",
     },

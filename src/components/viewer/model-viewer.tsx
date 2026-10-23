@@ -103,7 +103,11 @@ export function ModelViewer({ spec, poster, drawings, subject, variant = "study"
   const id = useId();
 
   const initialHash = useMemo(() => (syncUrl && typeof window !== "undefined" ? readHashState(window.location.hash) : {}), [syncUrl]);
-  const [state, dispatch] = useReducer(viewerReducer, spec, (s) => initialViewerState(s, initialHash.view, initialHash.fold));
+  const [state, dispatch] = useReducer(viewerReducer, spec, (s) => ({
+    ...initialViewerState(s, initialHash.view, initialHash.fold),
+    // the compact hero has no hotspot list to explain markers, so it starts without them
+    hotspotsVisible: !compact,
+  }));
 
   const containerRef = useRef<HTMLDivElement | null>(null);
   const stageRef = useRef<HTMLDivElement | null>(null);

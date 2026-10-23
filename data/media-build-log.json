@@ -807,7 +807,7 @@
   {
    "id": "mp-poster",
    "sourceFile": "data/posters/mp-poster.png",
-   "sourceSha256": "73f9da75b7aeb843dcb1113b3fdb5f7b694ffa536551760077a46202f142ec21",
+   "sourceSha256": "4896a46ddc2248254671475de4cf6b86d301d8730a8845a653c87e2431d31731",
    "nativeSize": [
     1904,
     1190
@@ -831,7 +831,7 @@
   {
    "id": "mi-poster",
    "sourceFile": "data/posters/mi-poster.png",
-   "sourceSha256": "fefc399d41b088f4d325563f7c6d3c80a49c92c20f153300ad2f68b6dc5161f7",
+   "sourceSha256": "9049cc236bd34e3ccc1e2aac0cb876eccb6dab8400ad57e4543776a9ef15d73e",
    "nativeSize": [
     1904,
     1190
