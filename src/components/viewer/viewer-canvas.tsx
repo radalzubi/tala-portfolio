@@ -16,7 +16,10 @@ export interface ViewerCanvasProps {
   state: ViewerState;
   dispatch: Dispatch<ViewerAction>;
   reducedMotion: boolean;
-  engaged: boolean;
+  /** Pointer rotation allowed (desktop always; touch only once engaged). */
+  rotateEnabled: boolean;
+  /** Wheel / pinch zoom allowed (only once engaged, so the page keeps scrolling). */
+  zoomEnabled: boolean;
   running: boolean;
   apiRef: RefObject<ViewerCanvasApi | null>;
   onUserInteract: () => void;
@@ -57,7 +60,7 @@ function SectionClip({ groupRef, section }: { groupRef: RefObject<THREE.Group | 
   return null;
 }
 
-function Scene({ spec, state, dispatch, reducedMotion, engaged, running, apiRef, onUserInteract, lowQuality }: ViewerCanvasProps & { lowQuality: boolean }) {
+function Scene({ spec, state, dispatch, reducedMotion, rotateEnabled, zoomEnabled, running, apiRef, onUserInteract, lowQuality }: ViewerCanvasProps & { lowQuality: boolean }) {
   const assemblyRef = useRef(state.assembly);
   const lightRef = useRef<THREE.DirectionalLight | null>(null);
   const modelRef = useRef<THREE.Group | null>(null);
@@ -91,7 +94,8 @@ function Scene({ spec, state, dispatch, reducedMotion, engaged, running, apiRef,
         state={state}
         dispatch={dispatch}
         reducedMotion={reducedMotion}
-        engaged={engaged}
+        rotateEnabled={rotateEnabled}
+        zoomEnabled={zoomEnabled}
         running={running}
         assemblyRef={assemblyRef}
         lightRef={lightRef}
@@ -104,7 +108,7 @@ function Scene({ spec, state, dispatch, reducedMotion, engaged, running, apiRef,
         ref={lightRef}
         intensity={2.1}
         color="#fff4e6"
-        castShadow={!lowQuality || true}
+        castShadow
         shadow-mapSize={[shadowSize, shadowSize]}
         shadow-camera-left={-spec.bounds.radius * 1.4}
         shadow-camera-right={spec.bounds.radius * 1.4}
@@ -151,7 +155,7 @@ export default function ViewerCanvas(props: ViewerCanvasProps) {
         shadows={{ type: THREE.PCFSoftShadowMap }}
         camera={{ fov: preset.camera.fov ?? 32, near: 0.5, far: 600, position: preset.camera.position }}
         gl={{ antialias: true, alpha: true, powerPreference: "high-performance", preserveDrawingBuffer: false }}
-        style={{ background: "transparent", touchAction: props.engaged ? "none" : "pan-y" }}
+        style={{ background: "transparent", touchAction: props.zoomEnabled ? "none" : "pan-y" }}
         onCreated={() => dispatch({ type: "ready" })}
         resize={{ scroll: false, debounce: { scroll: 50, resize: 80 } }}
       >

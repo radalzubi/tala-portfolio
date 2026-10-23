@@ -1,16 +1,275 @@
 {
-  "statusValues": ["todo", "active", "review", "blocked", "done"],
-  "tasks": [
-    {"id": "T0", "objective": "Discovery: extract archive, inventory, read PDFs, decide direction", "ownerRole": "orchestrator", "dependencies": [], "allowedPaths": ["scripts/", "sources/", "docs/"], "deliverables": ["sources/derived/inventory.json", "docs/BRIEF.md", "docs/DECISIONS.md"], "acceptanceCriteria": ["inventory lists every file, page, image", "all 17 portfolio pages inspected visually"], "status": "done", "evidence": "sources/derived/inventory.json; contact sheets inspected 2026-10-23", "blockers": [], "nextStep": ""},
-    {"id": "T1", "objective": "Source manifest with asset IDs, crops, credits, publication state", "ownerRole": "source-forensics", "dependencies": ["T0"], "allowedPaths": ["data/source-manifest.json", "scripts/build_media.py"], "deliverables": ["data/source-manifest.json", "public/media/**", "src/content/media.generated.json"], "acceptanceCriteria": ["every public image traceable to file+page", "third-party content excluded or credited"], "status": "active", "evidence": "", "blockers": [], "nextStep": "run image forensics workflow, then author manifest"},
-    {"id": "T2", "objective": "Verified research notes from the dissertation", "ownerRole": "editor", "dependencies": ["T0"], "allowedPaths": ["sources/derived/notes/"], "deliverables": ["sources/derived/notes/dissertation-notes.json"], "acceptanceCriteria": ["every claim carries a physical page reference", "appendix personal data excluded"], "status": "active", "evidence": "", "blockers": [], "nextStep": "workflow running"},
-    {"id": "T3", "objective": "Design system tokens, fonts, shell (header, footer, nav), typography", "ownerRole": "art-director", "dependencies": ["T0"], "allowedPaths": ["src/app/globals.css", "src/app/layout.tsx", "src/components/site/"], "deliverables": ["tokens", "shell"], "acceptanceCriteria": ["contrast pairs pass AA", "fonts self-hosted"], "status": "todo", "evidence": "", "blockers": [], "nextStep": ""},
-    {"id": "T4", "objective": "Viewer shell and Maison Peplum interpretive model with presets and assembly slider", "ownerRole": "graphics", "dependencies": ["T3"], "allowedPaths": ["src/components/viewer/", "src/components/models/maison-peplum/"], "deliverables": ["ModelViewer", "MaisonPeplumModel"], "acceptanceCriteria": ["drag rotates mesh", "pause persists", "assembly slider moves fin groups and reverses", "fallback poster when no WebGL"], "status": "todo", "evidence": "", "blockers": [], "nextStep": ""},
-    {"id": "T5", "objective": "Music institution interpretive model with whole/plan/section presets and reveal", "ownerRole": "reconstruction", "dependencies": ["T4"], "allowedPaths": ["src/components/models/music-institution/"], "deliverables": ["MusicInstitutionModel"], "acceptanceCriteria": ["presets work", "section drawing accessible beside viewer"], "status": "todo", "evidence": "", "blockers": [], "nextStep": ""},
-    {"id": "T6", "objective": "Cairo research chapter: schematic atlas, case selector, annotations, narrative", "ownerRole": "research-designer", "dependencies": ["T2", "T3"], "allowedPaths": ["src/components/research/", "src/content/research.ts", "src/app/research/"], "deliverables": ["/research/cairo"], "acceptanceCriteria": ["case switch updates artwork, text, refs", "no coordinates or scores"], "status": "todo", "evidence": "", "blockers": [], "nextStep": ""},
-    {"id": "T7", "objective": "Routes: /, /work, /work/[slug], /about, 404; drawing inspector", "ownerRole": "frontend", "dependencies": ["T3"], "allowedPaths": ["src/app/", "src/components/media/", "src/components/site/"], "deliverables": ["all routes"], "acceptanceCriteria": ["direct URLs load", "inspector zoom/pan/keyboard/focus return"], "status": "todo", "evidence": "", "blockers": [], "nextStep": ""},
-    {"id": "T8", "objective": "QA: Playwright flows, axe scans, viewport screenshots, reduced motion, no-WebGL", "ownerRole": "qa", "dependencies": ["T4", "T5", "T6", "T7"], "allowedPaths": ["tests/", "docs/QA.md"], "deliverables": ["tests", "docs/QA.md"], "acceptanceCriteria": ["all essential flows pass or have documented blockers"], "status": "todo", "evidence": "", "blockers": [], "nextStep": ""},
-    {"id": "T9", "objective": "Performance report, payload audit, render-loop checks", "ownerRole": "performance", "dependencies": ["T8"], "allowedPaths": ["docs/PERFORMANCE.md"], "deliverables": ["docs/PERFORMANCE.md"], "acceptanceCriteria": ["measurements separated from targets"], "status": "todo", "evidence": "", "blockers": [], "nextStep": ""},
-    {"id": "T10", "objective": "Release: README, HANDOFF, fresh-install check, credits audit", "ownerRole": "release", "dependencies": ["T9"], "allowedPaths": ["README.md", "docs/HANDOFF.md"], "deliverables": ["README.md", "docs/HANDOFF.md"], "acceptanceCriteria": ["fresh checkout builds", "no production notes public"], "status": "todo", "evidence": "", "blockers": [], "nextStep": ""}
-  ]
+ "statusValues": [
+  "todo",
+  "active",
+  "review",
+  "blocked",
+  "done"
+ ],
+ "tasks": [
+  {
+   "id": "T0",
+   "objective": "Discovery: extract archive, inventory, read PDFs, decide direction",
+   "ownerRole": "orchestrator",
+   "dependencies": [],
+   "allowedPaths": [
+    "scripts/",
+    "sources/",
+    "docs/"
+   ],
+   "deliverables": [
+    "sources/derived/inventory.json",
+    "docs/BRIEF.md",
+    "docs/DECISIONS.md"
+   ],
+   "acceptanceCriteria": [
+    "inventory lists every file, page, image",
+    "all 17 portfolio pages inspected visually"
+   ],
+   "status": "done",
+   "evidence": "sources/derived/inventory.json; contact sheets inspected 2026-10-23",
+   "blockers": [],
+   "nextStep": ""
+  },
+  {
+   "id": "T1",
+   "objective": "Source manifest with asset IDs, crops, credits, publication state",
+   "ownerRole": "source-forensics",
+   "dependencies": [
+    "T0"
+   ],
+   "allowedPaths": [
+    "data/source-manifest.json",
+    "scripts/build_media.py"
+   ],
+   "deliverables": [
+    "data/source-manifest.json",
+    "public/media/**",
+    "src/content/media.generated.json"
+   ],
+   "acceptanceCriteria": [
+    "every public image traceable to file+page",
+    "third-party content excluded or credited"
+   ],
+   "status": "active",
+   "evidence": "forensics workflow (19 pages, find+verify) → sources/derived/notes/forensics/*.json; manifest entries for dissertation figures and portfolio pp.2–4 built",
+   "blockers": [],
+   "nextStep": "add manifest entries for portfolio pp.5–12 from verified forensics; capture 3D posters"
+  },
+  {
+   "id": "T2",
+   "objective": "Verified research notes from the dissertation",
+   "ownerRole": "editor",
+   "dependencies": [
+    "T0"
+   ],
+   "allowedPaths": [
+    "sources/derived/notes/"
+   ],
+   "deliverables": [
+    "sources/derived/notes/dissertation-notes.json"
+   ],
+   "acceptanceCriteria": [
+    "every claim carries a physical page reference",
+    "appendix personal data excluded"
+   ],
+   "status": "done",
+   "evidence": "src/content/research.ts written from dissertation pp.1–28 with page refs; annotations grounded in figures 1–9, 11; figure 10 (third-party) excluded",
+   "blockers": [],
+   "nextStep": "adversarial claim verification pass before release"
+  },
+  {
+   "id": "T3",
+   "objective": "Design system tokens, fonts, shell (header, footer, nav), typography",
+   "ownerRole": "art-director",
+   "dependencies": [
+    "T0"
+   ],
+   "allowedPaths": [
+    "src/app/globals.css",
+    "src/app/layout.tsx",
+    "src/components/site/"
+   ],
+   "deliverables": [
+    "tokens",
+    "shell"
+   ],
+   "acceptanceCriteria": [
+    "contrast pairs pass AA",
+    "fonts self-hosted"
+   ],
+   "status": "done",
+   "evidence": "globals.css tokens, fonts self-hosted (Fontsource), header/footer/nav, contrast checked by scripts/check_contrast.py",
+   "blockers": [],
+   "nextStep": ""
+  },
+  {
+   "id": "T4",
+   "objective": "Viewer shell and Maison Peplum interpretive model with presets and assembly slider",
+   "ownerRole": "graphics",
+   "dependencies": [
+    "T3"
+   ],
+   "allowedPaths": [
+    "src/components/viewer/",
+    "src/components/models/maison-peplum/"
+   ],
+   "deliverables": [
+    "ModelViewer",
+    "MaisonPeplumModel"
+   ],
+   "acceptanceCriteria": [
+    "drag rotates mesh",
+    "pause persists",
+    "assembly slider moves fin groups and reverses",
+    "fallback poster when no WebGL"
+   ],
+   "status": "active",
+   "evidence": "ModelViewer shell (src/components/viewer/model-viewer.tsx), canvas, camera rig, Maison Peplum procedural model; tests/viewer.spec.ts written",
+   "blockers": [],
+   "nextStep": "browser verification after first build; validate fin silhouette against p.8/p.12 renders"
+  },
+  {
+   "id": "T5",
+   "objective": "Music institution interpretive model with whole/plan/section presets and reveal",
+   "ownerRole": "reconstruction",
+   "dependencies": [
+    "T4"
+   ],
+   "allowedPaths": [
+    "src/components/models/music-institution/"
+   ],
+   "deliverables": [
+    "MusicInstitutionModel"
+   ],
+   "acceptanceCriteria": [
+    "presets work",
+    "section drawing accessible beside viewer"
+   ],
+   "status": "active",
+   "evidence": "delegated: src/components/models/music-institution/** (geometry, component, spec)",
+   "blockers": [],
+   "nextStep": ""
+  },
+  {
+   "id": "T6",
+   "objective": "Cairo research chapter: schematic atlas, case selector, annotations, narrative",
+   "ownerRole": "research-designer",
+   "dependencies": [
+    "T2",
+    "T3"
+   ],
+   "allowedPaths": [
+    "src/components/research/",
+    "src/content/research.ts",
+    "src/app/research/"
+   ],
+   "deliverables": [
+    "/research/cairo"
+   ],
+   "acceptanceCriteria": [
+    "case switch updates artwork, text, refs",
+    "no coordinates or scores"
+   ],
+   "status": "active",
+   "evidence": "delegated: src/components/research/** (CairoAtlas, AnnotatedFigure); page at src/app/research/cairo/page.tsx written",
+   "blockers": [],
+   "nextStep": ""
+  },
+  {
+   "id": "T7",
+   "objective": "Routes: /, /work, /work/[slug], /about, 404; drawing inspector",
+   "ownerRole": "frontend",
+   "dependencies": [
+    "T3"
+   ],
+   "allowedPaths": [
+    "src/app/",
+    "src/components/media/",
+    "src/components/site/"
+   ],
+   "deliverables": [
+    "all routes"
+   ],
+   "acceptanceCriteria": [
+    "direct URLs load",
+    "inspector zoom/pan/keyboard/focus return"
+   ],
+   "status": "active",
+   "evidence": "routes /, /work, /work/[slug], /research/cairo, /about, not-found written; media components (Figure, DrawingInspector) delivered",
+   "blockers": [],
+   "nextStep": "first build, screenshots at 360/390/768/1440/1920"
+  },
+  {
+   "id": "T8",
+   "objective": "QA: Playwright flows, axe scans, viewport screenshots, reduced motion, no-WebGL",
+   "ownerRole": "qa",
+   "dependencies": [
+    "T4",
+    "T5",
+    "T6",
+    "T7"
+   ],
+   "allowedPaths": [
+    "tests/",
+    "docs/QA.md"
+   ],
+   "deliverables": [
+    "tests",
+    "docs/QA.md"
+   ],
+   "acceptanceCriteria": [
+    "all essential flows pass or have documented blockers"
+   ],
+   "status": "active",
+   "evidence": "playwright.config.ts + tests/routes|viewer|inspector specs written (not yet run)",
+   "blockers": [],
+   "nextStep": ""
+  },
+  {
+   "id": "T9",
+   "objective": "Performance report, payload audit, render-loop checks",
+   "ownerRole": "performance",
+   "dependencies": [
+    "T8"
+   ],
+   "allowedPaths": [
+    "docs/PERFORMANCE.md"
+   ],
+   "deliverables": [
+    "docs/PERFORMANCE.md"
+   ],
+   "acceptanceCriteria": [
+    "measurements separated from targets"
+   ],
+   "status": "todo",
+   "evidence": "",
+   "blockers": [],
+   "nextStep": ""
+  },
+  {
+   "id": "T10",
+   "objective": "Release: README, HANDOFF, fresh-install check, credits audit",
+   "ownerRole": "release",
+   "dependencies": [
+    "T9"
+   ],
+   "allowedPaths": [
+    "README.md",
+    "docs/HANDOFF.md"
+   ],
+   "deliverables": [
+    "README.md",
+    "docs/HANDOFF.md"
+   ],
+   "acceptanceCriteria": [
+    "fresh checkout builds",
+    "no production notes public"
+   ],
+   "status": "todo",
+   "evidence": "",
+   "blockers": [],
+   "nextStep": ""
+  }
+ ]
 }

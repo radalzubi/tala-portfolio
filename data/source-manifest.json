@@ -1,0 +1,403 @@
+{
+ "note": "Asset provenance for the public site. Private build input: page/xref address embedded images under sources/derived/images (rebuilt by scripts/extract_sources.py); crop boxes are normalised 0-1. Public fields are copied to src/content/media.generated.json by scripts/build_media.py; private paths and hashes go to data/media-build-log.json.",
+ "assets": [
+  {
+   "id": "cx-fig-01",
+   "kind": "drawing",
+   "provenance": "derivative",
+   "source": {
+    "file": "dissertation",
+    "page": 12,
+    "xref": 36,
+    "figure": 1
+   },
+   "crop": [
+    0,
+    0,
+    1,
+    0.91
+   ],
+   "alt": "Hand-drawn skyline of Cairo's New Administrative Capital: a slender central tower flanked by blocky high-rises, black line with red pencil overlay.",
+   "caption": "Figure 1 — the skyline of the New Administrative Capital.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    960,
+    1536
+   ]
+  },
+  {
+   "id": "cx-fig-02",
+   "kind": "drawing",
+   "provenance": "derivative",
+   "source": {
+    "file": "dissertation",
+    "page": 13,
+    "xref": 39,
+    "figure": 2
+   },
+   "crop": [
+    0,
+    0.3,
+    1,
+    1
+   ],
+   "alt": "Perspective sketch of the New Administrative Capital's grand entrance: colonnaded blocks flank a wide axis with a tower behind, red pencil over black line.",
+   "caption": "Figure 2 — the grand entrance of the New Administrative Capital.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    960,
+    1536
+   ]
+  },
+  {
+   "id": "cx-fig-03",
+   "kind": "drawing",
+   "provenance": "original",
+   "source": {
+    "file": "dissertation",
+    "page": 13,
+    "xref": 40,
+    "figure": 3
+   },
+   "alt": "Sketch of a monumental New Administrative Capital building: a heavy roof slab over tall pylons, flanked by gridded office blocks, red pencil over black line.",
+   "caption": "Figure 3 — the building shape and size outline.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    960,
+    1536
+   ]
+  },
+  {
+   "id": "cx-fig-04",
+   "kind": "drawing",
+   "provenance": "derivative",
+   "source": {
+    "file": "dissertation",
+    "page": 14,
+    "xref": 43,
+    "figure": 4
+   },
+   "crop": [
+    0.02,
+    0.07,
+    0.97,
+    0.9
+   ],
+   "alt": "Freehand sketch of a corner building in West el Balad, Cairo: rounded turret with dome, tiered balconies and arched shopfronts, red pencil over black line.",
+   "caption": "Figure 4 — façade of a typical building in West el Balad.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    960,
+    1024
+   ]
+  },
+  {
+   "id": "cx-fig-05",
+   "kind": "drawing",
+   "provenance": "derivative",
+   "source": {
+    "file": "dissertation",
+    "page": 15,
+    "xref": 46,
+    "figure": 5
+   },
+   "crop": [
+    0,
+    0,
+    0.75,
+    1
+   ],
+   "alt": "Worm's-eye sketch of a curved bay-fronted apartment block in West el Balad, Cairo, its balconies and shop awning picked out in red pencil over black line.",
+   "caption": "Figure 5 — emphasis on balcony and street shading in West el Balad.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    960,
+    1152
+   ]
+  },
+  {
+   "id": "cx-fig-06",
+   "kind": "drawing",
+   "provenance": "derivative",
+   "source": {
+    "file": "dissertation",
+    "page": 15,
+    "xref": 47,
+    "figure": 6
+   },
+   "crop": [
+    0.02,
+    0.17,
+    0.88,
+    0.79
+   ],
+   "alt": "Sketch of a Zamalek apartment building's upper storeys: rounded corner bay, cornices, balconies and ground-floor arcade, red pencil over black line.",
+   "caption": "Figure 6 — typical exterior of a building in Zamalek.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    881
+   ]
+  },
+  {
+   "id": "cx-fig-07a",
+   "kind": "drawing",
+   "provenance": "derivative",
+   "source": {
+    "file": "dissertation",
+    "page": 16,
+    "xref": 50,
+    "figure": 7,
+    "note": "upper drawing"
+   },
+   "crop": [
+    0.11,
+    0.11,
+    0.935,
+    0.345
+   ],
+   "alt": "Freehand sketch looking up between two Zamalek buildings: windows either side and a red-pencil shading structure spanning the narrow street.",
+   "caption": "Figure 7 (upper) — worm's-eye view in the narrow streets between buildings, Zamalek.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    845
+   ]
+  },
+  {
+   "id": "cx-fig-07b",
+   "kind": "drawing",
+   "provenance": "derivative",
+   "source": {
+    "file": "dissertation",
+    "page": 16,
+    "xref": 50,
+    "figure": 7,
+    "note": "lower drawing"
+   },
+   "crop": [
+    0.07,
+    0.4,
+    1.0,
+    0.85
+   ],
+   "alt": "Freehand sketch of balconies and shaded bays stepping along a narrow gap between Zamalek buildings, balustrades picked out in red pencil.",
+   "caption": "Figure 7 (lower) — balconies and shading in Zamalek.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    952
+   ]
+  },
+  {
+   "id": "cx-fig-08",
+   "kind": "drawing",
+   "provenance": "original",
+   "source": {
+    "file": "dissertation",
+    "page": 16,
+    "xref": 51,
+    "figure": 8
+   },
+   "alt": "Freehand panoramic sketch of a Cairo Ashwa’iyat: dense informal rooftops, a minaret and taller blocks, with rooftop structures picked out in red pencil.",
+   "caption": "Figure 8 — Ashwa’iyat landscape overview.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    960,
+    1536
+   ]
+  },
+  {
+   "id": "cx-fig-09",
+   "kind": "drawing",
+   "provenance": "derivative",
+   "source": {
+    "file": "dissertation",
+    "page": 17,
+    "xref": 54,
+    "figure": 9
+   },
+   "crop": [
+    0.1,
+    0.04,
+    1,
+    0.84
+   ],
+   "alt": "Street-level sketch of Ashwa’iyat apartment blocks in Cairo, a tall tower and neighbouring slabs, windows and balconies marked over in red pencil.",
+   "caption": "Figure 9 — street view of a typical Ashwa’iyat façade.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    960,
+    1382
+   ]
+  },
+  {
+   "id": "cx-fig-11",
+   "kind": "drawing",
+   "provenance": "original",
+   "source": {
+    "file": "dissertation",
+    "page": 18,
+    "xref": 58,
+    "figure": 11
+   },
+   "alt": "Freehand sketch of a half-built Cairo apartment block: concrete frame, open stairs, brick infill and rebar, with red pencil marking unfinished construction.",
+   "caption": "Figure 11 — a semi-inhabited, broken-down Ashwaya (singular of Ashwa’iyat).",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    960,
+    1536
+   ]
+  },
+  {
+   "id": "mp-render-exterior",
+   "kind": "render",
+   "provenance": "derivative",
+   "source": {
+    "file": "portfolio",
+    "page": 2,
+    "xref": 6,
+    "note": "largest copy of the day render; the p.8 placement uses a smaller duplicate (xref 25)"
+   },
+   "crop": [
+    0,
+    0,
+    1,
+    0.889
+   ],
+   "alt": "Daytime render of Maison Peplum, Brentford: curved orange timber fins wrap an existing pitched-roof warehouse, with trees and a reflecting pool in front.",
+   "caption": "Daytime external render of Maison Peplum: repeated curved timber fins wrap the former Jupps Warehouse.",
+   "credit": "Render by Tala Hagras",
+   "widths": [
+    372
+   ],
+   "quality": 80
+  },
+  {
+   "id": "mi-render-exterior",
+   "kind": "render",
+   "provenance": "derivative",
+   "source": {
+    "file": "portfolio",
+    "page": 3,
+    "xref": 8,
+    "note": "caption strip cropped off; the same render appears on pp.1, 2 and 7"
+   },
+   "crop": [
+    0.16,
+    0.022,
+    1,
+    1
+   ],
+   "alt": "Dusk render of a circular two-storey music hall with a wide ring roof, glazed façades and figures on stepped terraces beside a reflecting pool.",
+   "caption": "External perspective of the Music Institution at dusk: the circular performance hall above a stepped landscape descending towards the water.",
+   "credit": "Render by Tala Hagras",
+   "widths": [
+    480,
+    817
+   ],
+   "quality": 78
+  },
+  {
+   "id": "mi-concept-axo",
+   "kind": "axonometric",
+   "provenance": "derivative",
+   "source": {
+    "file": "portfolio",
+    "page": 3,
+    "xref": 9,
+    "note": "exploded drawing cropped from the concept board; the board's collage vignettes of unstated authorship are excluded"
+   },
+   "crop": [
+    0.3,
+    0.225,
+    0.63,
+    1.0
+   ],
+   "alt": "Exploded isometric sketch of a circular music building: a ring of rooms around a central void above a performance hall with curved raked seating.",
+   "caption": "Concept sketch: an exploded isometric of the circular building, the ring of rooms lifted above the performance hall.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    401
+   ]
+  },
+  {
+   "id": "mi-concept-flow",
+   "kind": "drawing",
+   "provenance": "derivative",
+   "source": {
+    "file": "portfolio",
+    "page": 3,
+    "xref": 9,
+    "note": "flowing-lines motif cropped from the concept board"
+   },
+   "crop": [
+    0,
+    0.32,
+    0.3,
+    1.0
+   ],
+   "alt": "Hand-drawn flowing parallel lines like a curved musical stave, with a pair of quavers.",
+   "caption": "Concept board motif: flowing lines translate the movement of the canal into the paths through the building.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    365
+   ]
+  },
+  {
+   "id": "mi-site-plan",
+   "kind": "plan",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 4,
+    "xref": 11
+   },
+   "alt": "Site plan of the Music Institution, Reading: a circular building among trees, with curved stepped terraces descending to a canal crossing the site diagonally.",
+   "caption": "Site plan: the circular hall set within a stepped landscape of terraces and trees descending to the canal edge. No scale is stated in the source.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    960,
+    1400,
+    1763
+   ],
+   "quality": 78
+  },
+  {
+   "id": "mi-site-analysis",
+   "kind": "collage",
+   "provenance": "derivative",
+   "source": {
+    "file": "portfolio",
+    "page": 4,
+    "xref": 12,
+    "note": "truncated statement column cropped off"
+   },
+   "crop": [
+    0.222,
+    0,
+    1,
+    1
+   ],
+   "alt": "Site analysis collage: hand-drawn street plan with the site in red, graffiti walls, black-and-white weir photographs and people walking beside the canal.",
+   "caption": "Site analysis collage, layering a hand-drawn plan of the canal-side site with the graffiti, weirs and movement of people found along the water.",
+   "credit": "Collage by Tala Hagras",
+   "rightsNote": "The photographs within the collage are site documentation whose authorship is not stated in the portfolio.",
+   "widths": [
+    480,
+    960,
+    1356
+   ],
+   "quality": 76
+  }
+ ]
+}

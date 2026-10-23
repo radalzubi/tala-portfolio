@@ -1,0 +1,463 @@
+{
+ "assets": [
+  {
+   "id": "cx-fig-01",
+   "sourceFile": "sources/derived/images/dissertation/p12-x36-1536x1024.jpeg",
+   "sourceSha256": "4125bd33e39632c8f009d59a776c180e3d4cc5ce2979a256dcd97cc74088a576",
+   "nativeSize": [
+    1536,
+    1024
+   ],
+   "crop": [
+    0,
+    0,
+    1,
+    0.91
+   ],
+   "history": [
+    "decode",
+    "crop(0, 0, 1536, 932)",
+    "resize(480, 291)",
+    "resize(960, 582)",
+    "resize(1536, 932)"
+   ],
+   "outputs": [
+    "/media/cx-fig-01-480.jpg",
+    "/media/cx-fig-01-480.webp",
+    "/media/cx-fig-01-960.jpg",
+    "/media/cx-fig-01-960.webp",
+    "/media/cx-fig-01-1536.jpg",
+    "/media/cx-fig-01-1536.webp"
+   ]
+  },
+  {
+   "id": "cx-fig-02",
+   "sourceFile": "sources/derived/images/dissertation/p13-x39-1536x1024.jpeg",
+   "sourceSha256": "5ad05e58295cc2bdfdd853a48d927081db7e033c4dbb38eb2e803ca343870be7",
+   "nativeSize": [
+    1536,
+    1024
+   ],
+   "crop": [
+    0,
+    0.3,
+    1,
+    1
+   ],
+   "history": [
+    "decode",
+    "crop(0, 307, 1536, 1024)",
+    "resize(480, 224)",
+    "resize(960, 448)",
+    "resize(1536, 717)"
+   ],
+   "outputs": [
+    "/media/cx-fig-02-480.jpg",
+    "/media/cx-fig-02-480.webp",
+    "/media/cx-fig-02-960.jpg",
+    "/media/cx-fig-02-960.webp",
+    "/media/cx-fig-02-1536.jpg",
+    "/media/cx-fig-02-1536.webp"
+   ]
+  },
+  {
+   "id": "cx-fig-03",
+   "sourceFile": "sources/derived/images/dissertation/p13-x40-1536x1024.jpeg",
+   "sourceSha256": "5ec9968995f46c04660cb8f73f395cac38fa52b6ae5d9f448a93c5f994ae0950",
+   "nativeSize": [
+    1536,
+    1024
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 320)",
+    "resize(960, 640)",
+    "resize(1536, 1024)"
+   ],
+   "outputs": [
+    "/media/cx-fig-03-480.jpg",
+    "/media/cx-fig-03-480.webp",
+    "/media/cx-fig-03-960.jpg",
+    "/media/cx-fig-03-960.webp",
+    "/media/cx-fig-03-1536.jpg",
+    "/media/cx-fig-03-1536.webp"
+   ]
+  },
+  {
+   "id": "cx-fig-04",
+   "sourceFile": "sources/derived/images/dissertation/p14-x43-1024x1536.jpeg",
+   "sourceSha256": "35f11f2cbd0c23fadbec5909ab3ed3c7011bee4be1634366150c7ec560e49971",
+   "nativeSize": [
+    1024,
+    1536
+   ],
+   "crop": [
+    0.02,
+    0.07,
+    0.97,
+    0.9
+   ],
+   "history": [
+    "decode",
+    "crop(20, 108, 993, 1382)",
+    "resize(480, 628)",
+    "resize(960, 1257)",
+    "resize(973, 1274)"
+   ],
+   "outputs": [
+    "/media/cx-fig-04-480.jpg",
+    "/media/cx-fig-04-480.webp",
+    "/media/cx-fig-04-960.jpg",
+    "/media/cx-fig-04-960.webp",
+    "/media/cx-fig-04-973.jpg",
+    "/media/cx-fig-04-973.webp"
+   ]
+  },
+  {
+   "id": "cx-fig-05",
+   "sourceFile": "sources/derived/images/dissertation/p15-x46-1536x2048.jpeg",
+   "sourceSha256": "d67e3c09e35780e38c558edd6d606c351b461924e0b2559e992c727bb11e22bd",
+   "nativeSize": [
+    1536,
+    2048
+   ],
+   "crop": [
+    0,
+    0,
+    0.75,
+    1
+   ],
+   "history": [
+    "decode",
+    "crop(0, 0, 1152, 2048)",
+    "resize(480, 853)",
+    "resize(960, 1707)",
+    "resize(1152, 2048)"
+   ],
+   "outputs": [
+    "/media/cx-fig-05-480.jpg",
+    "/media/cx-fig-05-480.webp",
+    "/media/cx-fig-05-960.jpg",
+    "/media/cx-fig-05-960.webp",
+    "/media/cx-fig-05-1152.jpg",
+    "/media/cx-fig-05-1152.webp"
+   ]
+  },
+  {
+   "id": "cx-fig-06",
+   "sourceFile": "sources/derived/images/dissertation/p15-x47-1024x1536.jpeg",
+   "sourceSha256": "6800bf49f3fa22bcce268c3132edeaecc5a9084c4049bd0d79d1c39d3f914fc6",
+   "nativeSize": [
+    1024,
+    1536
+   ],
+   "crop": [
+    0.02,
+    0.17,
+    0.88,
+    0.79
+   ],
+   "history": [
+    "decode",
+    "crop(20, 261, 901, 1213)",
+    "resize(480, 519)",
+    "resize(881, 952)"
+   ],
+   "outputs": [
+    "/media/cx-fig-06-480.jpg",
+    "/media/cx-fig-06-480.webp",
+    "/media/cx-fig-06-881.jpg",
+    "/media/cx-fig-06-881.webp"
+   ]
+  },
+  {
+   "id": "cx-fig-07a",
+   "sourceFile": "sources/derived/images/dissertation/p16-x50-1024x1536.jpeg",
+   "sourceSha256": "6685af7da963812a99a1efb7f3c474caa63f60ec76c3cd34398336ba07c78280",
+   "nativeSize": [
+    1024,
+    1536
+   ],
+   "crop": [
+    0.11,
+    0.11,
+    0.935,
+    0.345
+   ],
+   "history": [
+    "decode",
+    "crop(113, 169, 957, 530)",
+    "resize(480, 205)",
+    "resize(844, 361)"
+   ],
+   "outputs": [
+    "/media/cx-fig-07a-480.jpg",
+    "/media/cx-fig-07a-480.webp",
+    "/media/cx-fig-07a-844.jpg",
+    "/media/cx-fig-07a-844.webp"
+   ]
+  },
+  {
+   "id": "cx-fig-07b",
+   "sourceFile": "sources/derived/images/dissertation/p16-x50-1024x1536.jpeg",
+   "sourceSha256": "6685af7da963812a99a1efb7f3c474caa63f60ec76c3cd34398336ba07c78280",
+   "nativeSize": [
+    1024,
+    1536
+   ],
+   "crop": [
+    0.07,
+    0.4,
+    1.0,
+    0.85
+   ],
+   "history": [
+    "decode",
+    "crop(72, 614, 1024, 1306)",
+    "resize(480, 349)",
+    "resize(952, 692)"
+   ],
+   "outputs": [
+    "/media/cx-fig-07b-480.jpg",
+    "/media/cx-fig-07b-480.webp",
+    "/media/cx-fig-07b-952.jpg",
+    "/media/cx-fig-07b-952.webp"
+   ]
+  },
+  {
+   "id": "cx-fig-08",
+   "sourceFile": "sources/derived/images/dissertation/p16-x51-1536x1024.jpeg",
+   "sourceSha256": "536cd3bc61f073be65b165596b6492ff6e0f986698626cd821cb4c630157911e",
+   "nativeSize": [
+    1536,
+    1024
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 320)",
+    "resize(960, 640)",
+    "resize(1536, 1024)"
+   ],
+   "outputs": [
+    "/media/cx-fig-08-480.jpg",
+    "/media/cx-fig-08-480.webp",
+    "/media/cx-fig-08-960.jpg",
+    "/media/cx-fig-08-960.webp",
+    "/media/cx-fig-08-1536.jpg",
+    "/media/cx-fig-08-1536.webp"
+   ]
+  },
+  {
+   "id": "cx-fig-09",
+   "sourceFile": "sources/derived/images/dissertation/p17-x54-1536x1024.jpeg",
+   "sourceSha256": "e0d18d676f0a59143d6f6b4037e31d2ca2cf00e5dea689550e3702bac901abd8",
+   "nativeSize": [
+    1536,
+    1024
+   ],
+   "crop": [
+    0.1,
+    0.04,
+    1,
+    0.84
+   ],
+   "history": [
+    "decode",
+    "crop(154, 41, 1536, 860)",
+    "resize(480, 284)",
+    "resize(960, 569)",
+    "resize(1382, 819)"
+   ],
+   "outputs": [
+    "/media/cx-fig-09-480.jpg",
+    "/media/cx-fig-09-480.webp",
+    "/media/cx-fig-09-960.jpg",
+    "/media/cx-fig-09-960.webp",
+    "/media/cx-fig-09-1382.jpg",
+    "/media/cx-fig-09-1382.webp"
+   ]
+  },
+  {
+   "id": "cx-fig-11",
+   "sourceFile": "sources/derived/images/dissertation/p18-x58-1536x1024.jpeg",
+   "sourceSha256": "38322e72bed027e3bcbed2ac41a80fad3da898b0eb57f8194d2d909cce600858",
+   "nativeSize": [
+    1536,
+    1024
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 320)",
+    "resize(960, 640)",
+    "resize(1536, 1024)"
+   ],
+   "outputs": [
+    "/media/cx-fig-11-480.jpg",
+    "/media/cx-fig-11-480.webp",
+    "/media/cx-fig-11-960.jpg",
+    "/media/cx-fig-11-960.webp",
+    "/media/cx-fig-11-1536.jpg",
+    "/media/cx-fig-11-1536.webp"
+   ]
+  },
+  {
+   "id": "mp-render-exterior",
+   "sourceFile": "sources/derived/images/portfolio/p02-x6-372x263.jpeg",
+   "sourceSha256": "3526c4791ed7563e292e9be8b5625bfff08c78b38218c97688d81812cabf0e14",
+   "nativeSize": [
+    372,
+    263
+   ],
+   "crop": [
+    0,
+    0,
+    1,
+    0.889
+   ],
+   "history": [
+    "decode",
+    "crop(0, 0, 372, 234)",
+    "resize(372, 234)"
+   ],
+   "outputs": [
+    "/media/mp-render-exterior-372.jpg",
+    "/media/mp-render-exterior-372.webp"
+   ]
+  },
+  {
+   "id": "mi-render-exterior",
+   "sourceFile": "sources/derived/images/portfolio/p03-x8-973x716.jpeg",
+   "sourceSha256": "e41c6d2f1834a869cb15d54bd2770c62e28688ec95cc21e6a80c077f3053ecd4",
+   "nativeSize": [
+    973,
+    716
+   ],
+   "crop": [
+    0.16,
+    0.022,
+    1,
+    1
+   ],
+   "history": [
+    "decode",
+    "crop(156, 16, 973, 716)",
+    "resize(480, 411)",
+    "resize(817, 700)"
+   ],
+   "outputs": [
+    "/media/mi-render-exterior-480.jpg",
+    "/media/mi-render-exterior-480.webp",
+    "/media/mi-render-exterior-817.jpg",
+    "/media/mi-render-exterior-817.webp"
+   ]
+  },
+  {
+   "id": "mi-concept-axo",
+   "sourceFile": "sources/derived/images/portfolio/p03-x9-1216x774.jpeg",
+   "sourceSha256": "2f22b836138e8308add462c5041d2e4436cd37b9c3c832c0e226155ce44963dc",
+   "nativeSize": [
+    1216,
+    774
+   ],
+   "crop": [
+    0.3,
+    0.225,
+    0.63,
+    1.0
+   ],
+   "history": [
+    "decode",
+    "crop(365, 174, 766, 774)",
+    "resize(401, 600)"
+   ],
+   "outputs": [
+    "/media/mi-concept-axo-401.jpg",
+    "/media/mi-concept-axo-401.webp"
+   ]
+  },
+  {
+   "id": "mi-concept-flow",
+   "sourceFile": "sources/derived/images/portfolio/p03-x9-1216x774.jpeg",
+   "sourceSha256": "2f22b836138e8308add462c5041d2e4436cd37b9c3c832c0e226155ce44963dc",
+   "nativeSize": [
+    1216,
+    774
+   ],
+   "crop": [
+    0,
+    0.32,
+    0.3,
+    1.0
+   ],
+   "history": [
+    "decode",
+    "crop(0, 248, 365, 774)",
+    "resize(365, 526)"
+   ],
+   "outputs": [
+    "/media/mi-concept-flow-365.jpg",
+    "/media/mi-concept-flow-365.webp"
+   ]
+  },
+  {
+   "id": "mi-site-plan",
+   "sourceFile": "sources/derived/images/portfolio/p04-x11-1763x1174.jpeg",
+   "sourceSha256": "cbe94edbfe88d88337d3ffed2593a46bf9fcad05b55edd828de09d69ce7de7a0",
+   "nativeSize": [
+    1763,
+    1174
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 320)",
+    "resize(960, 639)",
+    "resize(1400, 932)",
+    "resize(1763, 1174)"
+   ],
+   "outputs": [
+    "/media/mi-site-plan-480.jpg",
+    "/media/mi-site-plan-480.webp",
+    "/media/mi-site-plan-960.jpg",
+    "/media/mi-site-plan-960.webp",
+    "/media/mi-site-plan-1400.jpg",
+    "/media/mi-site-plan-1400.webp",
+    "/media/mi-site-plan-1763.jpg",
+    "/media/mi-site-plan-1763.webp"
+   ]
+  },
+  {
+   "id": "mi-site-analysis",
+   "sourceFile": "sources/derived/images/portfolio/p04-x12-1743x1146.jpeg",
+   "sourceSha256": "962214d9cb6770276bba59b662a41d6f580923c76a9d18543342c39da53db0ec",
+   "nativeSize": [
+    1743,
+    1146
+   ],
+   "crop": [
+    0.222,
+    0,
+    1,
+    1
+   ],
+   "history": [
+    "decode",
+    "crop(387, 0, 1743, 1146)",
+    "resize(480, 406)",
+    "resize(960, 811)",
+    "resize(1356, 1146)"
+   ],
+   "outputs": [
+    "/media/mi-site-analysis-480.jpg",
+    "/media/mi-site-analysis-480.webp",
+    "/media/mi-site-analysis-960.jpg",
+    "/media/mi-site-analysis-960.webp",
+    "/media/mi-site-analysis-1356.jpg",
+    "/media/mi-site-analysis-1356.webp"
+   ]
+  }
+ ]
+}

@@ -31,7 +31,8 @@ PUBLIC = ROOT / "public" / "media"
 GENERATED = ROOT / "src" / "content" / "media.generated.json"
 LOG = ROOT / "data" / "media-build-log.json"
 IMAGES = ROOT / "sources" / "derived" / "images"
-DEFAULT_WIDTHS = [480, 960, 1600]
+DEFAULT_WIDTHS = [480, 960, 1400]
+DEFAULT_QUALITY = 74  # JPEG quality; WebP uses quality-4. Override per asset with "quality".
 
 
 def find_source(asset: dict) -> Path:
@@ -86,7 +87,7 @@ def build_asset(asset: dict) -> tuple[dict, dict]:
     if w not in widths and w <= max(asset.get("widths", DEFAULT_WIDTHS)):
         widths.append(w)
     widths = sorted(set(widths))
-    quality = asset.get("quality", 82)
+    quality = asset.get("quality", DEFAULT_QUALITY)
     PUBLIC.mkdir(parents=True, exist_ok=True)
     variants = []
     for target_w in widths:
@@ -103,7 +104,7 @@ def build_asset(asset: dict) -> tuple[dict, dict]:
             out.convert("RGB").save(fn, "JPEG", quality=quality, optimize=True, progressive=True)
             variants.append({"src": f"/media/{fn.name}", "width": target_w, "height": target_h, "format": "jpg"})
         fn_webp = PUBLIC / f"{asset['id']}-{target_w}.webp"
-        out.save(fn_webp, "WEBP", quality=quality - 2, method=6)
+        out.save(fn_webp, "WEBP", quality=quality - 4, method=6)
         variants.append({"src": f"/media/{fn_webp.name}", "width": target_w, "height": target_h, "format": "webp"})
     public = {
         "id": asset["id"],

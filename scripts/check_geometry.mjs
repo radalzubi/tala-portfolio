@@ -10,7 +10,7 @@ const js = ts.default.transpileModule(src, { compilerOptions: { module: ts.defau
 mkdirSync(new URL("../.tmp", import.meta.url), { recursive: true });
 const out = new URL("../.tmp/geometry.mjs", import.meta.url);
 writeFileSync(out, js); // bare "three" resolves from node_modules
-const { buildFins, buildGable, PEPLUM } = await import(out.href);
+const { buildFins, buildGable } = await import(out.href);
 const fins = buildFins();
 const bb = new THREE.Box3();
 let tris = 0;

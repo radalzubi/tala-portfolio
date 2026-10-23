@@ -38,3 +38,18 @@ Each entry: decision, reason, consequence. Dates are 2026-10-23 unless noted.
     auto-rotate or a guided transition runs; user input cancels guided camera moves.
 13. **URL state:** view preset and assembly value live in the URL hash (`#view=assembly&fold=0.6`),
     replaced without history entries.
+14. **Poster-first on touch devices.** Nothing 3D loads on coarse-pointer devices until the visitor taps
+    “Explore in 3D”; the hero and study viewers show the still poster and all drawings. On fine pointers
+    the hero loads after the page has settled (`requestIdleCallback`) and study viewers load when they
+    come within 320 px of the viewport. Reason: mobile data, the gesture contract and the brief’s
+    poster-first mobile path.
+15. **Pointer contract.** Desktop: drag rotates immediately, wheel zoom only after the first click on
+    the stage (so the page keeps scrolling). Touch: rotate and pinch only while “engaged”, with a visible
+    “Done exploring” exit; `touch-action: pan-y` otherwise. Keyboard: arrows, + / −, 0, space and Escape
+    act only while the stage is focused.
+16. **Figure 7 of the dissertation is split** into its two stacked drawings (`cx-fig-07a`, `cx-fig-07b`)
+    because they are separate views sharing one caption; the split is recorded in the manifest notes.
+17. **Site analysis collage (portfolio p.4)** is published as a crop with a rights note: the collage is
+    Tala’s, but the site photographs inside it carry no stated authorship. Tracked in CONTENT_NEEDED.
+18. **Sound Aroma Loom** gets a labelled interpretive SVG diagram (`SensoryDiagram`) drawn from the written
+    description only; it is never presented as her artwork.

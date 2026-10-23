@@ -26,7 +26,8 @@ export interface CameraRigProps {
   state: ViewerState;
   dispatch: Dispatch<ViewerAction>;
   reducedMotion: boolean;
-  engaged: boolean;
+  rotateEnabled: boolean;
+  zoomEnabled: boolean;
   running: boolean; // in view and tab visible
   assemblyRef: RefObject<number>;
   lightRef: RefObject<THREE.DirectionalLight | null>;
@@ -45,7 +46,8 @@ export function CameraRig({
   state,
   dispatch,
   reducedMotion,
-  engaged,
+  rotateEnabled,
+  zoomEnabled,
   running,
   assemblyRef,
   lightRef,
@@ -230,8 +232,8 @@ export function CameraRig({
       ref={controlsRef}
       makeDefault
       enablePan={false}
-      enableZoom={engaged}
-      enableRotate={engaged}
+      enableZoom={zoomEnabled}
+      enableRotate={rotateEnabled}
       enableDamping
       dampingFactor={0.08}
       rotateSpeed={0.7}

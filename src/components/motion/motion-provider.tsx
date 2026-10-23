@@ -1,6 +1,6 @@
 "use client";
 
-import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from "react";
+import { createContext, useCallback, useContext, useEffect, useMemo, useSyncExternalStore, type ReactNode } from "react";
 
 export type MotionSetting = "system" | "reduced" | "full";
 
@@ -25,23 +25,46 @@ export const MOTION_STORAGE_KEY = "tala-motion";
 /** Inline script run before paint so a stored "reduced" choice never flashes full motion. */
 export const motionBootScript = `(function(){try{var v=localStorage.getItem(${JSON.stringify(MOTION_STORAGE_KEY)});if(v==="reduced"||v==="full"){document.documentElement.setAttribute("data-motion",v);}}catch(e){}})();`;
 
-export function MotionProvider({ children }: { children: ReactNode }) {
-  const [systemReduced, setSystemReduced] = useState(false);
-  const [setting, setSettingState] = useState<MotionSetting>("system");
+const REDUCED_QUERY = "(prefers-reduced-motion: reduce)";
 
-  useEffect(() => {
-    const mql = window.matchMedia("(prefers-reduced-motion: reduce)");
-    const sync = () => setSystemReduced(mql.matches);
-    sync();
-    mql.addEventListener("change", sync);
-    try {
-      const stored = localStorage.getItem(MOTION_STORAGE_KEY);
-      if (stored === "reduced" || stored === "full") setSettingState(stored);
-    } catch {
-      /* storage unavailable: keep system */
-    }
-    return () => mql.removeEventListener("change", sync);
-  }, []);
+function subscribeSystem(onChange: () => void) {
+  const mql = window.matchMedia(REDUCED_QUERY);
+  mql.addEventListener("change", onChange);
+  return () => mql.removeEventListener("change", onChange);
+}
+const readSystem = () => window.matchMedia(REDUCED_QUERY).matches;
+
+// Tiny external store for the visitor's explicit setting (persisted in localStorage).
+const listeners = new Set<() => void>();
+function readSetting(): MotionSetting {
+  try {
+    const stored = localStorage.getItem(MOTION_STORAGE_KEY);
+    return stored === "reduced" || stored === "full" ? stored : "system";
+  } catch {
+    return "system";
+  }
+}
+function subscribeSetting(onChange: () => void) {
+  listeners.add(onChange);
+  window.addEventListener("storage", onChange);
+  return () => {
+    listeners.delete(onChange);
+    window.removeEventListener("storage", onChange);
+  };
+}
+function writeSetting(next: MotionSetting) {
+  try {
+    if (next === "system") localStorage.removeItem(MOTION_STORAGE_KEY);
+    else localStorage.setItem(MOTION_STORAGE_KEY, next);
+  } catch {
+    /* storage unavailable: the in-memory listeners still update this session */
+  }
+  listeners.forEach((l) => l());
+}
+
+export function MotionProvider({ children }: { children: ReactNode }) {
+  const systemReduced = useSyncExternalStore(subscribeSystem, readSystem, () => false);
+  const setting = useSyncExternalStore(subscribeSetting, readSetting, () => "system" as MotionSetting);
 
   useEffect(() => {
     const root = document.documentElement;
@@ -49,15 +72,7 @@ export function MotionProvider({ children }: { children: ReactNode }) {
     else root.setAttribute("data-motion", setting);
   }, [setting]);
 
-  const setSetting = useCallback((next: MotionSetting) => {
-    setSettingState(next);
-    try {
-      if (next === "system") localStorage.removeItem(MOTION_STORAGE_KEY);
-      else localStorage.setItem(MOTION_STORAGE_KEY, next);
-    } catch {
-      /* ignore */
-    }
-  }, []);
+  const setSetting = useCallback((next: MotionSetting) => writeSetting(next), []);
 
   const value = useMemo<MotionContextValue>(
     () => ({
