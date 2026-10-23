@@ -1,0 +1,2472 @@
+{
+ "note": "Recovered from the interrupted image-forensics workflow (run wf_0a5e5f01-ffa). 'audit' = inspected then independently audited; 'inspect' = first pass only, not audited.",
+ "coverage": {
+  "dissertation-p12-14": "audit",
+  "dissertation-p15-16": "audit",
+  "dissertation-p17-18": "audit",
+  "portfolio-p01-03": "audit",
+  "portfolio-p04-05": "audit",
+  "portfolio-p06": "audit",
+  "portfolio-p07": "audit",
+  "portfolio-p08-09": "inspect",
+  "portfolio-p10-11": "audit",
+  "portfolio-p12": "inspect"
+ },
+ "images": [
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/dissertation/p12-x36-1536x1024.jpeg",
+   "document": "dissertation",
+   "page": 12,
+   "nativeSize": [
+    1536,
+    1024
+   ],
+   "description": "Freehand line sketch in black with red overlay strokes showing a row of high-rise towers on flat ground, dominated by one very tall slender central tower with a tripod-like base; the towers to the right have gridded facades and the rightmost is a tapering block with a slender tower rising from it. Loose scribbled ground lines run along the bottom. Dissertation Figure 1, captioned 'the Skyline of The New Administrative Capital'.",
+   "kind": "drawing",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "None. Original analytical sketch; no photographs, logos or published imagery embedded.",
+   "textVisible": "None.",
+   "quality": "1536 px wide JPEG on a clean white ground; line work is crisp and legible. Suitable for display at full width up to about 1500 px. Drawing occupies roughly y 3-89 per cent of the frame, so the bottom tenth is empty white and the trimmed crop is preferred.",
+   "useAsWhole": true,
+   "wholeCaption": "Skyline sketch of the New Administrative Capital, Cairo.",
+   "wholeAlt": "A loose black and red line sketch of a skyline of high-rise towers with one very tall slender tower at the centre.",
+   "subregions": [
+    {
+     "label": "skyline-trimmed",
+     "bboxNorm": [
+      0,
+      0.015,
+      1,
+      0.91
+     ],
+     "kind": "drawing",
+     "caption": "Skyline sketch of the New Administrative Capital, Cairo.",
+     "alt": "A black and red line sketch of a row of high-rise towers with one very tall slender tower at the centre.",
+     "thirdParty": false,
+     "recommendedUse": "hero",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/dissertation-p12-x36-skyline-trimmed.png",
+     "verified": true
+    },
+    {
+     "label": "central-group",
+     "bboxNorm": [
+      0.27,
+      0.015,
+      0.55,
+      0.81
+     ],
+     "kind": "drawing",
+     "caption": "Central tower of the New Administrative Capital skyline sketch.",
+     "alt": "Detail of a sketch showing a very tall slender tower on a tripod-like base, flanked by lower rectangular blocks.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/dissertation-p12-x36-central-group.png",
+     "verified": true
+    },
+    {
+     "label": "right-cluster",
+     "bboxNorm": [
+      0.578,
+      0.42,
+      0.912,
+      0.8
+     ],
+     "kind": "drawing",
+     "caption": "Cluster of gridded towers from the New Administrative Capital skyline sketch.",
+     "alt": "Detail of a sketch showing a group of rectangular towers with gridded facades and, on the right, a tapering block with a slender tower rising from it.",
+     "thirdParty": false,
+     "recommendedUse": "evidence-strip",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/dissertation-p12-x36-right-cluster.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "dissertation-p12-14"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/dissertation/p13-x39-1536x1024.jpeg",
+   "document": "dissertation",
+   "page": 13,
+   "nativeSize": [
+    1536,
+    1024
+   ],
+   "description": "Freehand one-point perspective sketch of a wide open approach flanked by colonnaded buildings, with a taller block behind the left colonnade and a small distant element at the vanishing point; converging black and red lines sweep across the empty foreground. The upper two-fifths of the image is blank white. Dissertation Figure 2, captioned 'The Grand Entrance of the New Administrative Capital'.",
+   "kind": "drawing",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "None. Original analytical sketch; no photographs, logos or published imagery embedded.",
+   "textVisible": "None.",
+   "quality": "1536 px wide JPEG; line work crisp. The top 39 per cent is empty white, so the trimmed crop (1536 x 655) is recommended for a banner-format figure. The drawing runs off the left, right and bottom edges.",
+   "useAsWhole": true,
+   "wholeCaption": "Perspective sketch of the grand entrance to the New Administrative Capital.",
+   "wholeAlt": "A black and red line perspective sketch looking down a wide empty approach between two colonnaded buildings, with converging lines across the foreground.",
+   "subregions": [
+    {
+     "label": "entrance-trimmed",
+     "bboxNorm": [
+      0,
+      0.36,
+      1,
+      1
+     ],
+     "kind": "drawing",
+     "caption": "Perspective sketch of the grand entrance to the New Administrative Capital.",
+     "alt": "A wide perspective sketch of an empty approach between two colonnaded buildings, with black and red lines converging towards a distant vanishing point.",
+     "thirdParty": false,
+     "recommendedUse": "hero",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/dissertation-p13-x39-entrance-trimmed.png",
+     "verified": true
+    },
+    {
+     "label": "left-colonnade",
+     "bboxNorm": [
+      0,
+      0.37,
+      0.5,
+      0.76
+     ],
+     "kind": "drawing",
+     "caption": "Colonnade and tower block at the entrance to the New Administrative Capital.",
+     "alt": "Detail of a sketch showing a long colonnade with a hatched entablature and a taller block rising behind it, with red lines over the column bases.",
+     "thirdParty": false,
+     "recommendedUse": "evidence-strip",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/dissertation-p13-x39-left-colonnade.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "dissertation-p12-14"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/dissertation/p13-x40-1536x1024.jpeg",
+   "document": "dissertation",
+   "page": 13,
+   "nativeSize": [
+    1536,
+    1024
+   ],
+   "description": "Freehand frontal sketch of a monumental building: a wide flat roof slab carried on two massive piers frames a recessed, stacked central facade, with lower gridded blocks cropped at either side; red vertical lines mark the pier edges and a few red horizontal datum lines cross the lower blocks. The drawing runs off the left, right and bottom edges, with only a narrow white margin above the roof slab. Dissertation Figure 3, captioned 'The Building Shape and Size Outline'.",
+   "kind": "drawing",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "None. Original analytical sketch; no photographs, logos or published imagery embedded.",
+   "textVisible": "None.",
+   "quality": "1536 px wide JPEG; line work crisp and legible. The composition is cropped at the left, right and bottom frame edges, so it reads best shown whole at up to about 1500 px.",
+   "useAsWhole": true,
+   "wholeCaption": "Sketch of a building's shape and massing in the New Administrative Capital.",
+   "wholeAlt": "A black and red line sketch of a monumental building with a wide flat roof slab on two massive piers framing a recessed stacked facade, with lower blocks either side.",
+   "subregions": [
+    {
+     "label": "central-portal",
+     "bboxNorm": [
+      0.385,
+      0.19,
+      0.636,
+      0.9
+     ],
+     "kind": "drawing",
+     "caption": "Recessed central facade between the piers of the monumental building sketch.",
+     "alt": "Detail of a sketch showing a tall recessed facade of stacked frames and a smaller building glimpsed through the opening.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/dissertation-p13-x40-central-portal.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "dissertation-p12-14"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/dissertation/p14-x43-1024x1536.jpeg",
+   "document": "dissertation",
+   "page": 14,
+   "nativeSize": [
+    1024,
+    1536
+   ],
+   "description": "Detailed freehand portrait sketch of an ornate corner building with a domed turret, curved balconies, pilasters, tall windows and a ground-floor arcade of arched shopfronts; red strokes highlight the turret, the corner balconies, a short stretch of the left facade and the left-hand shopfront arches. Dissertation Figure 4, captioned 'Façade of Typical Building in West el Balad'.",
+   "kind": "drawing",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "None. Original observational sketch; no photographs, logos or published imagery embedded.",
+   "textVisible": "None.",
+   "quality": "1024 x 1536 px portrait JPEG; dense line work is crisp and fully legible. Suitable as a portrait figure up to about 1000 px wide. The drawing occupies roughly x 6-95 and y 9-89 per cent of the frame; a small stray mark sits below the pavement line at the bottom left (about y 96 per cent) and the trimmed crop excludes it.",
+   "useAsWhole": true,
+   "wholeCaption": "Sketch of a typical corner building facade in West El Balad, Cairo.",
+   "wholeAlt": "A black and red line sketch of an ornate corner building with a domed turret, curved balconies and an arcade of arched shopfronts at street level.",
+   "subregions": [
+    {
+     "label": "facade-trimmed",
+     "bboxNorm": [
+      0.02,
+      0.07,
+      0.97,
+      0.92
+     ],
+     "kind": "drawing",
+     "caption": "Sketch of a typical corner building facade in West El Balad, Cairo.",
+     "alt": "A detailed line sketch of an ornate corner building with a domed turret, curved balconies and an arched shopfront arcade, with red highlights on the turret and balconies.",
+     "thirdParty": false,
+     "recommendedUse": "hero",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/dissertation-p14-x43-facade-trimmed.png",
+     "verified": true
+    },
+    {
+     "label": "corner-turret",
+     "bboxNorm": [
+      0.3,
+      0.08,
+      0.7,
+      0.49
+     ],
+     "kind": "drawing",
+     "caption": "Domed corner turret and balconies of a West El Balad building.",
+     "alt": "Detail of a sketch showing a domed turret with arched openings above two curved balconies, picked out in red line.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/dissertation-p14-x43-corner-turret.png",
+     "verified": true
+    },
+    {
+     "label": "ground-floor",
+     "bboxNorm": [
+      0.1,
+      0.73,
+      0.95,
+      0.89
+     ],
+     "kind": "drawing",
+     "caption": "Ground-floor shopfront arcade of a West El Balad corner building.",
+     "alt": "Detail of a sketch showing a curved row of arched shopfronts at street level, with red scribbled highlights over the left-hand arches.",
+     "thirdParty": false,
+     "recommendedUse": "evidence-strip",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/dissertation-p14-x43-ground-floor.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "dissertation-p12-14"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/dissertation/p15-x46-1536x2048.jpeg",
+   "document": "dissertation",
+   "page": 15,
+   "nativeSize": [
+    1536,
+    2048
+   ],
+   "description": "Worm's-eye hand-drawn line sketch looking up at a tall corner building with stacked curved balconies and decorative ironwork railings. A red overlay picks out several balcony fronts, a tall glazed balcony door and the large curved balcony at the base of the bay; a red awning projects from the neighbouring building on the left. A tree canopy rendered in grey stipple fills the lower left; a shopfront window with illegible scribbled signage sits at the far left. Dissertation Figure 5, captioned 'Emphasis on Balcony and Street Shading in West el Balad'.",
+   "kind": "drawing",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No photographs, logos or published imagery embedded; the page text introduces these as the author's analytical drawings.",
+   "textVisible": "None legible (scribbled marks in the lower-left window are not readable text).",
+   "quality": "1536x2048 JPEG, crisp black linework on a white ground with a red highlight layer; sharp enough for a full-width or hero figure. Ink stops at about 73% of the width, so roughly the right-hand quarter of the frame is empty white apart from one stray speck; the trimmed crop (1152x2048) removes it and is the preferred display asset.",
+   "useAsWhole": true,
+   "wholeCaption": "Figure 5. Balcony and street shading in West el Balad, with balconies, a balcony door and a street awning highlighted in red.",
+   "wholeAlt": "Hand-drawn upward view of a tall corner building with curved balconies, several balcony fronts and a neighbouring awning highlighted in red, with a tree canopy in the lower left.",
+   "subregions": [
+    {
+     "label": "west-el-balad-balconies",
+     "bboxNorm": [
+      0,
+      0,
+      0.75,
+      1
+     ],
+     "kind": "drawing",
+     "caption": "Balcony and street shading in West el Balad; balconies, a balcony door and a street awning highlighted in red.",
+     "alt": "Upward sketch of a tall corner building with stacked curved balconies, selected balcony fronts and a neighbouring awning drawn in red, framed by a tree canopy.",
+     "thirdParty": false,
+     "recommendedUse": "hero",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/dissertation-p15-x46-west-el-balad-balconies.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "dissertation-p15-16"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/dissertation/p15-x47-1024x1536.jpeg",
+   "document": "dissertation",
+   "page": 15,
+   "nativeSize": [
+    1024,
+    1536
+   ],
+   "description": "Hand-drawn line sketch of a classical corner building with a curved central bay, cornices, pilasters, balustraded balconies and a ground-floor arcade. A red overlay highlights rooftop parapet elements, a vertical stack of balconies at the left of the bay, a balcony on the right return, a first-floor balcony band with one window and the ground-floor arcade on the left face. Wide white margins surround the drawing. Dissertation Figure 6, captioned 'Typical Exterior of Building in Zamalek'.",
+   "kind": "drawing",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No photographs, logos or published imagery embedded; the page text introduces these as the author's analytical drawings.",
+   "textVisible": "None.",
+   "quality": "1024x1536 JPEG; the ink occupies about 850x910 px (x 3.5-87%, y 18-77%) inside wide white margins, so the trimmed crop (870x968) is the usable asset. Clean linework, suitable for a figure up to roughly 800 px wide; not large enough for a full-bleed hero.",
+   "useAsWhole": true,
+   "wholeCaption": "Figure 6. Typical building exterior in Zamalek, with balconies, parapet elements and the ground-floor arcade highlighted in red.",
+   "wholeAlt": "Hand-drawn sketch of a classical corner building with a curved bay, cornices and balustraded balconies, with selected balconies, rooftop elements and the ground-floor arcade picked out in red.",
+   "subregions": [
+    {
+     "label": "zamalek-corner-building",
+     "bboxNorm": [
+      0.03,
+      0.17,
+      0.88,
+      0.8
+     ],
+     "kind": "drawing",
+     "caption": "Typical building exterior in Zamalek; balconies, parapet elements and the ground-floor arcade highlighted in red.",
+     "alt": "Sketch of a classical corner building with a curved bay, cornices and balustraded balconies, with selected balconies, rooftop elements and the ground-floor arcade drawn in red.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/dissertation-p15-x47-zamalek-corner-building.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "dissertation-p15-16"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/dissertation/p16-x50-1024x1536.jpeg",
+   "document": "dissertation",
+   "page": 16,
+   "nativeSize": [
+    1024,
+    1536
+   ],
+   "description": "Composite of two hand-drawn sketches stacked vertically on a white ground with a wide gap between them. Top: a worm's-eye view looking up a narrow street between two building facades, with a red-highlighted overhead structure spanning the gap. Bottom: a view from above across box-like building volumes and balconies, with balcony railings in the foreground, a projecting overhang at top right and one central volume outlined in red. The two sketches form one figure image on the page: the caption 'Figure 7, Balconies and Shading in Zamalek, Worm's Eye View in the Narrow Streets Between Buildings' sits beside the top sketch, and the lower sketch sits beside the text on climate-responsive architecture with no separate caption.",
+   "kind": "drawing",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No photographs, logos or published imagery embedded; both sketches are presented as the author's analytical drawings.",
+   "textVisible": "None.",
+   "quality": "1024x1536 JPEG with the two drawings separated by empty rows (about 33-41% of the height) and empty bands top and bottom. The worm's-eye crop is about 840x346 px (wide, short) and the lower crop about 922x676 px; both are clean linework suited to figures up to roughly 800 px wide, not heroes.",
+   "useAsWhole": false,
+   "wholeCaption": "Figure 7. Balconies and shading in Zamalek: a worm's-eye view of a narrow street and a view across balconies and building volumes, with balconies and overhead structures highlighted in red.",
+   "wholeAlt": "Two stacked hand-drawn sketches: an upward view of a narrow street between two buildings with a red-highlighted structure overhead, and a view from above across building volumes and balconies with railings and overhangs picked out in red.",
+   "subregions": [
+    {
+     "label": "worms-eye-street",
+     "bboxNorm": [
+      0.11,
+      0.12,
+      0.93,
+      0.345
+     ],
+     "kind": "drawing",
+     "caption": "Worm's-eye view of a narrow street in Zamalek; the overhead structure spanning the street is highlighted in red.",
+     "alt": "Hand-drawn upward view between two building facades along a narrow street, with a red-highlighted structure spanning overhead.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/dissertation-p16-x50-worms-eye-street.png",
+     "verified": true
+    },
+    {
+     "label": "rooftop-balconies",
+     "bboxNorm": [
+      0.07,
+      0.4,
+      0.97,
+      0.84
+     ],
+     "kind": "drawing",
+     "caption": "View from above across balconies and box-like building volumes in Zamalek, with railings and overhangs highlighted in red.",
+     "alt": "Hand-drawn view from above across box-like building volumes and balconies, with balcony railings, a projecting overhang and one central volume outlined in red.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/dissertation-p16-x50-rooftop-balconies.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "dissertation-p15-16"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/dissertation/p16-x51-1536x1024.jpeg",
+   "document": "dissertation",
+   "page": 16,
+   "nativeSize": [
+    1536,
+    1024
+   ],
+   "description": "Panoramic hand-drawn line sketch of a dense informal urban landscape seen from an elevated viewpoint: low flat-roofed blocks packed together, a minaret on the skyline, taller apartment slabs to the right and rubble-strewn ground in the foreground. A red overlay picks out a scaffold-like structural frame at the left edge, a cluster of rooftop structures and canopies in the middle ground, a small group of buildings near the minaret and a rooftop enclosure at the right. Dissertation Figure 8, captioned 'Asha'iyat Landscape Overview', under the section heading '5.3 Ashwa'iyat and Informal Urbanism'.",
+   "kind": "drawing",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No photographs, logos or published imagery embedded; presented as one of the author's analytical drawings.",
+   "textVisible": "None.",
+   "quality": "1536x1024 JPEG, dense but legible linework running to the left and right edges (the drawing is cut by the frame in the source itself). Good for a full-width landscape figure or hero. The top 12% is empty sky above the minaret, so the trimmed crop (1536x922) is slightly tighter.",
+   "useAsWhole": true,
+   "wholeCaption": "Figure 8. Overview of an ashwa'iyat (informal settlement) landscape, with selected structures and rooftop additions highlighted in red.",
+   "wholeAlt": "Hand-drawn elevated view over a dense informal settlement of low flat-roofed blocks with a minaret on the skyline and taller apartment blocks to the right, with selected structures and rooftop additions outlined in red.",
+   "subregions": [
+    {
+     "label": "ashwaiyat-overview",
+     "bboxNorm": [
+      0,
+      0.1,
+      1,
+      1
+     ],
+     "kind": "drawing",
+     "caption": "Overview of an ashwa'iyat landscape; selected structures and rooftop additions highlighted in red.",
+     "alt": "Elevated sketch over a dense informal settlement of flat-roofed blocks with a minaret and taller apartment slabs behind, with selected structures and rooftop additions outlined in red.",
+     "thirdParty": false,
+     "recommendedUse": "hero",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/dissertation-p16-x51-ashwaiyat-overview.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "dissertation-p15-16"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/dissertation/p17-x54-1536x1024.jpeg",
+   "document": "dissertation",
+   "page": 17,
+   "nativeSize": [
+    1536,
+    1024
+   ],
+   "description": "Hand-drawn perspective sketch in black line with a red overlay, viewed from a low street-level eye point looking up at a cluster of tall apartment blocks with gridded façades of windows; lower stepped blocks sit at the left and a further block at the right edge. Red marks pick out window openings and façade panels across all the blocks. Published in the dissertation as Figure 9, 'Street View Ashwa'iyat Façade' (printed page 16).",
+   "kind": "drawing",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No third-party material visible. The dissertation abstract lists 'analytical urban drawings' as one of the author's methods and the paragraph immediately before this figure says 'Analytical drawings show the compact building and spatial organization', so the dissertation frames it as the author's own drawing. Provenance caveat: the file is a 1536x1024 JPEG with only a bare JFIF header (no EXIF, no software tag), and every sketch extracted from the dissertation is exactly 1536x1024 or 1024x1536, dimensions that also match common AI image-generator output sizes. Authorship therefore rests on the dissertation's framing alone; confirm with Tala before using it as a hero image.",
+   "textVisible": "None (no legible text in the image).",
+   "quality": "1536x1024 JPEG, clean white ground, crisp dark linework with no visible compression damage. Ink occupies roughly the top 84 percent of the frame with blank white below; the tight crop (1390x839) removes this. Suitable for display up to about 1400 px wide.",
+   "useAsWhole": true,
+   "wholeCaption": "Street view of Ashwa'iyat façades, Cairo. Analytical sketch with red overlay (dissertation Figure 9).",
+   "wholeAlt": "Hand-drawn perspective sketch looking up at a cluster of tall apartment blocks, their window grids drawn in black with scattered façade elements highlighted in red.",
+   "subregions": [
+    {
+     "label": "street-view-tight",
+     "bboxNorm": [
+      0.095,
+      0.03,
+      1,
+      0.85
+     ],
+     "kind": "drawing",
+     "caption": "Street view of Ashwa'iyat façades, Cairo. Analytical sketch with red overlay.",
+     "alt": "Hand-drawn perspective sketch looking up at a cluster of tall apartment blocks, window grids in black with façade elements highlighted in red.",
+     "thirdParty": false,
+     "recommendedUse": "hero",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/dissertation-p17-x54-street-view-tight.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "dissertation-p17-18"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/dissertation/p18-x57-1209x761.png",
+   "document": "dissertation",
+   "page": 18,
+   "nativeSize": [
+    1209,
+    761
+   ],
+   "description": "Elevated colour photograph over a dense district of brick apartment blocks under a hazy sky; a large mural of interlocking white, orange and teal calligraphic shapes spreads across the façades of a group of buildings at the centre, surrounded by flat rooftops, satellite dishes and piles of debris, with a taller tower block at the right edge and a city skyline fading into haze behind. Published as Figure 10, 'Artworks on Façade of the Ashwa'iyat seen from the Highway' (printed page 17).",
+   "kind": "site-photo",
+   "authorship": "third-party",
+   "thirdPartyNotes": "Published third-party photograph, not Tala's work. The mural is recognisable as eL Seed's anamorphic calligraffiti 'Perception' in Manshiyat Naser, Cairo, one of the most widely circulated images of that work; verify the identification before crediting. The file is a 1209x761 PNG tagged 96 dpi, consistent with a web screenshot or download rather than an original camera capture. The dissertation gives no photographer credit; the nearby text cites '(Molloy)' for the mural discussion, which may be the source article but is not a photo credit. Do not publish on the portfolio site without rights clearance and credit to both photographer and artist; otherwise exclude.",
+   "textVisible": "None.",
+   "quality": "1209x761 PNG; soft and hazy, with fine detail smeared in a way consistent with a downscaled or re-saved web image. Mid resolution, adequate for display up to about 800 px wide, but rights, not resolution, are the limiting factor.",
+   "useAsWhole": false,
+   "wholeCaption": "Artworks across the façades of the Ashwa'iyat, seen from the highway (dissertation Figure 10).",
+   "wholeAlt": "Elevated photograph of a dense brick neighbourhood with a large mural of interlocking white, orange and teal shapes spread across several building façades.",
+   "subregions": [],
+   "_stage": "audit",
+   "_batch": "dissertation-p17-18"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/dissertation/p18-x58-1536x1024.jpeg",
+   "document": "dissertation",
+   "page": 18,
+   "nativeSize": [
+    1536,
+    1024
+   ],
+   "description": "Hand-drawn elevation-style sketch in black line with a red overlay of an unfinished concrete-frame building: four storeys of frame stand above a low brick wall, the two upper floors are open with stair flights visible, the two lower floors are filled with brickwork, and reinforcement bars project from the tops of the columns and from the wall at the front. Red picks out selected brick panels, the stair flights, parts of the frame and the rebar. A low structure with columns adjoins at the left and a building with balconies at the right edge. Published as Figure 11, 'Semi Inhabited Broken Down Ashwaya (singular of Ashwaiyat)' (printed page 17).",
+   "kind": "drawing",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No third-party material visible. Presented in the dissertation as one of the author's analytical drawings, in the same hand and red-overlay convention as Figure 9. Same provenance caveat as p17-x54: a 1536x1024 JPEG with only a bare JFIF header (no EXIF, no software tag), in dimensions shared by every sketch in the dissertation and by common AI image-generator output sizes; authorship rests on the dissertation's framing and should be confirmed with Tala.",
+   "textVisible": "None (no legible text in the image).",
+   "quality": "1536x1024 JPEG, crisp linework on white. Ink runs to all four edges of the frame, so the whole image reads as a deliberately cropped elevation. Suitable for display up to about 1400 px wide. The stair-detail crop is only 368 px wide, so it is low resolution and should be shown at strip or thumbnail size only.",
+   "useAsWhole": true,
+   "wholeCaption": "Semi-inhabited Ashwaya block, Cairo. Analytical sketch of the concrete frame, brick infill and stairs, with red overlay (dissertation Figure 11).",
+   "wholeAlt": "Hand-drawn sketch of an unfinished four-storey concrete-frame building with brick infill, open stair flights and reinforcement bars sticking up from the columns, with selected parts highlighted in red.",
+   "subregions": [
+    {
+     "label": "main-building",
+     "bboxNorm": [
+      0.18,
+      0.035,
+      0.825,
+      1
+     ],
+     "kind": "drawing",
+     "caption": "Semi-inhabited Ashwaya block: concrete frame, brick infill and open stairs, with red overlay.",
+     "alt": "Near-square crop of a hand-drawn four-storey concrete-frame building with brick infill, open stair flights and reinforcement bars, parts highlighted in red.",
+     "thirdParty": false,
+     "recommendedUse": "hero",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/dissertation-p18-x58-main-building.png",
+     "verified": true
+    },
+    {
+     "label": "stair-detail",
+     "bboxNorm": [
+      0.41,
+      0.315,
+      0.65,
+      0.865
+     ],
+     "kind": "detail-drawing",
+     "caption": "Stair flights stacked through three floors of the Ashwaya block, picked out in red.",
+     "alt": "Close-up sketch of three stacked stair flights rising through a concrete frame with brick infill, highlighted in red.",
+     "thirdParty": false,
+     "recommendedUse": "evidence-strip",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/dissertation-p18-x58-stair-detail.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "dissertation-p17-18"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/dissertation/p01-x9-559x99.png",
+   "document": "dissertation",
+   "page": 1,
+   "nativeSize": [
+    559,
+    99
+   ],
+   "description": "Title-page header strip: the University of Reading shield-and-wordmark logo at the left and the words 'School of Architecture' in small bold type with a small boxed-cross symbol beneath at the right, on a white ground.",
+   "kind": "logo",
+   "authorship": "institutional-logo",
+   "thirdPartyNotes": "University of Reading trademark and School of Architecture mark; use is governed by the university's brand guidelines and it is not Tala's work. Exclude from portfolio imagery and credit the institution in text instead.",
+   "textVisible": "University of Reading / School of Architecture",
+   "quality": "559x99 PNG, low resolution and visibly soft; would not hold up beyond about 280 px wide. Rights, not resolution, are the main reason to exclude it.",
+   "useAsWhole": false,
+   "wholeCaption": "University of Reading, School of Architecture header from the dissertation title page.",
+   "wholeAlt": "University of Reading logo beside the words School of Architecture.",
+   "subregions": [],
+   "_stage": "audit",
+   "_batch": "dissertation-p17-18"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p01-x3-912x645.jpeg",
+   "document": "portfolio",
+   "page": 1,
+   "nativeSize": [
+    912,
+    645
+   ],
+   "description": "Cover image: a composite of a white left margin carrying a rotated two-line label and a dusk perspective render of the Project 01 music institution. The render shows a two-storey building with a curved white wall beneath a wide, flat ring roof with a central opening, glazed facades on both levels with lit interiors, stepped terraces with white figure silhouettes, a lit strip of water and wet reflective paving in the foreground, an open pergola-like frame at the far left, a timber-slatted drum building to the left and tree foliage overhanging the top right. This copy is a tighter crop of the same render that appears on page 3 (p03-x8): the right end of the ring roof and the glazed right-hand volume are clipped by the frame.",
+   "kind": "render",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No precedent photographs, logos or published images identified. The grainy sky backdrop, the tree-foliage cutout and the white figure silhouettes are standard render post-production assets of unidentified origin; they cannot be isolated from the render and the composed image is treated as the author's own work.",
+   "textVisible": "Rotated label in the white margin: \"INTERNAL and EXTERNAL / PERPECTIVE RENDER\" (sic; \"PERPECTIVE\" is misspelt in the source).",
+   "quality": "912 x 645 px, moderate resolution. Heavy grain in the sky (reads as a deliberate render treatment) and soft JPEG compression. The framing clips the right side of the building, so p03-x8 is the better master copy. The render crop measures 776 x 645 px; display at up to about 775 px wide.",
+   "useAsWhole": false,
+   "wholeCaption": "External perspective render of the music institution with its original sheet label.",
+   "wholeAlt": "A rotated label reading internal and external perspective render beside a dusk architectural render of a circular building with a ring-shaped roof, stepped terraces and water.",
+   "subregions": [
+    {
+     "label": "render",
+     "bboxNorm": [
+      0.149,
+      0,
+      1,
+      1
+     ],
+     "kind": "render",
+     "caption": "External perspective render at dusk: the music institution's circular building beneath a ring-shaped roof, approached across stepped terraces and water.",
+     "alt": "Dusk render of a two-storey circular building with a wide flat ring roof and glazed facades, white figures standing on stepped terraces, a lit strip of water in the foreground, a timber-slatted drum building to the left and tree foliage overhead.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p01-x3-render.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p01-03"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p02-x5-953x688.jpeg",
+   "document": "portfolio",
+   "page": 2,
+   "nativeSize": [
+    953,
+    688
+   ],
+   "description": "Contents-page image for Project 01: the same label-plus-render composite as p01-x3 and p03-x8. A white left margin carries a rotated two-line label; the render shows the music institution's circular building under its flat ring roof at dusk, with glazed facades on both levels, stepped terraces, white figure silhouettes, a lit water strip, an open pergola-like frame at the far left, a timber-slatted drum building at left and overhanging foliage. Framing matches p03-x8: the right end of the ring roof reaches the right edge of the frame. Marginally lower resolution than p03-x8.",
+   "kind": "render",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No precedent photographs, logos or published images identified. The grainy sky backdrop, tree-foliage cutout and white figure silhouettes are standard render post-production assets of unidentified origin and cannot be isolated from the render.",
+   "textVisible": "Rotated label in the white margin: \"INTERNAL and EXTERNAL / PERPECTIVE RENDER\" (sic).",
+   "quality": "953 x 688 px, moderate resolution; grainy sky texture and soft JPEG compression. Near-duplicate of p03-x8 at marginally lower resolution (render crop 797 x 686 px). Use p03-x8 as the master for any large display and keep this copy for contents-page or thumbnail use; it displays cleanly at up to about 780 px wide.",
+   "useAsWhole": false,
+   "wholeCaption": "External perspective render of the music institution with its original sheet label.",
+   "wholeAlt": "A rotated label reading internal and external perspective render beside a dusk architectural render of a circular building with a ring-shaped roof, stepped terraces and water.",
+   "subregions": [
+    {
+     "label": "render",
+     "bboxNorm": [
+      0.164,
+      0.003,
+      1,
+      1
+     ],
+     "kind": "render",
+     "caption": "External perspective render at dusk: the music institution's circular building beneath a ring-shaped roof, approached across stepped terraces and water.",
+     "alt": "Dusk render of a two-storey circular building with a wide flat ring roof and glazed facades, white figures standing on stepped terraces, a lit strip of water in the foreground, a timber-slatted drum building to the left and tree foliage overhead.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p02-x5-render.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p01-03"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p02-x6-372x263.jpeg",
+   "document": "portfolio",
+   "page": 2,
+   "nativeSize": [
+    372,
+    263
+   ],
+   "description": "Contents-page thumbnail for Project 02 (Maison Peplum). A daytime render of a building wrapped in curving vertical orange fins, with a white box-like volume and windows visible behind the fins, trees either side, a cloudy sky and a stretch of water in the lower left. Below the render (from row 234) is a white strip with a partly cut-off caption, and a sliver of an unrelated second image intrudes at the bottom-right corner.",
+   "kind": "render",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No precedent photographs, logos or published images identified; the render is of Tala's own Project 02 scheme. Trees, sky and background context are standard render assets of unidentified origin and cannot be isolated.",
+   "textVisible": "\"Day Time\" (caption, cut off at the bottom edge).",
+   "quality": "372 x 263 px, low resolution. Legible as a thumbnail only; the render crop is 372 x 234 px and should be displayed at native size or smaller (no wider than about 370 px). Check the Project 02 pages (08 to 12) for a larger copy of this render.",
+   "useAsWhole": false,
+   "wholeCaption": "Daytime render of Maison Peplum from the contents page.",
+   "wholeAlt": "Small daytime render of a building clad in curving orange vertical fins among trees, with a partly cut-off caption below.",
+   "subregions": [
+    {
+     "label": "render",
+     "bboxNorm": [
+      0,
+      0,
+      1,
+      0.89
+     ],
+     "kind": "render",
+     "caption": "Daytime render of Maison Peplum, its facade wrapped in curving vertical fins.",
+     "alt": "Daytime render of a building clad in curving orange vertical fins, set among trees beneath a cloudy sky with water in the foreground.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p02-x6-render.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p01-03"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p03-x9-1216x774.jpeg",
+   "document": "portfolio",
+   "page": 3,
+   "nativeSize": [
+    1216,
+    774
+   ],
+   "description": "A design-statement collage on a cream ground. Down the centre, three stacked hand-drawn elements between dotted vertical guide lines: a flat disc with a central circular opening (cut off at the top edge), a cutaway axonometric of a ring-shaped building with radial rooms around a central circular void, and a second cutaway axonometric with tiered seating in the centre (cut off at the bottom edge). Bands of flowing parallel lines sweep down the left side and pass under the rings, ending in a musical note. A column of design-statement body text at the top left is truncated at the left margin and top. To the right sit the heading DESIGN STATEMENT over a faded, ghosted drawing of concentric arcs subdivided into cells with dimension-style marks, a collaged vignette of a pianist and dancing couple on a music staff with a torn-paper edge, and fragments of handwritten-style sheet music at the bottom right.",
+   "kind": "collage",
+   "authorship": "mixed-contains-third-party",
+   "thirdPartyNotes": "The pianist-and-dancing-couple vignette has the look of a reproduced vintage illustration pasted in on a torn-paper element and is treated as third-party. The sheet-music fragments beneath the vignette and at the bottom right (treble and bass staves with notes on aged paper) appear to be reproduced notation and are also treated as third-party. The faded drawing of concentric arcs behind the heading is of uncertain origin, possibly a reproduced technical drawing used as a background texture, and is not cropped. The roof disc, the two cutaway axonometrics, the flow lines and the musical note are consistent with the author's own hand drawing.",
+   "textVisible": "Heading: \"DESIGN STATEMENT\". Left column, truncated at the left margin and top, is design-statement body text (not production notes); note the misspelling \"seemlessly\": \"...between architecture and music. / ...ance, but acts as translation of / ...e flow of the canal the flow of / ...paths and circular forms create a / ...g visitors through spaces in the / ...lds through time. / ...bedded seemlessly within the / ...ndary between performance and / ...circulation and informal seating, / ...eracting. Music and dance are no / ...pilled out towards the public.\"",
+   "quality": "1216 x 774 px, moderate resolution. The file is itself a crop of a larger sheet: the text column is truncated at the left, the roof disc at the top and the lower axonometric at the bottom. Pencil linework is soft but legible. Subregion crops are small (mid axonometric 413 x 338 px, lower axonometric 413 x 236 px, stacked pair 413 x 592 px, flow lines 341 x 480 px), so display them at native size or smaller.",
+   "useAsWhole": false,
+   "wholeCaption": "Design statement sheet for the music institution, with cutaway axonometrics of the circular building.",
+   "wholeAlt": "Collage sheet with three stacked hand-drawn circular building drawings, flowing lines with a musical note, a block of text, the heading design statement, and an illustration of a pianist and dancers.",
+   "subregions": [
+    {
+     "label": "mid-level-axonometric",
+     "bboxNorm": [
+      0.3,
+      0.235,
+      0.64,
+      0.672
+     ],
+     "kind": "axonometric",
+     "caption": "Cutaway axonometric from the design statement sheet: a ring of rooms around a central circular void.",
+     "alt": "Hand-drawn cutaway axonometric of a ring-shaped building showing radial rooms around a circular central space, with small figures inside.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p03-x9-mid-level-axonometric.png",
+     "verified": true
+    },
+    {
+     "label": "lower-level-axonometric",
+     "bboxNorm": [
+      0.3,
+      0.695,
+      0.64,
+      1
+     ],
+     "kind": "axonometric",
+     "caption": "Cutaway axonometric from the design statement sheet: a ring of rooms around central tiered seating.",
+     "alt": "Hand-drawn cutaway axonometric of a ring-shaped building with tiered seating in the central space and figures in the surrounding rooms, cut off at the bottom.",
+     "thirdParty": false,
+     "recommendedUse": "evidence-strip",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p03-x9-lower-level-axonometric.png",
+     "verified": true
+    },
+    {
+     "label": "mid-and-lower-axonometrics",
+     "bboxNorm": [
+      0.3,
+      0.235,
+      0.64,
+      1
+     ],
+     "kind": "axonometric",
+     "caption": "Stacked cutaway axonometrics of the circular building: a ring of rooms around a central void above a ring of rooms around tiered seating.",
+     "alt": "Two hand-drawn cutaway axonometrics of a ring-shaped building stacked vertically, the upper with a central void and the lower with tiered seating, the lower drawing cut off at the bottom.",
+     "thirdParty": false,
+     "recommendedUse": "evidence-strip",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p03-x9-mid-and-lower-axonometrics.png",
+     "verified": true
+    },
+    {
+     "label": "flow-lines",
+     "bboxNorm": [
+      0.02,
+      0.32,
+      0.3,
+      0.94
+     ],
+     "kind": "drawing",
+     "caption": "Concept sketch from the design statement sheet: bands of flowing lines ending in a musical note.",
+     "alt": "Hand-drawn sweeping parallel lines curving down a cream page, ending beside a small musical note.",
+     "thirdParty": false,
+     "recommendedUse": "evidence-strip",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p03-x9-flow-lines.png",
+     "verified": true
+    },
+    {
+     "label": "pianist-vignette",
+     "bboxNorm": [
+      0.64,
+      0.44,
+      1,
+      0.76
+     ],
+     "kind": "other",
+     "caption": "Collaged illustration of a pianist and dancing couple on a music staff.",
+     "alt": "Vintage-style drawing of a pianist at a grand piano and a couple dancing, placed on the lines of a music staff.",
+     "thirdParty": true,
+     "recommendedUse": "exclude",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p03-x9-pianist-vignette.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p01-03"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p03-x8-973x716.jpeg",
+   "document": "portfolio",
+   "page": 3,
+   "nativeSize": [
+    973,
+    716
+   ],
+   "description": "The Project 01 hero image on the project opener page: a white left margin with a rotated two-line label beside a dusk perspective render of the music institution. The render shows a two-storey building with a curved white wall beneath a wide, flat ring roof with a central opening, glazed facades on both levels with lit interiors, stepped terraces with white figure silhouettes, a lit strip of water and wet reflective paving in the foreground, an open pergola-like frame at the far left, a timber-slatted drum building to the left and tree foliage overhanging the top right. The right end of the ring roof reaches the right edge of the frame. Largest of the three copies of this render (p01-x3, p02-x5, p03-x8) and the most complete framing.",
+   "kind": "render",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No precedent photographs, logos or published images identified. The grainy sky backdrop, tree-foliage cutout and white figure silhouettes are standard render post-production assets of unidentified origin and cannot be isolated from the render.",
+   "textVisible": "Rotated label in the white margin: \"INTERNAL and EXTERNAL / PERPECTIVE RENDER\" (sic).",
+   "quality": "973 x 716 px, the best-resolution copy of this render; grainy sky texture (reads as intentional) and soft JPEG compression. The render crop is 817 x 700 px, so it can be displayed at up to about 800 px wide and serves as the master copy for the Project 01 hero.",
+   "useAsWhole": false,
+   "wholeCaption": "External perspective render of the music institution with its original sheet label.",
+   "wholeAlt": "A rotated label reading internal and external perspective render beside a dusk architectural render of a circular building with a ring-shaped roof, stepped terraces and water.",
+   "subregions": [
+    {
+     "label": "render",
+     "bboxNorm": [
+      0.1605,
+      0.0225,
+      1,
+      1
+     ],
+     "kind": "render",
+     "caption": "External perspective render at dusk: the music institution's circular building beneath a ring-shaped roof, approached across stepped terraces and water.",
+     "alt": "Dusk render of a two-storey circular building with a wide flat ring roof and glazed facades, white figures standing on stepped terraces, a lit strip of water in the foreground, a timber-slatted drum building to the left and tree foliage overhead.",
+     "thirdParty": false,
+     "recommendedUse": "hero",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p03-x8-render.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p01-03"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p04-x11-1763x1174.jpeg",
+   "document": "portfolio",
+   "page": 4,
+   "nativeSize": [
+    1763,
+    1174
+   ],
+   "description": "Softly rendered site plan of a ring-shaped building with a central circular space of curved stepped seating, set among trees between neighbouring city blocks and a diagonal canal. Curved stepped terraces run along the canal edge, three overlapping dot-edged circular areas with figures sit to the lower left, and a few parked cars stand on the road at the top right. No north arrow or scale is visible.",
+   "kind": "plan",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No third-party material visible. Tree, figure, furniture and car symbols are standard drawn entourage.",
+   "textVisible": "None legible.",
+   "quality": "1763 x 1174 px JPEG; linework is soft but legible; the drawing is clipped at all four edges by the source page layout (trees, blocks and cars cut). Suitable for display up to about 1400 px wide. The building-plan crop is only 459 px wide (low resolution) and should be shown at or below its native width.",
+   "useAsWhole": true,
+   "wholeCaption": "Site plan: the circular institution set within a stepped landscape running down to the canal.",
+   "wholeAlt": "Site plan showing a ring-shaped building with a central circular stepped space, surrounded by trees, with curved stepped terraces leading down to a canal and neighbouring city blocks around.",
+   "subregions": [
+    {
+     "label": "building-plan",
+     "bboxNorm": [
+      0.51,
+      0.17,
+      0.77,
+      0.5
+     ],
+     "kind": "plan",
+     "caption": "Plan detail of the circular building and its central stepped performance space.",
+     "alt": "Plan detail of a ring-shaped building with small furnished rooms around a central circular space of curved stepped seating, trees around it and outdoor tables to one side.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p04-x11-building-plan.png",
+     "verified": true
+    },
+    {
+     "label": "canal-terraces",
+     "bboxNorm": [
+      0.44,
+      0.52,
+      0.85,
+      0.98
+     ],
+     "kind": "plan",
+     "caption": "Curved stepped terraces and tree planting along the canal edge.",
+     "alt": "Plan detail of curved stepped terraces and trees beside a canal, with a row of plots on the opposite bank.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p04-x11-canal-terraces.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p04-05"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p04-x12-1743x1146.jpeg",
+   "document": "portfolio",
+   "page": 4,
+   "nativeSize": [
+    1743,
+    1146
+   ],
+   "description": "Mixed-media site-analysis collage. A sketched line map of streets and building footprints, with the site plot shaded red, a blue-grey canal band and red dashed arrows tracing routes, is layered with four photographs of graffiti-covered walls along the top, sepia-toned photographic cut-outs of walking pedestrians, two inset black-and-white photographs of water flowing past a lock or weir, a photographic water and vegetation texture in the lower right, and tall layered wave-like line drawings in grey, orange and red along the left. A column of first-person reflective text runs vertically beside the waves.",
+   "kind": "collage",
+   "authorship": "mixed-contains-third-party",
+   "thirdPartyNotes": "The graffiti pieces in the four wall photographs are other artists' work and the photographer is not identified; the pedestrian cut-outs read as stock photographic cut-outs; the two inset black-and-white photographs look like found aerial or archive imagery; the lower-right water and vegetation texture is also photographic and of unknown source. The line map, red plot, dashed movement lines and wave drawings read as Tala's own. The whole collage should be shown only if the photographs and cut-outs are confirmed as Tala's own or licensed.",
+   "textVisible": "Vertical text column, cut off at the top edge of the image: \"The graffiti surrounding the site strongly influenced my artistic approach to site analysis. I became fascinated by the raw c[...] colour, layering, and expression embedded within the site. Speaks volumes, a reflection of movement, identity, and comm[...] Alongside this, I was drawn to the rhythm and flow of the canal itself — the movement of runners, cyclists, pedestrians, an[...] created a continuous choreography across the site. I also explored surrounding sounds and voice waves, which began inf[...] my drawings and collages. Through this process, the site analysis evolved into a story about rhythm, circulation, creativity, dance, and movement within the urban landscape.\" Graffiti tags are partly legible (e.g. \"NEDS\", \"I NEED MONEY\"). The text reads as finished reflective prose rather than production notes, but it is truncated by the source crop and one sentence lacks a subject (\"Speaks volumes\").",
+   "quality": "1743 x 1146 px JPEG; the collage is clipped on all sides by the source page layout (text column, graffiti photographs and figures cut). Detail is soft and grainy; usable up to about 1200 px wide. The site-map crop (650 px wide) and the soundwaves strip (218 px wide) are low resolution and should be shown at or below native size.",
+   "useAsWhole": false,
+   "wholeCaption": "Site analysis collage: graffiti, canal movement and sound traces layered over a drawn map of the site.",
+   "wholeAlt": "Collage combining a sketched site map with a red-shaded plot, photographs of graffiti-covered walls, photographic cut-outs of pedestrians, two small black-and-white photographs of water and layered wave-like drawings, with a column of text along the left.",
+   "subregions": [
+    {
+     "label": "site-map",
+     "bboxNorm": [
+      0.215,
+      0.33,
+      0.588,
+      0.698
+     ],
+     "kind": "drawing",
+     "caption": "Drawn site map with the plot shaded red and dashed lines tracing movement across the site.",
+     "alt": "Sketched line map of streets and building footprints with the site plot filled in red, a blue-grey canal band and red dashed arrows marking routes.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p04-x12-site-map.png",
+     "verified": true
+    },
+    {
+     "label": "soundwaves",
+     "bboxNorm": [
+      0,
+      0,
+      0.125,
+      0.9
+     ],
+     "kind": "drawing",
+     "caption": "Layered sound-wave drawings tracing the rhythm of the site.",
+     "alt": "Tall narrow strip of layered, wave-like line drawings in grey, orange and red on a pale background.",
+     "thirdParty": false,
+     "recommendedUse": "evidence-strip",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p04-x12-soundwaves.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p04-05"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p05-x14-1946x1088.jpeg",
+   "document": "portfolio",
+   "page": 5,
+   "nativeSize": [
+    1946,
+    1088
+   ],
+   "description": "Long line section through a two-storey building: on the left a recording studio with a room of guitars and a drum kit above it, in the centre a sunken double-height performance space with stepped seating and a mezzanine corridor, and on the right a cafe, all beneath planted green roofs. Outside, a tree and a spherical woven pod chair stand on a terrace, and outdoor stepped seating descends to a road with a car. A construction key (CT01-CT20) sits top left and a space-use key (SU01-SU05) bottom left; CT and SU code labels annotate the drawing.",
+   "kind": "section",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "None. Figures, tree, furniture and car are drawn line entourage.",
+   "textVisible": "Heading \"Construction Technecality\" (clipped at the top edge; spelling as in source). Key: \"CT01 - CLT Pannel 220mm; CT02- Waterproof Vapour Control Membrane 150mm; CT03 - Protective Rigid Insulation Layer 150 mm; CT04 - Extensive Green Roof Planting Layer 150mm; CT05 - Drainage Barrier; CT06 - Acoustic Panneling 100mm; CT07 - PLY Wood 220mm; CT08 - Sound and Thermal Layer 150mm; CT09 - Ventilation Gap 20mm; CT10 - D.P.M 40mm; CT11 - Wall Finishing 20mm; CT12 - Floor Finishing 20mm; CT13 - Sound and Thermal Layer 150mm; CT14 - PLY Wood 220mm; CT15 - Acoustic Layer 60mm; CT16 - Hardcore 60mm; CT17 - Sand Cement Screed 60mm; CT18 - Damp Proof Membrane; CT19 - Concrete Slab 250mm; CT20 - Rigid Insulation 150mm\". Heading \"Space Use\" then \"SU01 - Recording Studios; SU02 - Double Height Perfomance Space; SU03 - Stepped Seating of Perfomance Space; SU04 - Cafe; SU05 - Mezzanine Hallway overlooking Perfomance Space\" (last line clipped at the bottom edge). Drawing labels SU01-SU07, CT01-CT05, CT12-CT20; SU06 and SU07 are not in the visible key, and SU01 is also placed on the roof planting and the outdoor steps. Grid numbers 6, 7, 8, 9, 0 clipped at the left edge. Spelling errors in the source: \"Technecality\", \"Pannel\", \"Panneling\", \"Perfomance\".",
+   "quality": "1946 x 1088 px JPEG; thin light-grey linework, legible at full width. Both key headings and the SU list are clipped by the source crop, so the whole image looks unfinished; the section-drawing crop (1928 x 531 px) is the clean version and suits display up to about 1900 px wide. Code labels become hard to read below about 1200 px wide.",
+   "useAsWhole": false,
+   "wholeCaption": "Long section through the institution with construction and space-use keys.",
+   "wholeAlt": "Architectural section through a two-storey building showing a recording studio, a double-height performance space with stepped seating, a mezzanine and a cafe beneath planted roofs, with outdoor steps descending to a road; lists of construction layers and space uses sit to the left.",
+   "subregions": [
+    {
+     "label": "section-drawing",
+     "bboxNorm": [
+      0.009,
+      0.39,
+      1,
+      0.878
+     ],
+     "kind": "section",
+     "caption": "Section through practice, performance and cafe spaces, continuing as stepped seating down to the street.",
+     "alt": "Line section of a two-storey building with a recording studio and a room of guitars on the left, a central double-height performance space with stepped seating and a mezzanine, a cafe and planted roofs, a tree and pod chair outside, and outdoor steps descending to a car at road level.",
+     "thirdParty": false,
+     "recommendedUse": "hero",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p05-x14-section-drawing.png",
+     "verified": true
+    },
+    {
+     "label": "section-building",
+     "bboxNorm": [
+      0.009,
+      0.39,
+      0.59,
+      0.855
+     ],
+     "kind": "section",
+     "caption": "Section detail: recording studios, the double-height performance space and the cafe.",
+     "alt": "Section detail showing a two-level studio block with guitars on the wall and a drum kit, a sunken performance space with stepped seating and performers, a mezzanine corridor above and a cafe with tables on the right.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p05-x14-section-building.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p04-05"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p05-x15-1804x1174.jpeg",
+   "document": "portfolio",
+   "page": 5,
+   "nativeSize": [
+    1804,
+    1174
+   ],
+   "description": "Exploded axonometric line drawing of the circular institution: a roof ring with rooftop garden and skylight (clipped at the top edge), a mezzanine ring of practice and dance rooms around a circular void, and the ground-floor ring with a central stepped performance space, recording studios, entrance, kitchen and bathroom, with tables and chairs beside its open side. The building sits on the site among neighbouring blocks, a fan of radiating steps, a curved outdoor stage wall, circular enclosures of slender posts and curved stepped terraces. A space-use key (SU01-SU14) sits top left; a vertical title runs along the right edge, clipped at both ends.",
+   "kind": "axonometric",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "None. Figures and furniture are drawn line entourage.",
+   "textVisible": "Heading clipped at the top edge (reads as \"SPACE USE\"). Key: \"SU01 - Outdoor Stepped Seating; SU02 - Outdoor Preformance Areas; SU03 - Cafe; SU04 - Indoor Preformance Space; SU05 - Recording Studio; SU06 - Fire Escape Stairs; SU07 - Mezzanine Round Hall above Main Preformance Area; SU08 - Practice Music Rooms; SU09 - Pracetice Dance Rooms; SU10 - Bathroom; SU11 - Kitchen; SU12 - Enterence / Registry; SU13 - Rooftop Garden; SU14 - Skylight\". Vertical text along the right edge, clipped at both ends: \"...DED AXONOMETRIC ------ SLIGHTLY SEMI INHABITED WITH CONE...\" (reads as \"EXPLODED AXONOMETRIC\"). Labels SU01, SU02, SU04-SU14 on the drawing. Spelling errors in the source: \"Preformance\", \"Pracetice\", \"Enterence\".",
+   "quality": "1804 x 1174 px JPEG; fine thin grey linework, legible. The roof ring is clipped at the top and the vertical title at both ends by the source crop; key text is small (about 14 px). The axon-full crop (1588 x 1137 px) removes the clipped title and suits display up to about 1500 px wide; the axon-building crop is only 460 px wide (low resolution) and should be shown at or below native size.",
+   "useAsWhole": false,
+   "wholeCaption": "Exploded axonometric of the institution and its landscape, with space-use key.",
+   "wholeAlt": "Exploded axonometric line drawing of a circular building separated into a roof ring, a mezzanine ring and a ground-floor ring, set among neighbouring blocks, outdoor stages and curved stepped terraces, with a key of fourteen space uses at top left and a vertical title along the right edge.",
+   "subregions": [
+    {
+     "label": "axon-full",
+     "bboxNorm": [
+      0,
+      0.012,
+      0.88,
+      0.98
+     ],
+     "kind": "axonometric",
+     "caption": "Exploded axonometric of the institution and its landscape, with space-use key.",
+     "alt": "Exploded axonometric line drawing showing a roof ring, a mezzanine ring of practice rooms and a ground-floor ring with a central stepped performance space, set among neighbouring blocks, a fan of radiating steps, circular post enclosures and curved stepped terraces; a key lists fourteen space uses at top left.",
+     "thirdParty": false,
+     "recommendedUse": "hero",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p05-x15-axon-full.png",
+     "verified": true
+    },
+    {
+     "label": "axon-building",
+     "bboxNorm": [
+      0.495,
+      0.165,
+      0.75,
+      0.785
+     ],
+     "kind": "axonometric",
+     "caption": "Exploded view of the mezzanine and ground-floor rings around the central performance space.",
+     "alt": "Two stacked ring-shaped floor plates drawn in line: the upper with practice and dance rooms around a circular void, the lower with a stepped performance space, recording studios, entrance, kitchen and bathroom, and tables and chairs beside its open side.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p05-x15-axon-building.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p04-05"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p06-x17-1885x1231.jpeg",
+   "document": "portfolio",
+   "page": 6,
+   "nativeSize": [
+    1885,
+    1231
+   ],
+   "description": "Composite board from the Material / Assembly / Technical Study spread. It combines two published interior photographs of the ABBA Arena (a pink-lit timber lattice roof, and bolted glulam columns beside a timber-clad kiosk with a grey fluted panel), a clipped heading reading ABBA STADIUM STRATFORD / MATERIAL REUSE, two columns of explanatory text, and a two-by-two grid of photographs of Tala's own timber model of a branching column, cut from thin plywood with dark cut edges and etched joint markings.",
+   "kind": "collage",
+   "authorship": "mixed-contains-third-party",
+   "thirdPartyNotes": "The two large interior photographs (top-left, pink-lit lattice ceiling; bottom-centre, bolted glulam columns and slatted kiosk) are published photographs of the ABBA Arena in Stratford, not Tala's own work. They must not be republished on the website without permission and photographer credit. The four model photographs in the top-right grid are Tala's own.",
+   "textVisible": "Heading (top line clipped): 'ABBA STADIUM STRATFORD' / 'MATERIAL REUSE'. Left column: 'Reclaimed glulam timber from the existing ABBA Arena structure after its lifespan, extending the life of the material rather than demolishing and discarding it' / 'The ABBA Arena uses a branching timber structural system made of' (cut off at bottom). Right column (cut off at right edge): 'I reinterpret this structure within my design through sloping timb[er] beams, exposed connections, and rhythmic structural intersectio[ns] that resemble musical notation and sound waves' / 'The reclaimed timber is reused as primary structural elements including roof beams, columns, and internal framing systems' / 'Exposed steel plates and bolts celebrate the construction proces[s] rather than hiding it, creating a more haptic and expressive architectural language' / 'Reusing the ABBA timber also reduces embodied carbon and supports circular construction principles through material reuse a[nd] adaptation' / 'The reused structure creates a connection between two' (cut off). The text reads as finished narrative rather than draft notes, but it is clipped at the top, right and bottom edges of the extracted image.",
+   "quality": "1885 x 1231 JPEG. The four model photographs are only 417 to 451 px wide by 331 to 346 px high when isolated, soft with mild JPEG blocking; display each at no more than about 450 px wide, or use the 892 x 705 grid crop at up to about 900 px. The ABBA photographs are about 900 px wide but are third-party. Heading and body text are clipped at the image edges, so the whole image is not presentable.",
+   "useAsWhole": false,
+   "wholeCaption": "Material reuse study: the ABBA Arena's branching timber structure alongside Tala's plywood model of a branching column.",
+   "wholeAlt": "Composite board with two photographs of a timber-framed arena interior, blocks of explanatory text, and four photographs of a small wooden model of a column that splits into angled branches.",
+   "subregions": [
+    {
+     "label": "model-grid",
+     "bboxNorm": [
+      0.511,
+      0,
+      0.984,
+      0.573
+     ],
+     "kind": "model-photo",
+     "caption": "Plywood study model of a branching column, seen from four angles.",
+     "alt": "Four photographs of a small wooden model of a column whose top splits into angled timber branches, each piece cut from thin plywood with dark cut edges and etched joint markings.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x17-model-grid.png",
+     "verified": true
+    },
+    {
+     "label": "model-1",
+     "bboxNorm": [
+      0.511,
+      0,
+      0.747,
+      0.269
+     ],
+     "kind": "model-photo",
+     "caption": "Branching column study model, angled view.",
+     "alt": "Small wooden model of a column whose top splits into several angled plywood branches, photographed against a white wall.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x17-model-1.png",
+     "verified": true
+    },
+    {
+     "label": "model-2",
+     "bboxNorm": [
+      0.759,
+      0,
+      0.984,
+      0.27
+     ],
+     "kind": "model-photo",
+     "caption": "Branching column study model, close view of the junction.",
+     "alt": "Close-up of a wooden model column where thin plywood branches meet the trunk, showing dotted etched joint markings.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x17-model-2.png",
+     "verified": true
+    },
+    {
+     "label": "model-3",
+     "bboxNorm": [
+      0.511,
+      0.292,
+      0.75,
+      0.573
+     ],
+     "kind": "model-photo",
+     "caption": "Branching column study model, front view.",
+     "alt": "Wooden model column with angled plywood branches spreading symmetrically from the top of the trunk.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x17-model-3.png",
+     "verified": true
+    },
+    {
+     "label": "model-4",
+     "bboxNorm": [
+      0.763,
+      0.292,
+      0.984,
+      0.573
+     ],
+     "kind": "model-photo",
+     "caption": "Branching column study model, detail of the trunk joint.",
+     "alt": "Close-up of the trunk of a wooden model column where two plywood layers meet beneath the branches, with an etched square joint marking.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x17-model-4.png",
+     "verified": true
+    },
+    {
+     "label": "abba-photo-1",
+     "bboxNorm": [
+      0,
+      0.071,
+      0.476,
+      0.561
+     ],
+     "kind": "precedent-photo",
+     "caption": "Published photograph of the ABBA Arena interior, with its timber lattice roof lit in pink.",
+     "alt": "Interior of a large timber-framed hall with a lattice of glulam beams lit in pink from above and a dark floor below.",
+     "thirdParty": true,
+     "recommendedUse": "exclude",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x17-abba-photo-1.png",
+     "verified": true
+    },
+    {
+     "label": "abba-photo-2",
+     "bboxNorm": [
+      0.107,
+      0.585,
+      0.595,
+      1
+     ],
+     "kind": "precedent-photo",
+     "caption": "Published photograph of the ABBA Arena interior, showing bolted steel plates at the glulam column heads.",
+     "alt": "Interior of a timber-framed hall with glulam columns joined by bolted steel plates, next to a timber-clad kiosk with a grey fluted panel.",
+     "thirdParty": true,
+     "recommendedUse": "exclude",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x17-abba-photo-2.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p06"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p06-x18-1926x1246.jpeg",
+   "document": "portfolio",
+   "page": 6,
+   "nativeSize": [
+    1926,
+    1246
+   ],
+   "description": "Construction technology drawing sheet. A legend lists fourteen layers (CT01 to CT14); two circular call-outs show a roof and parapet build-up and a wall-to-floor junction; leader lines connect them to a cut-away sectional perspective on the right showing a music room with a row of guitars on the wall, a drum kit, a microphone stand, an upright piano, a figure holding a guitar and a second figure beside a stair, beneath a densely planted roof. The section is drawn with thick dark cut bands and runs off the right and bottom edges.",
+   "kind": "detail-drawing",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "None apparent. Linework, labels and figures appear to be Tala's own drawing.",
+   "textVisible": "'CONSTRUCTION TECHNOLOGY'. Legend: 'CT01 - CLT Pannel 220mm / CT02- Waterproof Vapour Control Membrane 150mm / CT03 - Protective Rigid Insulation Layer 150 mm / CT04 - Extensive Green Roof Planting Layer 150mm / CT05 - Drainage Barrier / CT06 - Acoustic Panneling 100mm / CT07 - PLY Wood 220mm / CT08 - Sound and Thermal Layer 150mm / CT09 - Ventilation Gap 20mm / CT10 - D.P.M 40mm / CT11 - Wall Finishing 20mm / CT12 - Floor Finishing 20mm / CT13 - Sound and Thermal Layer 150mm / CT14 - PLY Wood 220mm' (spellings as in the original). Labels CT01 to CT04 on the roof detail and CT06 to CT14 on the wall-floor detail. No draft notes.",
+   "quality": "1926 x 1246 JPEG. Linework is crisp enough for the web at full width. The legend text is only about 12 px high and should be transcribed as HTML rather than read from the image. The top call-out circle is clipped at the top edge of the image, the sectional perspective runs off the right and bottom edges, and a third call-out circle is cut off at the bottom; these are inherent to the source. The two detail crops are about 650 px wide, the section fragment 684 x 785 px and the green-roof crop 588 x 405 px, so display them at no more than roughly their native width.",
+   "useAsWhole": true,
+   "wholeCaption": "Construction technology study: roof and wall-to-floor details called out from a sectional perspective of a music room beneath the planted roof.",
+   "wholeAlt": "Technical drawing sheet with a key of construction layers, two circular detail call-outs showing a roof build-up and a wall-to-floor junction, and a cut-away perspective of a music room beneath a planted roof.",
+   "subregions": [
+    {
+     "label": "roof-detail",
+     "bboxNorm": [
+      0.312,
+      0,
+      0.648,
+      0.458
+     ],
+     "kind": "detail-drawing",
+     "caption": "Roof and parapet build-up detail, layers CT01 to CT04.",
+     "alt": "Circular detail drawing of a flat roof edge showing four labelled layers, including a planting layer, above a hatched structural slab and parapet upstand.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x18-roof-detail.png",
+     "verified": true
+    },
+    {
+     "label": "wall-floor-detail",
+     "bboxNorm": [
+      0.199,
+      0.474,
+      0.536,
+      0.992
+     ],
+     "kind": "detail-drawing",
+     "caption": "Wall-to-floor junction detail, layers CT06 to CT14.",
+     "alt": "Circular detail drawing of an external wall meeting a floor slab, with labelled layers for acoustic panelling, plywood, insulation, a ventilation gap and finishes.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x18-wall-floor-detail.png",
+     "verified": true
+    },
+    {
+     "label": "section-fragment",
+     "bboxNorm": [
+      0.645,
+      0.33,
+      1,
+      0.96
+     ],
+     "kind": "section",
+     "caption": "Sectional perspective through a music room beneath the planted roof.",
+     "alt": "Cut-away line drawing of a room with a row of guitars on the wall, a drum kit, an upright piano and a figure holding a guitar, beneath a roof thickly planted with shrubs and small trees.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x18-section-fragment.png",
+     "verified": true
+    },
+    {
+     "label": "green-roof",
+     "bboxNorm": [
+      0.645,
+      0.33,
+      0.95,
+      0.655
+     ],
+     "kind": "drawing",
+     "caption": "Planted roof drawn in sectional perspective.",
+     "alt": "Line drawing of dense shrubs and small trees growing on a roof, with the thick dark band of the cut structure beneath and a small circular call-out at the edge.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x18-green-roof.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p06"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p06-x19-1946x1174.jpeg",
+   "document": "portfolio",
+   "page": 6,
+   "nativeSize": [
+    1946,
+    1174
+   ],
+   "description": "Collage of ten photographs of Tala's physical models. Five show a 1:200 site model built from laser-cut timber contour layers with curved terraces, a white cylindrical volume with a circular recess in its top, dark curved stepped seating pieces, white plan-cut pieces edged with small timber slats, and dried plant sprigs as trees. Two show a 1:20 tectonic model of the branching timber column with white panels between the branches and beside the trunk. Three show white 3D-printed curved section-model pieces with window openings and a curved stepped seating fragment.",
+   "kind": "collage",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "None. Studio desk clutter (other balsa and card models) is visible in the background of the tectonic model photographs but is incidental and not identifiable.",
+   "textVisible": "Labels: '1:200 SITE MODEL', '1:20 TECTONIC' (overlaid on the lower-left corner of the tall tectonic photograph), 'SECTION MODEL'. No draft notes.",
+   "quality": "1946 x 1174 JPEG. Phone-camera photographs with soft focus and warm studio lighting. Isolated photographs are all low resolution: the two small section-model photographs are only 270 x 360 and 257 x 355 px (thumbnail use only), the site-model photographs are 410 to 716 px wide, and the tall tectonic photograph is 579 x 775 px once the overlaid label is cropped off. Display each at no more than its native width; the widest site-model photograph (site-model-5, 716 px) and the tall tectonic photograph are the best single figures.",
+   "useAsWhole": true,
+   "wholeCaption": "Physical model-making: 1:200 site model, 1:20 tectonic model of the branching column and 3D-printed section model.",
+   "wholeAlt": "Collage of ten photographs of architectural models: a laser-cut timber site model with curved terraces, a white cylindrical building and dried-plant trees; a wooden model of a branching column; and white 3D-printed curved section pieces.",
+   "subregions": [
+    {
+     "label": "site-model-1",
+     "bboxNorm": [
+      0.005,
+      0.029,
+      0.304,
+      0.322
+     ],
+     "kind": "model-photo",
+     "caption": "1:200 site model with curved timber terraces, stepped seating pieces and a white cylindrical volume.",
+     "alt": "Laser-cut timber site model with stepped curved contour edges, dark semicircular stepped seating pieces, a white cylindrical block and dried plant sprigs as trees.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x19-site-model-1.png",
+     "verified": true
+    },
+    {
+     "label": "site-model-2",
+     "bboxNorm": [
+      0.005,
+      0.338,
+      0.304,
+      0.604
+     ],
+     "kind": "model-photo",
+     "caption": "1:200 site model viewed from a high angle, showing the plan layout of the circular elements.",
+     "alt": "High-angle view of a timber site model with a white cylindrical block, a dark curved seating piece, a white plan shape edged with small timber slats and scattered dried plant sprigs.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x19-site-model-2.png",
+     "verified": true
+    },
+    {
+     "label": "site-model-3",
+     "bboxNorm": [
+      0.005,
+      0.683,
+      0.302,
+      1
+     ],
+     "kind": "model-photo",
+     "caption": "1:200 site model, with the white cylindrical volume behind a curved seating piece and a slatted plan piece.",
+     "alt": "Timber site model seen at an angle, with a white cylindrical block at the back, a dark curved stepped seating piece in the middle, a white plan shape edged with timber slats in front, etched plan lines and dried plant sprigs.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x19-site-model-3.png",
+     "verified": true
+    },
+    {
+     "label": "tectonic-1",
+     "bboxNorm": [
+      0.321,
+      0.029,
+      0.529,
+      0.442
+     ],
+     "kind": "model-photo",
+     "caption": "1:20 tectonic model of the branching column, viewed from above the junction.",
+     "alt": "Close-up of a wooden model column with angled branches at the top and white panels between them, photographed in a studio with other models in the background.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x19-tectonic-1.png",
+     "verified": true
+    },
+    {
+     "label": "site-model-4",
+     "bboxNorm": [
+      0.318,
+      0.47,
+      0.529,
+      0.718
+     ],
+     "kind": "model-photo",
+     "caption": "1:200 site model showing the curved terraces and stepped seating pieces.",
+     "alt": "Angled view of a timber site model with layered curved terrace edges, dark semicircular seating pieces, a white cylindrical block and dried plant sprigs.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x19-site-model-4.png",
+     "verified": true
+    },
+    {
+     "label": "site-model-5",
+     "bboxNorm": [
+      0.318,
+      0.733,
+      0.686,
+      1
+     ],
+     "kind": "model-photo",
+     "caption": "1:200 site model at a low angle, with the curved terraces, seating pieces and cylindrical volume.",
+     "alt": "Low-angle view of a timber site model with layered curved terrace edges in the foreground, dark stepped seating pieces, a white cylindrical block and dried plant sprigs as trees.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x19-site-model-5.png",
+     "verified": true
+    },
+    {
+     "label": "tectonic-2",
+     "bboxNorm": [
+      0.546,
+      0.028,
+      0.844,
+      0.688
+     ],
+     "kind": "model-photo",
+     "caption": "1:20 tectonic model of the branching timber column with white infill panels.",
+     "alt": "Tall wooden model column whose top splits into angled plywood branches beneath a flat white panel, with white panels fixed between the branches and either side of the trunk.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x19-tectonic-2.png",
+     "verified": true
+    },
+    {
+     "label": "section-model-1",
+     "bboxNorm": [
+      0.86,
+      0.029,
+      0.999,
+      0.336
+     ],
+     "kind": "model-photo",
+     "caption": "3D-printed section model pieces: a curved wall segment with window openings and a curved stepped seating fragment.",
+     "alt": "Two small white 3D-printed model pieces on a desk: a curved wall segment with square window openings and a curved stepped seating fragment.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x19-section-model-1.png",
+     "verified": true
+    },
+    {
+     "label": "section-model-2",
+     "bboxNorm": [
+      0.868,
+      0.417,
+      1,
+      0.72
+     ],
+     "kind": "model-photo",
+     "caption": "3D-printed section model pieces viewed from the front.",
+     "alt": "Two small white 3D-printed model pieces: a curved wall segment with window openings behind a curved stepped seating fragment.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x19-section-model-2.png",
+     "verified": true
+    },
+    {
+     "label": "section-model-3",
+     "bboxNorm": [
+      0.712,
+      0.735,
+      1,
+      1
+     ],
+     "kind": "model-photo",
+     "caption": "3D-printed section model: close-up of the curved wall segment with window openings.",
+     "alt": "Close-up of a white 3D-printed curved wall segment divided into bays with square window openings, with a stepped piece partly visible at the corner.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p06-x19-section-model-3.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p06"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p07-x23-1095x658.jpeg",
+   "document": "portfolio",
+   "page": 7,
+   "nativeSize": [
+    1095,
+    658
+   ],
+   "description": "Composite of four workshop photographs of physical study models on a white ground: three views of a laser-cut timber site model with a layered contour base, curved stepped terraces, circular and spiral enclosures of timber fins, a small round plinth, a pale cylinder with a central void and dried-plant trees; plus a close-up of a laser-cut timber column meeting layered timber plates in a separate, larger-scale joint study. A clipped sliver of a fifth photograph (a timber piece and a thumb) runs along the far right edge, and the bottom-right panel is cut off at the bottom of the source.",
+   "kind": "model-photo",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No third-party material identified. All panels are workshop photographs of physical models consistent with the author's own project work. The joint close-up shows a person's thumb at the left edge and workshop clutter behind; it appears to be a separate, larger-scale joint study whose relationship to the site model is not stated in the image.",
+   "textVisible": "None legible. Faint laser-etched plan lines on the model base and a small etched mark on the joint-study column are not readable as text.",
+   "quality": "Native 1095x658 composite, so the individual panels are small: the two left panels are 572 px wide, the joint close-up 405 px and the clipped bottom-right panel 411 px. Low resolution: display the overview panels at no more than about 550 px wide and the joint detail at about 400 px. Visible JPEG compression. The far-right sliver is a clipped neighbouring photo and the bottom-right panel is cut off mid-model, so the whole image is unsuitable as a single figure.",
+   "useAsWhole": false,
+   "wholeCaption": "Physical study models: laser-cut timber terraces, circular pavilion enclosures and a column joint detail.",
+   "wholeAlt": "Four photographs of a timber and card architectural model with curved stepped terraces, ring-shaped fin enclosures and dried-plant trees, plus a close-up of a laser-cut timber column joint.",
+   "subregions": [
+    {
+     "label": "model-overview-a",
+     "bboxNorm": [
+      0,
+      0,
+      0.5224,
+      0.4438
+     ],
+     "kind": "model-photo",
+     "caption": "Study model from above: curved timber terraces step down beside circular pavilion enclosures.",
+     "alt": "Photograph of a timber architectural model showing curved stepped terraces, two enclosures of timber fins, a round timber plinth, a pale cylinder with a central void and small dried-plant trees.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p07-x23-model-overview-a.png",
+     "verified": true
+    },
+    {
+     "label": "model-overview-b",
+     "bboxNorm": [
+      0,
+      0.4726,
+      0.5224,
+      0.9468
+     ],
+     "kind": "model-photo",
+     "caption": "Study model: circular pavilions set among dried-plant trees on a base etched with the plan.",
+     "alt": "Photograph of a timber architectural model viewed from an angle, with a pale cylinder, spiral and circular enclosures of timber fins, a round plinth and dried-plant trees on a card base etched with plan lines.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p07-x23-model-overview-b.png",
+     "verified": true
+    },
+    {
+     "label": "model-joint-detail",
+     "bboxNorm": [
+      0.5525,
+      0,
+      0.9224,
+      0.6581
+     ],
+     "kind": "model-photo",
+     "caption": "Close-up of a laser-cut timber column meeting layered timber plates in a joint study model.",
+     "alt": "Close-up photograph of a laser-cut timber column with a branching top meeting layered flat timber plates, a white card panel behind it, a thumb at the left edge and workshop materials blurred in the background.",
+     "thirdParty": false,
+     "recommendedUse": "evidence-strip",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p07-x23-model-joint-detail.png",
+     "verified": true
+    },
+    {
+     "label": "model-overview-c",
+     "bboxNorm": [
+      0.547,
+      0.7082,
+      0.9224,
+      1
+     ],
+     "kind": "model-photo",
+     "caption": "Study model: pale cylinder, semicircular fin enclosure and dried-plant trees seen from the terrace edge.",
+     "alt": "Photograph of the timber study model, cut off at the bottom, showing a pale cylinder with a central void, a semicircular timber fin enclosure, a circular enclosure of fins and dried-plant trees.",
+     "thirdParty": false,
+     "recommendedUse": "exclude",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p07-x23-model-overview-c.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p07"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p07-x22-973x730.jpeg",
+   "document": "portfolio",
+   "page": 7,
+   "nativeSize": [
+    973,
+    730
+   ],
+   "description": "Two-panel composite. The right panel is an internal perspective render of a circular double-height space beneath a circular opening to the sky, with a balcony ring, timber-coloured doors, a perforated upper-level screen and a low curved wall, where white silhouettes of a singer, guitarist and drummer perform to a seated silhouette audience. The narrow left panel is a rainy dusk street scene with photographic texture: a large tree trunk, a low brick building, lamp posts, parked cars with red tail lights and two white silhouette figures.",
+   "kind": "render",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No precedent photographs, logos or published images identified. The interior panel is the author's render with silhouette entourage. The street strip reads as a photograph-based composite (tree, brick building, cars) treated with the same grain and rain effect; the source of those photographic elements cannot be identified from the image, and no identifiable building or published image appears.",
+   "textVisible": "None.",
+   "quality": "973x730 composite. The interior panel is 698x728 px, medium-low resolution: display at up to about 700 px wide; the grainy painterly texture is part of the treatment. The street strip is only 248x711 px, very low resolution, usable only as a small thumbnail of about 250 px or less. JPEG artefacts throughout.",
+   "useAsWhole": true,
+   "wholeCaption": "Internal perspective render of the circular performance space, paired with a rainy street view.",
+   "wholeAlt": "Two-panel image: a narrow rainy street scene with a large tree, a low brick building and parked cars beside an interior render of a circular double-height space where white silhouette musicians play to a seated audience beneath a balcony ring and a circular opening to the sky.",
+   "subregions": [
+    {
+     "label": "interior-render",
+     "bboxNorm": [
+      0.2734,
+      0.0027,
+      0.9908,
+      1
+     ],
+     "kind": "render",
+     "caption": "Internal perspective: musicians perform in the circular space beneath the balcony ring and the opening to the sky.",
+     "alt": "Interior render of a circular double-height space with a balcony ring, timber-coloured doors, a perforated screen and a low curved wall, where white silhouettes of a singer, guitarist and drummer perform to a seated silhouette audience beneath a circular opening.",
+     "thirdParty": false,
+     "recommendedUse": "hero",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p07-x22-interior-render.png",
+     "verified": true
+    },
+    {
+     "label": "street-strip",
+     "bboxNorm": [
+      0,
+      0.0027,
+      0.2549,
+      0.9767
+     ],
+     "kind": "collage",
+     "caption": "Street view at dusk in the rain beneath a mature tree.",
+     "alt": "Narrow view of a rainy street at dusk with a large tree trunk, a low brick building, lamp posts, parked cars and two white silhouette figures.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p07-x22-street-strip.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p07"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p07-x21-953x744.jpeg",
+   "document": "portfolio",
+   "page": 7,
+   "nativeSize": [
+    953,
+    744
+   ],
+   "description": "External perspective render at dusk in the rain: a circular two-storey glazed building with a flat ring roof with a central void, a timber-finned drum volume and an open post-and-beam frame to its left, stepped terraces descending to a lit strip of water, white silhouette figures, overhanging tree foliage at top right and a wet reflective foreground. A vertical text label is baked into the raster along the left edge.",
+   "kind": "render",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No third-party material identified. The sky, overhanging foliage and silhouette figures are generic render entourage; no identifiable published photograph or precedent building appears.",
+   "textVisible": "Vertical label at left, baked into the raster: \"INTERNAL and EXTERNAL / PERPECTIVE RENDER\" (sic: \"PERPECTIVE\" is a misspelling of \"PERSPECTIVE\").",
+   "quality": "953x744 composite; the render panel is 797x711 px, medium resolution: display at up to about 800 px wide. Heavy grain and noise is an intentional atmospheric treatment, compounded by JPEG compression. The misspelled label is part of the raster, so the whole image should not be published; use the render crop.",
+   "useAsWhole": false,
+   "wholeCaption": "External perspective render of the music institution at dusk in the rain.",
+   "wholeAlt": "Exterior render at dusk of a circular building with a flat ring roof above stepped terraces and a strip of water, with white silhouette figures and a vertical text label reading internal and external perspective render.",
+   "subregions": [
+    {
+     "label": "exterior-render",
+     "bboxNorm": [
+      0.1637,
+      0.0215,
+      1,
+      0.9772
+     ],
+     "kind": "render",
+     "caption": "External perspective at dusk: the ring roof over the circular building, with terraces stepping down to the water.",
+     "alt": "Exterior render at dusk in the rain of a circular two-storey glazed building with a flat ring roof, a timber-finned drum volume and an open frame structure to its left, stepped terraces descending to a lit strip of water, white silhouette figures and overhanging tree foliage.",
+     "thirdParty": false,
+     "recommendedUse": "hero",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p07-x21-exterior-render.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p07"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p08-x26-680x446.jpeg",
+   "document": "portfolio",
+   "page": 8,
+   "nativeSize": [
+    680,
+    446
+   ],
+   "description": "Concept collage for the Brentford adaptive-reuse project. A rendered street-level perspective of a two-storey building with a brick ground floor, timber-clad upper storey and a curved timber fin element sits beside a railway path with a walking figure and trees, against a pale-blue circle, a sun disc and bird silhouettes. Around it are gold parametric wire-mesh graphics, a line drawing of a peplum skirt, an ochre fashion illustration of a peplum jacket, a sketch-style view of a timber fin wall with figures, and a small sketch of the building.",
+   "kind": "collage",
+   "authorship": "mixed-contains-third-party",
+   "thirdPartyNotes": "The brick apartment block with balconies and planted terraces at upper-left (bbox approx 0.19-0.39, 0.30-0.56) is a photographic cut-out whose source is not stated; it may be the author's own site photograph but this could not be confirmed, so treat it as possibly sourced until Tala confirms. The grey residential block at left-middle sits within the rendered scene and reads as part of the author's render. Sun disc, blue circle and bird silhouettes are generic graphic elements. The building render, fin-wall sketch, wire-mesh graphics, jacket illustration and skirt drawing all read as the author's own.",
+   "textVisible": "\"oncept Collage\" (heading clipped at the image's left edge; reads \"Concept Collage\" on the page) and \"Parametric Wall Facade\". No draft or production notes.",
+   "quality": "680 x 446 px JPEG; low resolution. Usable as a whole at up to about 680 px wide. The heading is clipped at the image's own left edge, so the no-labels crop is preferred. Subregion crops are 290-680 px wide and suit small figures only.",
+   "useAsWhole": false,
+   "wholeCaption": "Concept collage: peplum-jacket studies, parametric fin graphics and a street view of the proposed building.",
+   "wholeAlt": "Collage of a rendered two-storey timber and brick building beside a railway path, surrounded by gold wire-mesh graphics and line drawings of a peplum jacket and skirt.",
+   "subregions": [
+    {
+     "label": "collage-nolabels",
+     "bboxNorm": [
+      0,
+      0.085,
+      1,
+      1
+     ],
+     "kind": "collage",
+     "caption": "Concept collage: peplum-jacket studies, parametric fin graphics and a street view of the proposed building.",
+     "alt": "Collage of a rendered timber and brick building beside a railway path with gold wire-mesh graphics and line drawings of a peplum jacket and skirt.",
+     "thirdParty": true,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p08-x26-collage-nolabels.png",
+     "verified": true
+    },
+    {
+     "label": "street-render",
+     "bboxNorm": [
+      0.28,
+      0.12,
+      0.71,
+      1
+     ],
+     "kind": "render",
+     "caption": "Street-level view of the proposed building, with a curved timber fin wrapping the upper storey.",
+     "alt": "Rendered street view of a two-storey building with a brick ground floor and timber-clad upper floor whose corner curves outward, with a person walking along a path beside a railway line.",
+     "thirdParty": true,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p08-x26-street-render.png",
+     "verified": true
+    }
+   ],
+   "_stage": "inspect",
+   "_batch": "portfolio-p08-09"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p08-x25-358x228.jpeg",
+   "document": "portfolio",
+   "page": 8,
+   "nativeSize": [
+    358,
+    228
+   ],
+   "description": "Exterior render of the proposed building: a boxy two-storey volume wrapped in tall vertical orange-timber fins that rise above the roofline and curve outward at the corner, above a dark recessed ground floor beside a pool of water, with trees, pale buildings and a cloudy sky behind.",
+   "kind": "render",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "None identified; the background buildings and sky read as part of the author's render.",
+   "textVisible": "None.",
+   "quality": "358 x 228 px, heavily compressed and visibly pixelated; the PDF page displays it stretched to roughly four times its size. Not suitable as a hero image. Honest display is up to about 360 px wide or as a thumbnail; a higher-resolution original should be sourced from the author if this view is to lead the project page.",
+   "useAsWhole": true,
+   "wholeCaption": "Exterior view: vertical timber fins wrap the building and rise above the roof.",
+   "wholeAlt": "Render of a two-storey building clad in tall vertical orange timber fins that curve outward at the corner, set beside water under a cloudy sky.",
+   "subregions": [],
+   "_stage": "inspect",
+   "_batch": "portfolio-p08-09"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p09-x30-673x481.jpeg",
+   "document": "portfolio",
+   "page": 9,
+   "nativeSize": [
+    673,
+    481
+   ],
+   "description": "Composite of five photographs of a laser-cut model of the proposed building, with repeated curved plywood fins over a white card structure, shown from above, from a corner, end-on, along its length and from the side. Gold parametric wire-mesh graphics are overlaid between the photographs and a caption reads \"1:200 Model Parametric Facade\".",
+   "kind": "model-photo",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "None; all photographs and graphics read as the author's own.",
+   "textVisible": "\"1:200 Model Parametric Facade\"",
+   "quality": "673 x 481 px composite. Individual photographs are 170-300 px wide after cropping, so they suit small figures, an evidence strip or thumbnails only. Photographs are reasonably sharp but small.",
+   "useAsWhole": true,
+   "wholeCaption": "1:200 model of the parametric façade: laser-cut curved fins over a card structure.",
+   "wholeAlt": "Five photographs of a laser-cut architectural model with rows of curved plywood fins on a white card structure, overlaid with gold wire-mesh graphics.",
+   "subregions": [
+    {
+     "label": "model-overhead",
+     "bboxNorm": [
+      0.34,
+      0,
+      0.73,
+      0.385
+     ],
+     "kind": "model-photo",
+     "caption": "Overhead view of the 1:200 model showing the rows of curved fins.",
+     "alt": "Close view from above of rows of curved laser-cut plywood fins on a model roof.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p09-x30-model-overhead.png",
+     "verified": true
+    },
+    {
+     "label": "model-corner",
+     "bboxNorm": [
+      0,
+      0,
+      0.305,
+      0.62
+     ],
+     "kind": "model-photo",
+     "caption": "Corner view of the 1:200 model: fins step down across two levels.",
+     "alt": "Architectural model viewed from a corner, with curved plywood fins arranged across two stepped levels.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p09-x30-model-corner.png",
+     "verified": true
+    },
+    {
+     "label": "model-end",
+     "bboxNorm": [
+      0.75,
+      0,
+      1,
+      0.25
+     ],
+     "kind": "model-photo",
+     "caption": "End view of the fin wall on the 1:200 model.",
+     "alt": "End-on view of curved plywood fins lining the edge of a card model.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p09-x30-model-end.png",
+     "verified": true
+    },
+    {
+     "label": "model-fins",
+     "bboxNorm": [
+      0.46,
+      0.525,
+      0.96,
+      0.83
+     ],
+     "kind": "model-photo",
+     "caption": "Side view of the 1:200 model with the curved fins meeting over the roof.",
+     "alt": "Side view of a card model with curved plywood fins rising from the walls and meeting over the roof.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p09-x30-model-fins.png",
+     "verified": true
+    },
+    {
+     "label": "model-long",
+     "bboxNorm": [
+      0,
+      0.7,
+      0.44,
+      1
+     ],
+     "kind": "model-photo",
+     "caption": "View along the length of the 1:200 model.",
+     "alt": "View along a long card model with curved plywood fins along its side and over its roof.",
+     "thirdParty": false,
+     "recommendedUse": "evidence-strip",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p09-x30-model-long.png",
+     "verified": true
+    }
+   ],
+   "_stage": "inspect",
+   "_batch": "portfolio-p08-09"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p09-x28-666x456.jpeg",
+   "document": "portfolio",
+   "page": 9,
+   "nativeSize": [
+    666,
+    456
+   ],
+   "description": "Garment-study sheet. A short text block at top-left describes deconstructing the peplum jacket; three hand-drawn pattern-cutting drafts with dimension annotations sit at upper right; two photographs of dark sketchbook pages carry white-line fashion sketches of peplum jackets and skirts; grey tonal drawings show a dress form, a draped jacket and a peplum skirt; and a line drawing of a double-breasted peplum jacket sits on a grey panel at lower right with a dress form and a small dress.",
+   "kind": "drawing",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "The sketchbook photographs are clearly the author's own. The pattern-cutting drafts (upper right) and the line-drawn jacket illustration (lower right) are of a type that could be adapted from published sewing patterns; no source is given and the text frames them as the author's own study, but confirm with Tala before publishing those two parts. A partial pattern piece at the top-right corner and the skirt drawing at the left edge are clipped by the image's own edges.",
+   "textVisible": "\"I began to deconstruct the peplum jacket and was fascinated by the free flow of fabric. The organic folds and natural bends within the material this brought to life my tectonic models\" (narrative text as written, ungrammatical; not a production note but excluded from crops). Pattern drafts carry hand-written dimension figures such as \"30\", \"40\", \"60\", \"20\". Sketchbook pages carry small hand-written labels not legible at this size.",
+   "quality": "666 x 456 px; the sketchbook photographs and pattern drafts are 90-230 px wide after cropping, so they are legible only as thumbnails or an evidence strip. The large text block at top-left should be excluded from any crop.",
+   "useAsWhole": false,
+   "wholeCaption": "Garment study: deconstructing the peplum jacket through sketches and pattern drafts.",
+   "wholeAlt": "Sheet of fashion studies including pattern-cutting drafts, photographs of sketchbook pages with white-line jacket sketches, grey drawings of a dress form and a line drawing of a peplum jacket.",
+   "subregions": [
+    {
+     "label": "sketchbook",
+     "bboxNorm": [
+      0.1,
+      0.365,
+      0.445,
+      0.72
+     ],
+     "kind": "drawing",
+     "caption": "Sketchbook pages: studies of the peplum jacket and skirt.",
+     "alt": "Two dark sketchbook pages with white-line sketches of peplum jackets, skirts and a figure.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p09-x28-sketchbook.png",
+     "verified": false
+    },
+    {
+     "label": "sketchbook-left",
+     "bboxNorm": [
+      0.1,
+      0.365,
+      0.265,
+      0.725
+     ],
+     "kind": "drawing",
+     "caption": "Sketchbook page: peplum jacket and skirt studies.",
+     "alt": "Dark sketchbook page with white-line sketches of a peplum jacket, skirt pieces and a figure.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p09-x28-sketchbook-left.png",
+     "verified": true
+    },
+    {
+     "label": "pattern-draft-a",
+     "bboxNorm": [
+      0.6,
+      0,
+      0.745,
+      0.36
+     ],
+     "kind": "drawing",
+     "caption": "Pattern draft for the peplum jacket bodice.",
+     "alt": "Hand-drawn pattern-cutting draft of a fitted bodice with dimension annotations.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p09-x28-pattern-draft-a.png",
+     "verified": true
+    },
+    {
+     "label": "pattern-draft-b",
+     "bboxNorm": [
+      0.74,
+      0,
+      0.875,
+      0.43
+     ],
+     "kind": "drawing",
+     "caption": "Pattern draft showing the flared peplum hem.",
+     "alt": "Hand-drawn pattern-cutting draft of a bodice with a flared hem and dimension annotations.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p09-x28-pattern-draft-b.png",
+     "verified": true
+    },
+    {
+     "label": "jacket-drawing",
+     "bboxNorm": [
+      0.64,
+      0.56,
+      1,
+      1
+     ],
+     "kind": "drawing",
+     "caption": "Line drawing of the peplum jacket with its flared hem.",
+     "alt": "Line drawing of a double-breasted peplum jacket with a flared hem, beside a small dress form on a grey background.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p09-x28-jacket-drawing.png",
+     "verified": true
+    }
+   ],
+   "_stage": "inspect",
+   "_batch": "portfolio-p08-09"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p09-x29-687x486.jpeg",
+   "document": "portfolio",
+   "page": 9,
+   "nativeSize": [
+    687,
+    486
+   ],
+   "description": "\"Tectonic Model Response\" composite. Three photographs show a tectonic model built from a grid of thin timber sticks on a cork base with folded white card fins and a card roof; three photographs show a white clay model with draped, folded surfaces on a black background. Two paragraphs of explanatory text sit between the photographs.",
+   "kind": "model-photo",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "None; all photographs read as the author's own model studies.",
+   "textVisible": "Heading: \"Tectonic Model Response\". Left paragraph, clipped at the image edge (first letters missing): \"y inital response was to the architectural / period at the time of the creation of the / peplum jacket- Neoclassism. An intense / focus on geometry, symmetry and linear / lines. I also aimed to take into account the / steel frame of Jupps Warehouse\". Second paragraph: \"Overtime, I developed more tectonics. Organic flowy movement- replicating the organic flowy folds of the peplum jacket. The first clay tectonic allowed me to discover the parametric facade style that I will later adopt and use for my building.\" Narrative text with spelling errors; crops avoid it.",
+   "quality": "687 x 486 px; individual photographs are 165-230 px wide after cropping and suit small figures, an evidence strip or thumbnails. The timber close-up is the sharpest. The left paragraph is clipped at the image's own edge.",
+   "useAsWhole": false,
+   "wholeCaption": "Tectonic model studies: a timber-grid frame with folded card fins, and a draped clay form.",
+   "wholeAlt": "Composite of photographs showing a small model built from a grid of timber sticks with folded white card fins, and a white clay model with draped, folded surfaces on a black background.",
+   "subregions": [
+    {
+     "label": "timber-closeup",
+     "bboxNorm": [
+      0.26,
+      0.11,
+      0.54,
+      0.75
+     ],
+     "kind": "model-photo",
+     "caption": "Tectonic model: folded card fins above a grid of timber sticks on a cork base.",
+     "alt": "Close view of a model with a grid of thin timber sticks on a cork base and folded white card fins projecting from the top.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p09-x29-timber-closeup.png",
+     "verified": true
+    },
+    {
+     "label": "timber-corner",
+     "bboxNorm": [
+      0,
+      0.05,
+      0.24,
+      0.42
+     ],
+     "kind": "model-photo",
+     "caption": "Corner of the timber-grid tectonic model.",
+     "alt": "Corner of a model with a white card roof and a grid of timber sticks over a cork base.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p09-x29-timber-corner.png",
+     "verified": true
+    },
+    {
+     "label": "timber-low",
+     "bboxNorm": [
+      0,
+      0.66,
+      0.24,
+      1
+     ],
+     "kind": "model-photo",
+     "caption": "Timber-grid tectonic model with its folded card roof.",
+     "alt": "Small model with a folded white card roof over a grid of timber sticks and a cork base.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p09-x29-timber-low.png",
+     "verified": true
+    },
+    {
+     "label": "clay-front",
+     "bboxNorm": [
+      0.54,
+      0,
+      0.855,
+      0.425
+     ],
+     "kind": "model-photo",
+     "caption": "Clay tectonic study: a square slab with a folded, draped surface.",
+     "alt": "White clay square with creased, draped folds across its surface, photographed on a black background.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p09-x29-clay-front.png",
+     "verified": true
+    },
+    {
+     "label": "clay-side",
+     "bboxNorm": [
+      0.67,
+      0.445,
+      1,
+      1
+     ],
+     "kind": "model-photo",
+     "caption": "Clay tectonic study seen from the side, showing the depth of the folds.",
+     "alt": "Side view of a white clay model with deep draped folds on a black background.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p09-x29-clay-side.png",
+     "verified": true
+    }
+   ],
+   "_stage": "inspect",
+   "_batch": "portfolio-p08-09"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p10-x34-588x466.jpeg",
+   "document": "portfolio",
+   "page": 10,
+   "nativeSize": [
+    588,
+    466
+   ],
+   "description": "Exploded axonometric of the Maison Peplum building in four stacked layers: a wavy roof of closely spaced ribs at the top and three floor plates below, each ringed by short fin lines, with numbered room areas and small black figures. A programme key runs down the left side of the image but is cut off at the left edge, so only the right-hand fragments of each line survive, and a heading above it is clipped to a few descender strokes. The roof touches the top edge and the lowest plate the bottom edge.",
+   "kind": "axonometric",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "None visible. Line drawing throughout; no photographs, logos or stock imagery.",
+   "textVisible": "Left-clipped programme key (fragments only): 'Cafe &', 'nd', 'pace', 'Outlet and Showroom', 'ns', '6.Washroom Stalls 7.Principle Studios', 's', 'aberdashery and Textiles Supplies', 'and', 'ft', 'or', 't 15.Offices 16.Storage Area(s)'. A heading above the key is clipped at the top edge to illegible fragments. Numerals 1 to 17 on the floor plates. 'Principle' spelt as in the image.",
+   "quality": "Low resolution (588 x 466 px). Line work is thin and light grey and the key text is small; the key is clipped at the left edge in the source, the roof at the top and the lowest plate at the bottom. The axonometric crop is 279 px wide, so display it no larger than roughly 280 px wide as a figure or evidence item, not as a hero.",
+   "useAsWhole": false,
+   "wholeCaption": "Exploded axonometric with programme key, Maison Peplum",
+   "wholeAlt": "Exploded axonometric drawing of a building separated into a ribbed roof and three floor plates with numbered rooms, beside a programme list that is cut off at the left edge.",
+   "subregions": [
+    {
+     "label": "exploded-axonometric",
+     "bboxNorm": [
+      0.4,
+      0,
+      0.875,
+      1
+     ],
+     "kind": "axonometric",
+     "caption": "Exploded axonometric of the roof and three floor levels, Maison Peplum",
+     "alt": "Exploded axonometric line drawing of a building separated into a wavy ribbed roof and three numbered floor plates edged with short fins and dotted with small figures.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p10-x34-exploded-axonometric.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p10-11"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p10-x32-687x426.jpeg",
+   "document": "portfolio",
+   "page": 10,
+   "nativeSize": [
+    687,
+    426
+   ],
+   "description": "Site plan with a floor plan of the building drawn in black line on a waterside plot; the plan shows internal partitions, a staircase, fittings and a row of round tables with chairs in the right-hand wing, and reads as the ground floor. Surrounding context buildings are white blocks with soft drop shadows on a pale beige ground, pale blue water with a faint wave texture wraps the lower and right sides of the plot, a grey road runs diagonally from the top centre to the bottom right, five rendered tree symbols sit around the building and a small jetty projects into the water at the left.",
+   "kind": "plan",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "None visible. Context buildings, water and road are drawn, not photographic; the trees are small rendered symbols.",
+   "textVisible": "No legible text.",
+   "quality": "Low resolution (687 x 426 px). The plan line work inside the building is very fine and will not read when enlarged. A thin dark frame line runs along the left, right and bottom edges of the image. Display at up to about 680 px wide as a figure; not suitable for a full-bleed hero.",
+   "useAsWhole": true,
+   "wholeCaption": "Site plan with ground floor, Maison Peplum",
+   "wholeAlt": "Site plan showing a building's ground-floor layout on a waterside plot, surrounded by white building blocks, a diagonal grey road, a few trees and a small jetty.",
+   "subregions": [],
+   "_stage": "audit",
+   "_batch": "portfolio-p10-11"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p10-x33-687x426.jpeg",
+   "document": "portfolio",
+   "page": 10,
+   "nativeSize": [
+    687,
+    426
+   ],
+   "description": "The same site plan as the ground-floor version but with a different floor plan of the building, drawn with a fringe of short fin lines around its whole perimeter and no trees; the fin fringe suggests an upper level. Inside the outline are partitions, a V-shaped element, small items of furniture and a few black dots. Context buildings are white blocks with soft shadows on a pale beige ground, pale blue water with a faint wave texture wraps the lower and right sides of the plot, a grey road runs diagonally from the top centre to the bottom right and a small jetty projects into the water at the left.",
+   "kind": "plan",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "None visible. Context buildings, water and road are drawn, not photographic.",
+   "textVisible": "No legible text.",
+   "quality": "Low resolution (687 x 426 px). Plan line work inside the building is very fine and the perimeter fin hatching will blur if enlarged. A thin dark frame line runs along the left, right and bottom edges of the image. Display at up to about 680 px wide as a figure; pairs naturally with the ground-floor site plan.",
+   "useAsWhole": true,
+   "wholeCaption": "Site plan with upper level, Maison Peplum",
+   "wholeAlt": "Site plan showing a building's upper-level layout with a fringe of fin lines around its edge, on a waterside plot surrounded by white building blocks and a diagonal grey road.",
+   "subregions": [],
+   "_stage": "audit",
+   "_batch": "portfolio-p10-11"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p11-x38-680x471.jpeg",
+   "document": "portfolio",
+   "page": 11,
+   "nativeSize": [
+    680,
+    471
+   ],
+   "description": "Composite sheet of façade assembly drawings. On the left, a vertical wall section through two floor junctions with a numbered build-up key (1 to 8), a full-height vertical line with small bracket symbols attached, and a tall wavy curve along the far left edge. On the right, an elevation of a wavy ribbed panel in a rectangular frame (clipped at the top and right edge), a thin horizontal section labelled 'Section' between two rules, and an axonometric labelled 'Axonometric' showing a hanger rib, panel support and ribbed panel. A single clipped letter sits at the top centre edge.",
+   "kind": "detail-drawing",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "None visible. Line drawings throughout; no photographs, logos or stock imagery.",
+   "textVisible": "Key: '1.Timber Steel Frames - exisiting 2.Thermal Insulation Between Boundries 3.CLT Cladding 4.Brick Cladding 5.Handing Rib 50 ml 6.Support Pannel 7.Spacer 8.Ventilation' (spellings as in the image: 'exisiting', 'Boundries', 'Handing', 'Pannel'). Labels 'Section', 'Axonometric', 'Hanger Rib', 'Pannel Support', 'Pannel'. Small numerals 1 to 8 on the section. One clipped, illegible letter at the top centre edge.",
+   "quality": "Low resolution (680 x 471 px). Very fine line work and small text; the key is readable only at native size. The panel elevation at top right is clipped at the top and right edge in the source. Crops are 177 to 306 px wide, so display them small, as figures in a detail strip rather than as a hero.",
+   "useAsWhole": false,
+   "wholeCaption": "Façade panel assembly drawings, Maison Peplum",
+   "wholeAlt": "Sheet of line drawings showing a wall section with a numbered key, a ribbed panel elevation, a thin section and an axonometric of the panel hanger system.",
+   "subregions": [
+    {
+     "label": "facade-detail-section",
+     "bboxNorm": [
+      0.12,
+      0.03,
+      0.57,
+      0.99
+     ],
+     "kind": "detail-drawing",
+     "caption": "Wall section through the façade with build-up key",
+     "alt": "Vertical wall section through two floor junctions with a numbered key listing timber-steel frames, insulation, CLT and brick cladding, hanging rib, support panel, spacer and ventilation.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p11-x38-facade-detail-section.png",
+     "verified": true
+    },
+    {
+     "label": "panel-axonometric",
+     "bboxNorm": [
+      0.65,
+      0.52,
+      1,
+      1
+     ],
+     "kind": "axonometric",
+     "caption": "Axonometric of the ribbed panel, hanger rib and panel support",
+     "alt": "Axonometric line drawing of a ribbed panel hung from a diagonal hanger rib and panel support, with the labels Axonometric, Hanger Rib, Pannel Support and Pannel.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p11-x38-panel-axonometric.png",
+     "verified": true
+    },
+    {
+     "label": "panel-elevation",
+     "bboxNorm": [
+      0.74,
+      0,
+      1,
+      0.34
+     ],
+     "kind": "drawing",
+     "caption": "Elevation of the ribbed façade panel",
+     "alt": "Partial elevation of a ribbed panel drawn with wavy horizontal lines inside a rectangular frame, cut off at the top and right.",
+     "thirdParty": false,
+     "recommendedUse": "exclude",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p11-x38-panel-elevation.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p10-11"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p11-x37-687x461.jpeg",
+   "document": "portfolio",
+   "page": 11,
+   "nativeSize": [
+    687,
+    461
+   ],
+   "description": "Façade assembly drawing in black line. A numbered key (1 to 10) sits at the top left; beside it a partial sectional perspective shows a vertical fin element and glazing frame in front of a shop interior with three mannequins, a brick wall and display shelving. Two circular enlarged call-outs at the bottom detail the hanger rib connection and the cross-braced steel frame. Roof lines are clipped at the top and the call-out circles at the bottom; the right third of the image is empty white.",
+   "kind": "detail-drawing",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "None visible. Mannequin figures are drawn line symbols; no photographs, logos or stock imagery.",
+   "textVisible": "Key: '1.Unistrut Connector 2.Hanger Rib 3.Fin Support Rib 4.Fins 5.Screen Brackets 6.Glazing Wall Frame 7.Glazing Spandrels 8.Cantiliver Steel Beam 9.Mullions and Transoms 10.Cross brassing Steel Frames in btween each window' (spellings as in the image: 'Cantiliver', 'brassing', 'btween'). Numerals 1 to 10 placed on the drawing and call-outs; the '10' in the right call-out is clipped at the bottom edge.",
+   "quality": "Low resolution (687 x 461 px). Fine line work; the key is readable at native size only. Roof lines clipped at the top and call-out circles clipped at the bottom in the source; about a third of the width is blank margin. After trimming, the crop is 375 px wide, so display at that size or smaller as a figure.",
+   "useAsWhole": false,
+   "wholeCaption": "Façade assembly details with key, Maison Peplum",
+   "wholeAlt": "Line drawing of a façade assembly with a numbered key, a sectional perspective of a shop interior behind a fin and glazing frame, and two enlarged circular details.",
+   "subregions": [
+    {
+     "label": "facade-assembly",
+     "bboxNorm": [
+      0.12,
+      0,
+      0.665,
+      1
+     ],
+     "kind": "detail-drawing",
+     "caption": "Façade assembly: fins, glazing frame and bracing details",
+     "alt": "Façade assembly drawing with a ten-item key, a sectional perspective through fins and glazing into a shop interior with mannequins, and two circular enlargements of the hanger connection and cross-braced frame.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p11-x37-facade-assembly.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p10-11"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p11-x36-687x456.jpeg",
+   "document": "portfolio",
+   "page": 11,
+   "nativeSize": [
+    687,
+    456
+   ],
+   "description": "Rendered cross-section through a gabled building wrapped in curved wood-textured fin elements at the roof and both sides. Inside, white brick walls enclose three levels of shop and studio spaces with mannequins, black silhouette figures, a tiered ring pendant light and a timber staircase; a café area with tables sits at ground level and a small annex at the right contains a chalkboard and seated figure. Below, the ground build-up is labelled gravel, stone and sand with a concrete floor and steel foundation supports; water with a wave texture lies to the left.",
+   "kind": "section",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No precedent photographs or logos. The fins are filled with a photographic wood-grain texture and the people are black silhouette cut-outs of the kind supplied by rendering libraries; their source is not identified in the image. They are integrated rendering materials within Tala's own drawing rather than standalone third-party images, so the whole is treated as her own work.",
+   "textVisible": "'Steel Beams Cross Brassing', 'Cantilever Steel Beam', 'Gravel', 'Stone', 'Sand', 'Concrete Flooring', 'Steel Foundation Support', and '1: 50 (m)' partially clipped at the bottom edge. 'Brassing' spelt as in the image.",
+   "quality": "Low resolution for a hero (687 x 456 px). Annotation labels are tiny and the scale note is clipped at the bottom. Display at up to about 680 px wide; works as the lead section figure or a modest hero in a text column, but not full-bleed.",
+   "useAsWhole": true,
+   "wholeCaption": "Section through Maison Peplum showing the timber-fin envelope and interior",
+   "wholeAlt": "Rendered cross-section of a gabled building wrapped in curved timber fins, showing three levels of shop and studio spaces with figures and mannequins, a staircase, a ground-floor café, layered ground beneath and water to the left.",
+   "subregions": [
+    {
+     "label": "section-hero",
+     "bboxNorm": [
+      0,
+      0,
+      1,
+      0.975
+     ],
+     "kind": "section",
+     "caption": "Section through Maison Peplum",
+     "alt": "Rendered cross-section of a gabled building wrapped in curved timber fins, showing three levels of shop and studio spaces with figures and mannequins, a staircase, a ground-floor café, layered ground beneath and water to the left.",
+     "thirdParty": false,
+     "recommendedUse": "hero",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p11-x36-section-hero.png",
+     "verified": true
+    }
+   ],
+   "_stage": "audit",
+   "_batch": "portfolio-p10-11"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p12-x40-394x289.jpeg",
+   "document": "portfolio",
+   "page": 12,
+   "nativeSize": [
+    394,
+    289
+   ],
+   "description": "Exterior night-time render of Maison Peplum: a two-storey block wrapped in tall curving timber-coloured fins lit from within, under a dark storm-clouded sky, with a tree at left, a glazed and lit ground floor, and a dark reflective pool or paved forecourt in the foreground. A small fragment of another image (foliage and a roof edge) is pasted over the bottom-right corner of the file.",
+   "kind": "render",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No third-party material identified. The bottom-right fragment is a sliver of a neighbouring render from the same portfolio page, not external content.",
+   "textVisible": "None.",
+   "quality": "394 x 289 px, very low resolution with heavy JPEG softening and blocking in the sky and fins. Usable only as a small inline image (display at about 300 px, no wider than 394 px); not suitable as a hero.",
+   "useAsWhole": false,
+   "wholeCaption": "Night-time render of the fin-wrapped facade, Maison Peplum",
+   "wholeAlt": "Night render of a two-storey building wrapped in glowing curved timber fins under a dark cloudy sky, with a tree to the left and a dark reflective forecourt in front.",
+   "subregions": [
+    {
+     "label": "exterior-night",
+     "bboxNorm": [
+      0,
+      0,
+      1,
+      0.845
+     ],
+     "kind": "render",
+     "caption": "Night-time render of the fin-wrapped facade, Maison Peplum",
+     "alt": "Night render of a two-storey building wrapped in glowing curved timber fins under a dark cloudy sky, with a tree to the left and a dark reflective forecourt in front.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p12-x40-exterior-night.png",
+     "verified": true
+    }
+   ],
+   "_stage": "inspect",
+   "_batch": "portfolio-p12"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p12-x42-680x461.jpeg",
+   "document": "portfolio",
+   "page": 12,
+   "nativeSize": [
+    680,
+    461
+   ],
+   "description": "Composite of four photographs of a 1:50 section model: a white card model of a two-storey building cut open to show floor plates, internal walls and window openings, topped by rows of tall black curved fins. The large photograph at right shows the model three-quarter on; three smaller photographs at left show it from the end, from the opposite side and in close-up. The background is an OSB-boarded workshop wall and a white table. Caption text reads 1:50 Section Model.",
+   "kind": "model-photo",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No third-party material identified; all four photographs show the same physical model in a workshop setting.",
+   "textVisible": "1:50 Section Model",
+   "quality": "680 x 461 px composite. The main photograph crops to 461 x 343 px and the small views to roughly 150 to 190 px wide, so the small views are thumbnail-only. Display the whole at no more than 680 px wide and the main crop at no more than 460 px.",
+   "useAsWhole": true,
+   "wholeCaption": "1:50 section model with black curved roof fins, shown from four viewpoints",
+   "wholeAlt": "Four photographs of a white card section model of a two-storey building topped with tall black curved fins, arranged as one large view and three small views with the caption 1:50 Section Model.",
+   "subregions": [
+    {
+     "label": "section-model-main",
+     "bboxNorm": [
+      0.322,
+      0,
+      1,
+      0.744
+     ],
+     "kind": "model-photo",
+     "caption": "1:50 section model, three-quarter view",
+     "alt": "White card section model of a two-storey building with cut-away floors and tall black curved fins along the roof, photographed on a white table in front of an OSB wall.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p12-x42-section-model-main.png",
+     "verified": true
+    },
+    {
+     "label": "section-model-view1",
+     "bboxNorm": [
+      0.013,
+      0,
+      0.294,
+      0.262
+     ],
+     "kind": "model-photo",
+     "caption": "1:50 section model, end view",
+     "alt": "End-on view of a white card section model with black curved fins rising above the roof line.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p12-x42-section-model-view1.png",
+     "verified": true
+    },
+    {
+     "label": "section-model-view2",
+     "bboxNorm": [
+      0.013,
+      0.273,
+      0.294,
+      0.586
+     ],
+     "kind": "model-photo",
+     "caption": "1:50 section model, side view",
+     "alt": "Side view of a white card section model showing two floor levels and black curved fins over the roof.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p12-x42-section-model-view2.png",
+     "verified": true
+    },
+    {
+     "label": "section-model-view3",
+     "bboxNorm": [
+      0.046,
+      0.597,
+      0.266,
+      1
+     ],
+     "kind": "model-photo",
+     "caption": "1:50 section model, close view of fins and floor plates",
+     "alt": "Close view of a white card section model with a black curved fin sweeping over white floor plates and walls.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p12-x42-section-model-view3.png",
+     "verified": true
+    }
+   ],
+   "_stage": "inspect",
+   "_batch": "portfolio-p12"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p12-x43-687x471.jpeg",
+   "document": "portfolio",
+   "page": 12,
+   "nativeSize": [
+    687,
+    471
+   ],
+   "description": "Collage of five overlapping photographs of a 1:200 laser-cut timber model: rows of wavy plywood fins with scorched edges over a white card building body, seen from above and from several sides on a white surface. Three fine golden line-drawings of swept parametric curves are overlaid between the photographs. A white box at bottom right carries the caption 1:200 Model Parametric Facade.",
+   "kind": "model-photo",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No third-party material identified; the photographs show one physical model and the curve drawings are generic parametric line graphics consistent with the author's own work.",
+   "textVisible": "1:200 Model Parametric Facade",
+   "quality": "687 x 471 px composite. Because the photographs overlap, individual crops are small (210 to 335 px wide) and two of them carry faint traces of the overlaid curve drawings. The whole collage is the strongest form of this image; display at no more than 690 px wide, crops at their native size or smaller.",
+   "useAsWhole": true,
+   "wholeCaption": "1:200 model of the parametric timber-fin facade, photographed from five viewpoints",
+   "wholeAlt": "Collage of five photographs of a small laser-cut timber model covered in rows of wavy plywood fins, with fine golden curve diagrams between the photographs and the caption 1:200 Model Parametric Facade.",
+   "subregions": [
+    {
+     "label": "facade-model-top",
+     "bboxNorm": [
+      0.315,
+      0,
+      0.715,
+      0.505
+     ],
+     "kind": "model-photo",
+     "caption": "1:200 facade model from above, showing the rows of wavy timber fins",
+     "alt": "Bird's-eye photograph of a laser-cut timber model with rows of wavy plywood fins sweeping over a white card body.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p12-x43-facade-model-top.png",
+     "verified": true
+    },
+    {
+     "label": "facade-model-lower",
+     "bboxNorm": [
+      0.437,
+      0.515,
+      0.925,
+      0.85
+     ],
+     "kind": "model-photo",
+     "caption": "1:200 facade model, side view along the fins",
+     "alt": "Side photograph of a long laser-cut timber model with tall wavy plywood fins standing along a white card base.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p12-x43-facade-model-lower.png",
+     "verified": true
+    },
+    {
+     "label": "facade-model-left",
+     "bboxNorm": [
+      0,
+      0,
+      0.305,
+      0.635
+     ],
+     "kind": "model-photo",
+     "caption": "1:200 facade model, view down the stepped end with fins over each tier",
+     "alt": "Photograph looking down the stepped end of a laser-cut timber model, with wavy plywood fins over each tier of a white card base.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p12-x43-facade-model-left.png",
+     "verified": true
+    },
+    {
+     "label": "facade-model-right",
+     "bboxNorm": [
+      0.72,
+      0,
+      1,
+      0.28
+     ],
+     "kind": "model-photo",
+     "caption": "1:200 facade model, end view",
+     "alt": "End-on photograph of a small laser-cut timber model with wavy plywood fins wrapping a white card block.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p12-x43-facade-model-right.png",
+     "verified": true
+    },
+    {
+     "label": "facade-model-bottomleft",
+     "bboxNorm": [
+      0,
+      0.655,
+      0.4,
+      1
+     ],
+     "kind": "model-photo",
+     "caption": "1:200 facade model, long elevation with fins along the roof and walls",
+     "alt": "Photograph of a long laser-cut timber model with wavy plywood fins along its roof and walls over a white card base.",
+     "thirdParty": false,
+     "recommendedUse": "thumbnail",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p12-x43-facade-model-bottomleft.png",
+     "verified": true
+    }
+   ],
+   "_stage": "inspect",
+   "_batch": "portfolio-p12"
+  },
+  {
+   "file": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/images/portfolio/p12-x41-680x268.jpeg",
+   "document": "portfolio",
+   "page": 12,
+   "nativeSize": [
+    680,
+    268
+   ],
+   "description": "Interior render of a tall hall with patchy whitewashed brick walls, a stepped timber block at the centre, dress-form mannequins on stands along the left, a single walking figure near a doorway at right, and daylight entering from windows at left and from above. To the right is a white panel with a serif tagline, and a thin overexposed strip of a different render (timber ceiling fins) runs along the bottom edge from roughly a third of the way across to the right-hand side.",
+   "kind": "render",
+   "authorship": "tala-own-work",
+   "thirdPartyNotes": "No third-party photographs or logos. The mannequins, walking figure and brick texture are standard render entourage and materials rather than published imagery.",
+   "textVisible": "Come and Enjoy / inside / Masion Peplum (reads as a draft marketing tagline; 'Masion' is a misspelling of Maison).",
+   "quality": "680 x 268 px; the usable render area crops to 519 x 229 px, which is low resolution with visible JPEG softening. Display at no more than 520 px wide, ideally around 400 px.",
+   "useAsWhole": false,
+   "wholeCaption": "Interior render of the main hall, Maison Peplum",
+   "wholeAlt": "Interior render of a tall brick-walled hall with a stepped timber block, mannequins on stands and a walking figure, beside a white panel with a tagline.",
+   "subregions": [
+    {
+     "label": "interior-render",
+     "bboxNorm": [
+      0,
+      0,
+      0.763,
+      0.855
+     ],
+     "kind": "render",
+     "caption": "Interior render of the main hall with its stepped timber block and mannequins, Maison Peplum",
+     "alt": "Interior render of a tall whitewashed-brick hall with a stepped timber block at the centre, dress-form mannequins on stands at the left and a walking figure near a doorway at the right.",
+     "thirdParty": false,
+     "recommendedUse": "figure",
+     "previewFile": "/Users/radalzubi/Library/Application Support/Claude/scratch-workspaces/9f9f6f14-5969-4ac4-b4b7-67289f89ec35/9dc76257-2d3e-44df-b4b1-28b4fb6cbc78/scratch-2026-10-23-19d5f7/tala-portfolio/sources/derived/crops-preview/portfolio-p12-x41-interior-render.png",
+     "verified": true
+    }
+   ],
+   "_stage": "inspect",
+   "_batch": "portfolio-p12"
+  }
+ ]
+}

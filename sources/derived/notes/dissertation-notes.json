@@ -1,0 +1,902 @@
+{
+ "notes": {
+  "title": "Homogenisation of Cairo’s Urban Horizons",
+  "subtitle": "Cultural Identity, Lived Experience, and Contemporary Urban Practice",
+  "institutionContext": "The cover page (page 1) names no university, school or department; it carries only the title, the subtitle, the abstract and the line \"Word Count: 5,039\". The only institutional mention in the main text is that the research \"was conducted in line with the University of Reading’s ethical guidelines\" (page 11).",
+  "wordCountStated": "5,039",
+  "abstract": {
+   "quote": "This dissertation investigates how the growing homogenisation of the contemporary built environment of Cairo impacts its own architectural identity.",
+   "page": 1
+  },
+  "researchQuestion": {
+   "summary": "The dissertation asks how the growing homogenisation of Cairo’s built environment affects the city’s architectural identity, across scales from state-led masterplans to everyday neighbourhoods. The introduction frames it through three open questions (where is individuality, where did architecture’s ability to tell stories go, what happens to identity when cities look the same) and asks whether the future of Cairo’s identity is at risk and how it depends on balancing contemporary development with culture- and context-responsive design.",
+   "quote": "The dissertation dives into whether or not the future of Cairo’s architectural identity is at risk and how it depends on balancing contemporary development with culture and context responsive design as well as understanding architecture’s role as a story teller of history.",
+   "pages": [
+    1,
+    4
+   ]
+  },
+  "positionality": {
+   "summary": "The author writes as an Egyptian British architecture student who has lived between Cairo and London: growing up in Cairo gave firsthand experience of Zamalek, West el Balad and the Ashwa’iyat, while studying in the UK gave insight into Western planning and contemporary practice. The author acknowledges this background may incline them to value culture over homogenisation, and limits that bias through a comparative, evidence-based mix of theory, urban analysis, analytical drawings and semi-structured interviews, treating homogenisation as a social and contextual process rather than simply a negative.",
+   "quote": "This research is informed by my position as an Egyptian British architecture student who has lived between Cairo and London.",
+   "page": 5
+  },
+  "theoreticalLenses": [
+   {
+    "name": "Architectural Homogenisation, the Generic City, Globalisation and Capital",
+    "thinkers": [
+     "Koolhaas",
+     "Sassen",
+     "Anthony D. King"
+    ],
+    "summary": "Koolhaas’s ‘Generic City’ describes urban environments detached from history, identity and site, prioritising efficiency, flexibility and scale (glass towers, neutral palettes, repetitive masterplans), replicated worldwide through globalisation and capital flow. Sassen’s ‘Global City’ frames cities as strategic financial nodes where architecture is used to attract investment, tourists and business. King explains how architectural modernity is adopted from dominant global cities by developing areas, with Western models replicated without adaptation to local culture or climate. The author applies this to Cairo’s gated communities and the New Administrative Capital, concluding homogenisation is an outcome of chasing capital and urban production, not just a style.",
+    "pages": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "name": "Critical Regionalism and Contextual Design",
+    "thinkers": [
+     "Frampton"
+    ],
+    "summary": "Frampton’s Critical Regionalism blends universal civilisation with local culture: not anti-modern, but grounded in climate, topography, materiality and cultural context, resisting homogenisation through feel, social awareness and spatial orientation, local materials and climate-specific design. The author uses it as a lens to judge whether Cairo’s recent developments respond purposefully to place (shaded streets, courtyards, thick walls as historical examples) or simply adopt generic global design.",
+    "pages": [
+     7,
+     8
+    ]
+   },
+   {
+    "name": "Phenomenology of Place and Lived Experience",
+    "thinkers": [
+     "Norberg Schulz",
+     "Pallasmaa",
+     "Zumthor"
+    ],
+    "summary": "Norberg Schulz’s ‘Genius Loci’ (spirit of place) holds that architecture creates meaningful connections between people and place; Pallasmaa argues for multisensory design (touch, feel, memory, atmosphere); Zumthor stresses material presence and emotional impact. Through this lens homogenisation becomes a question of how spaces are felt, occupied and remembered, and architectural identity is seen as constantly changing rather than fixed.",
+    "pages": [
+     8
+    ]
+   },
+   {
+    "name": "Egyptian Perspectives on Architecture Identity",
+    "thinkers": [
+     "Hassan Fathy",
+     "Walid Arafa"
+    ],
+    "summary": "Hassan Fathy stands for climate-responsive, community-led architecture using cultural knowledge, local materials and socially embedded design, showing that Egyptian identity historically changed in response to needs, environment and community life rather than global trends. Walid Arafa continues this by combining contemporary design with culture. Together they support the argument that Cairo’s identity has always changed through community, climate response and history, whereas today’s developments prioritise speed and marketability.",
+    "pages": [
+     8,
+     9
+    ]
+   }
+  ],
+  "methods": [
+   {
+    "name": "Literature review",
+    "summary": "A review structured around globalisation and the Generic City (Koolhaas, Sassen, King), critical regionalism (Frampton), phenomenology of place (Norberg Schulz, Pallasmaa, Zumthor) and Egyptian perspectives (Fathy, Arafa), used to build the analytical lens applied to Cairo.",
+    "pages": [
+     5,
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "name": "Comparative urban analysis and case study selection",
+    "summary": "A comparative urban analysis across scales, pairing large-scale developments with small everyday neighbourhoods. Three case-study groups were chosen to embody contrasting natures of urban design in Egypt (planned versus natural, formal versus informal, international versus local): the New Administrative Capital (state- and developer-driven expansion), the central districts Zamalek and West El Balad (historic urban memory under contemporary pressure), and the Ashwa’iyat (informal, community-driven neighbourhoods).",
+    "pages": [
+     9
+    ]
+   },
+   {
+    "name": "Analytical urban drawings and observation",
+    "summary": "Mapping, sectional studies and diagrammatic analysis examine urban forms, shapes and structures, circulation patterns, material presence and significant relationships across the case-study areas, curated from direct observation and photographic documentation. Observation focused on street life, transitions between public and private space, climatic response and structural detailing, and on how people move through and view the developments, so that homogenisation is read through function as well as form.",
+    "pages": [
+     9,
+     10
+    ]
+   },
+   {
+    "name": "Semi-structured interviews with practising architects",
+    "summary": "Semi-structured interviews with well-known practising architects working in the Cairo context, chosen from different fields of practice. Questions covered perceptions of homogenisation, loss of identity and ways to restore it through contextual, socially focused practice. Transcripts were analysed for root causes and underlying patterns (market and development, climate responsiveness, adaptive reuse, public life, informal urbanism).",
+    "pages": [
+     10
+    ]
+   }
+  ],
+  "limitations": [
+   {
+    "summary": "The number of interviews conducted limits the study.",
+    "quote": "The research is limited by the number of interviews conducted.",
+    "page": 11
+   },
+   {
+    "summary": "Translating interviews from Arabic to English may lose depth, intensity or accuracy of meaning.",
+    "quote": "The translation of Arabic to English is also a limitation as the depth and meaning of some of the words may not be as dramatic, intense or accurate when translated to another language.",
+    "page": 11
+   },
+   {
+    "summary": "One interview (Leithy) was conducted by email, giving paragraph answers with no face-to-face discussion to explore the thought process.",
+    "quote": "Another limitation would be the emailed interview with Leithy, a face to face conversation wasn’t conducted but a simple paragraph answer to each question, no discussion to understand the thought process.",
+    "page": 11
+   },
+   {
+    "summary": "The chosen case studies give depth but do not represent all urban conditions in Greater Cairo.",
+    "quote": "While the selected case studies provide depth, they do not represent all urban conditions within Greater Cairo.",
+    "page": 11
+   },
+   {
+    "summary": "Time constraints limited the extent of on-site observation. The author argues that triangulating drawings, interviews and literature nonetheless strengthens reliability.",
+    "quote": "Time issues also limited the extent of on site observations, meaning more could have been made.",
+    "page": 11
+   }
+  ],
+  "ethics": {
+   "summary": "The research followed the University of Reading’s ethical guidelines. Interviewed architects gave informed consent, were told the study’s purpose and their right to withdraw at any time, and were offered anonymity but said they were happy to be named. Audio recordings and written materials were stored securely and were accessible only to the researcher. Observational and analytical drawings focused solely on public environments and architecture and avoided depicting individuals; the research aimed to represent places and communities accurately and appropriately.",
+   "page": 11
+  },
+  "aiToolDisclosure": {
+   "summary": "ChatGPT was used as an assistance tool to check the translation and content of recorded interviews when producing transcripts, and to assist in selecting relevant architectural theories for the literature review from a premade selection list. All theoretical material and references were independently sourced, and nothing else was involved. ChatGPT (GPT-5.2) by OpenAI is also listed as an entry in the bibliography (page 27).",
+   "page": 11
+  },
+  "cases": [
+   {
+    "id": "new-administrative-capital",
+    "nameAsWritten": "The New Administrative Capital",
+    "spatialCondition": "A large-scale, state-led and developer-driven expansion of Cairo, described as representing large scale state and developer decision driven expansion (page 9) and as the most accurate representation of state led and developer driven growth in Cairo (page 12).",
+    "summary": "The author reads the New Administrative Capital as the clearest case of generic, state- and developer-led modernisation: a symbol of progress built from wide boulevards, government zones and near-identical glass-and-neutral blocks that resemble districts in London, Dubai or New York. Analytical drawings show a spatial logic of isolated buildings that favours vehicles over pedestrians and visual symmetry over social life; the imported style relies on mechanical cooling rather than Egyptian shading, courtyards and thick walls; and observation finds little genuine public space. The author concludes it is a core example of Koolhaas’s Generic City, detached from site specificity and designed mainly for show rather than everyday life.",
+    "observations": [
+     {
+      "theme": "identity",
+      "summary": "The Capital was conceived as a symbol of progress, growth and modernisation, publicised through its scale, wide boulevards and government areas.",
+      "quote": "Its goal was to be a symbol of progress, growth and modernisation, publicized by its large scale, wide boulevards, and government areas.",
+      "page": 12
+     },
+     {
+      "theme": "built-form",
+      "summary": "Analytical drawings reveal a spatial logic of isolated buildings that prioritises vehicle movement over pedestrians, visual symmetry over social environments and spatial organisation over human engagement.",
+      "quote": "Analytical drawings demonstrate a spatial logic behind it through the isolated buildings and how it prioritizes vehicle movement over pedestrians, visual symmetry over social environments, and spatial organization over human engagement.",
+      "page": 12
+     },
+     {
+      "theme": "built-form",
+      "summary": "Most buildings are more or less identical: glass façades, neutral material schemes and generic office and residential blocks resembling global districts in London, Dubai and New York.",
+      "quote": "Most buildings within the New Capital are identical, more or less. The glass façades, neutral material schemes, and generic office and residential blocks.",
+      "page": 13
+     },
+     {
+      "theme": "climate-response",
+      "summary": "The adopted style is not made for Cairo’s climate; it relies on mechanical cooling instead of the shading, courtyards and thick walls customary in Egyptian architecture.",
+      "quote": "However, this adopted style isn’t made for the climate condition of Cairo, relying too much on mechanical cooling, instead of adopting things like shading, courtyards, and thick walls that are usually done in Egyptian architecture.",
+      "page": 13
+     },
+     {
+      "theme": "street-life",
+      "summary": "Observation shows little consideration for everyday street life: public space is minimal and present mainly for show rather than as a real social environment, unlike the busy street life of the rest of Cairo.",
+      "quote": "Urban observation shows a lack of consideration for everyday street life. This is shown through the little to no public space, mainly there for show rather than an actual social environment.",
+      "page": 14
+     },
+     {
+      "theme": "identity",
+      "summary": "The Capital is presented as a core example of Koolhaas’s Generic City, where identity is replaced by bigger, modern designs and architecture is detached from site specificity.",
+      "quote": "The New Administrative Capital is a core example of Koolhaas’s Generic City, identity there is replaced by bigger and modern designs while their architecture becomes detached from site specificity.",
+      "page": 14
+     },
+     {
+      "theme": "street-life",
+      "summary": "In the discussion the author argues the spatial logic exposes a city designed for show rather than actual everyday life, prioritising image, convenience and the appearance of progress over lived experience.",
+      "quote": "It's the spatial logic that truly exposes how that the city was designed mainly for show rather than actual everyday life.",
+      "page": 23
+     }
+    ],
+    "figures": [
+     {
+      "number": 1,
+      "captionAsWritten": "Figure 1, the Skyline of The New Administrative Capital",
+      "page": 12
+     },
+     {
+      "number": 2,
+      "captionAsWritten": "Figure 2, The Grand Entrance of the New Administrative Capital",
+      "page": 13
+     },
+     {
+      "number": 3,
+      "captionAsWritten": "Figure 3, The Building Shape and Size Outline",
+      "page": 13
+     }
+    ],
+    "pages": [
+     12,
+     13,
+     14,
+     19,
+     23
+    ]
+   },
+   {
+    "id": "zamalek",
+    "nameAsWritten": "Zamalek",
+    "spatialCondition": "A central Cairo district, analysed together with West El Balad in section 5.2, described as reflecting historic urban memory with bits of contemporary pressure (page 9) and as one of the different scaled districts within central Cairo (page 1).",
+    "summary": "Zamalek is treated alongside West El Balad as a historic district valued for its architectural depth, dense busy streets, mixed uses and façade detailing shaped by everyday social interaction. Analytical drawings record narrower streets and unspoken public/private borders, and climate-responsive devices (shaded sidewalks, balconies) are still visible. The author’s specific finding for Zamalek is a slow homogenisation: residential buildings converting to commercial use and façade renovations replacing original detailing with generic finishes, a market-driven process that favours sealed interiors and quick, profitable construction over architecture that is felt and lived.",
+    "observations": [
+     {
+      "theme": "built-form",
+      "summary": "Zamalek and West El Balad are historic areas valued for architectural depth, dense busy streets, mixed-use areas, façade detailing and characteristics shaped by everyday social interaction.",
+      "quote": "Zamalek and West El Balad are historical areas of Cairo, loved by their depth of architectural significance, the dense busy streets, mixed use areas, the detailings on the façade and characteristics that have been shaped by the everyday social interactions.",
+      "page": 14
+     },
+     {
+      "theme": "street-life",
+      "summary": "Analytical drawings show narrower streets and unspoken borders between public and private, supporting the belief that architecture must be felt and lived rather than just seen.",
+      "quote": "Analytical drawings show more detail into the modern structure, narrower streets, and the unspoken borders between public and private, emphasizing the core belief that architecture must be felt and lived, not just seen.",
+      "page": 15
+     },
+     {
+      "theme": "identity",
+      "summary": "In Zamalek, residential buildings are slowly converting to commercial use and façade renovations replace original detailing with generic finishes, a form of homogenising pressure on the historic area.",
+      "quote": "In Zamalek, residential buildings are slowly converting into commercial, while façade renovations replace original detailing with generic finishes.",
+      "page": 15
+     },
+     {
+      "theme": "climate-response",
+      "summary": "Climate-responsive architecture is still visible in shaded sidewalks, balconies and the unspoken public/private borders, showing how historic architecture addressed both environment and social life.",
+      "quote": "Climate responsive architecture can still be seen through shaded sidewalks, balconies, and unspoken borders between public and private. These methods show how historic architecture focused on both the environment and social life.",
+      "page": 16
+     },
+     {
+      "theme": "climate-response",
+      "summary": "Modern renovations often ignore these strategies in favour of sealed interiors and modern materials, reflecting market-driven priorities of quicker construction and profitability.",
+      "quote": "However modern renovations often ignore these strategies and favour sealed interiors and modern materials.",
+      "page": 16
+     },
+     {
+      "theme": "identity",
+      "summary": "In the summary of findings, Zamalek and West El Balad show historic neighbourhoods slowly losing character through profit-driven renovation; the discussion calls this a slower form of homogenisation through small commercial renovations.",
+      "quote": "Zamalek and West El Balad is a slower form of homogenisation, where it is fading slowly through small commercial renovations.",
+      "page": 24
+     }
+    ],
+    "figures": [
+     {
+      "number": 6,
+      "captionAsWritten": "Figure 6, Typical Exterior of Building in Zamalek",
+      "page": 15
+     },
+     {
+      "number": 7,
+      "captionAsWritten": "Figure 7, Balconies and Shading in Zamalek, Worm’s Eye View in the Narrow Streets Between Buildings",
+      "page": 16
+     }
+    ],
+    "pages": [
+     14,
+     15,
+     16,
+     19,
+     24
+    ]
+   },
+   {
+    "id": "west-el-balad",
+    "nameAsWritten": "West El Balad",
+    "spatialCondition": "A central Cairo district, analysed together with Zamalek in section 5.2, described as reflecting historic urban memory with bits of contemporary pressure (page 9) and as one of the different scaled districts within central Cairo (page 1).",
+    "summary": "West El Balad shares the section 5.2 analysis with Zamalek: a historic district of dense, busy, mixed-use streets, detailed façades and climate-responsive balconies and street shading, where narrow streets carry unspoken public/private borders. The author’s specific finding is a loss of architectural identity through minimal storefronts and renovations done for business and capital, which the author says slowly kill the history of the street and erase urban memory. Interviewed architects reinforce this: Ghorab describes streets losing their specificity to generic storefronts, while Lehta argues West El Balad’s ongoing renovation should embrace the daily life the façades contain rather than museum-style preservation.",
+    "observations": [
+     {
+      "theme": "built-form",
+      "summary": "West El Balad, with Zamalek, is a historic area valued for architectural depth, dense busy streets, mixed-use areas and façade detailing shaped by everyday social interaction.",
+      "quote": "Zamalek and West El Balad are historical areas of Cairo, loved by their depth of architectural significance, the dense busy streets, mixed use areas, the detailings on the façade and characteristics that have been shaped by the everyday social interactions.",
+      "page": 14
+     },
+     {
+      "theme": "identity",
+      "summary": "West El Balad shows a loss of architectural identity through minimal storefronts and renovations driven by business and capital, which slowly erase street history and urban memory.",
+      "quote": "West El Balad also shows a loss of architectural identity through minimal storefronts and renovations done for business and capital. These changes slowly kill the history on the street and erase the urban memory.",
+      "page": 15
+     },
+     {
+      "theme": "street-life",
+      "summary": "Narrower streets and unspoken borders between public and private are read from the drawings as evidence that architecture here must be felt and lived, not just seen.",
+      "quote": "Analytical drawings show more detail into the modern structure, narrower streets, and the unspoken borders between public and private, emphasizing the core belief that architecture must be felt and lived, not just seen.",
+      "page": 15
+     },
+     {
+      "theme": "climate-response",
+      "summary": "Balconies and street shading (the subject of Figure 5) remain as climate-responsive devices that served both environment and social life, though modern renovations favour sealed interiors and modern materials.",
+      "quote": "As highlighted by the architects, this change reflects the market driven priorities that disregard making the architecture deep and felt in favour of quicker construction and profitability.",
+      "page": 16
+     },
+     {
+      "theme": "identity",
+      "summary": "Interviewee Hisham Ghorab is cited on West El Balad and Zamalek, where renovations favour generic global styles and fast commercial return over cultural continuity.",
+      "quote": "Many streets have lost their specificity, replaced by generic storefronts and repetitive alterations aimed at fast commercial return rather than cultural continuity.",
+      "page": 20
+     },
+     {
+      "theme": "street-life",
+      "summary": "Interviewee Nehal Lehta argues West El Balad’s ongoing renovations should embrace social life and architecture together rather than preserving the area like a museum.",
+      "quote": "Identity is not just heritage façades but the daily life they contain.",
+      "page": 21
+     }
+    ],
+    "figures": [
+     {
+      "number": 4,
+      "captionAsWritten": "Figure 4, Façade of Typical Building in West el Balad",
+      "page": 14
+     },
+     {
+      "number": 5,
+      "captionAsWritten": "Figure 5, Emphasis on Balcony and Street Shading in West el Balad",
+      "page": 15
+     }
+    ],
+    "pages": [
+     14,
+     15,
+     16,
+     19,
+     20,
+     21,
+     24
+    ]
+   },
+   {
+    "id": "ashwaiyat",
+    "nameAsWritten": "Ashwa’iyat",
+    "spatialCondition": "Informal, organically grown neighbourhoods, described as Ashwa’iyat (informal neighbourhoods), which demonstrate adaptation and community driven spatial design that organically grown from the lower class (page 9); section 5.3 is titled Ashwa’iyat and Informal Urbanism.",
+    "summary": "The Ashwa’iyat are presented as the counter-case: organically grown informal neighbourhoods that the author argues are a large part of Cairo’s history and reveal an alternative mode of urban production based on needs, adaptation and community. Drawings show compact building, flexible spatial organisation and the capacity to add construction over time; observation records strong street life and spontaneous interaction. Developers have sought to take over the land, which would leave residents misplaced; instead artists added murals and façade designs to the existing structures (Molloy) that express collective identity, culture and rooted memory. The author reads this as bottom-up urban design that resists homogenisation through cultural expression, and the discussion challenges the assumption that informality equals failure. The text makes no explicit climate-response observation for this case.",
+    "observations": [
+     {
+      "theme": "identity",
+      "summary": "Though it may seem odd to analyse, the Ashwa’iyat are described as a large part of Cairo’s history and an alternative form of urban production focused solely on needs, adaptation and community.",
+      "quote": "It reveals an alternative of urban production that solely focuses on needs, adaptation, and community.",
+      "page": 17
+     },
+     {
+      "theme": "built-form",
+      "summary": "Analytical drawings show compact building and spatial organisation, with flexibility and accessibility to add construction over time.",
+      "quote": "Analytical drawings show the compact building and spatial organization as well as the flexibility and accessibility to add construction overtime.",
+      "page": 17
+     },
+     {
+      "theme": "built-form",
+      "summary": "Unlike planned developments, the neighbourhoods change over time in direct response to residents’ needs rather than to developers’ masterplans.",
+      "quote": "Unlike planned developments, Ashwa’iyat change over time, responding directly to residents’ needs rather than masterplans from large developing practices.",
+      "page": 17
+     },
+     {
+      "theme": "identity",
+      "summary": "Developers have sought to take over the land to build modern developments, which would leave hundreds or thousands of residents misplaced; instead artists created murals and façade designs on the existing structures, collectively expressing identity, culture and rooted memory (citing Molloy).",
+      "quote": "Instead artists decided to make the Ashwa’iyat more memorable and create murals and façade designs on top of the existing structure (Molloy). They collectively express identity, culture and rooted memory into the urban fabric.",
+      "page": 17
+     },
+     {
+      "theme": "street-life",
+      "summary": "Observation identified a strong street-life presence, spontaneous interaction and spatial use, reinforcing the theory of place as lived experience.",
+      "quote": "The urban observation identified the strong street life presence, spontaneous interaction, and spatial use, only emphasizing the theory of place as a lived experience even more.",
+      "page": 18
+     },
+     {
+      "theme": "identity",
+      "summary": "Often ignored in official state planning, the Ashwa’iyat represent a strong part of Cairo’s social life and spatial logic; their resistance to modernisation shows the potential of bottom-up urban design that resists homogenisation through cultural expression.",
+      "quote": "Their resistance to modernization is admirable. This shows the potential of a bottom up urban design that resists homogenisation because of the strong cultural expression that lives within them.",
+      "page": 19
+     },
+     {
+      "theme": "street-life",
+      "summary": "In the discussion, identity is said to live through the artwork, the constant additions in construction and everyday routines, and the author questions the belief that informality leads to failure.",
+      "quote": "Architectural identity lives through them, the artwork, the constant additions in construction, and everyday routines.",
+      "page": 24
+     }
+    ],
+    "figures": [
+     {
+      "number": 8,
+      "captionAsWritten": "Figure 8, Asha’iyat Landscape Overview",
+      "page": 16
+     },
+     {
+      "number": 9,
+      "captionAsWritten": "Figure 9, Street View Ashwa’iyat Façade",
+      "page": 17
+     },
+     {
+      "number": 10,
+      "captionAsWritten": "Figure 10, Artworks on Façade of the Ashwa’iyat seen from the Highway",
+      "page": 18
+     },
+     {
+      "number": 11,
+      "captionAsWritten": "Figure 11, Semi Inhabited Broken Down Ashwaya (singular of Ashwaiyat)",
+      "page": 18
+     }
+    ],
+    "pages": [
+     16,
+     17,
+     18,
+     19,
+     24
+    ]
+   }
+  ],
+  "summaryOfFindings": {
+   "summary": "Across the four studies homogenisation emerges as a complex process controlled by economic ambition, developer control and foreign architectural styles. The New Administrative Capital shows large-scale generic modernisation that prioritises visual modernity over human experience; Zamalek and West El Balad show historic neighbourhoods slowly losing character through profit-driven renovation; the Ashwa’iyat reveal different spatial, social and fluid ways of thinking. The author concludes that Cairo’s architectural identity is not vanishing but being renovated bit by bit: formal developments adopt globalised aesthetics believing they improve the city, while informal neighbourhoods and adaptive historic concepts continue to defend a culturally rich environment.",
+   "quote": "These case studies demonstrate that architectural identity in Cairo is not vanishing overtime, but is being renovated bit by bit.",
+   "pages": [
+    19
+   ]
+  },
+  "architectsPerspectives": {
+   "purpose": "To understand how practising architects in Cairo perceive the rise of architectural homogenisation, its driving forces and its interference with cultural identity and experience, and to place their recurring statements and quotes within the debates on globalisation, urban memory and design practice drawn from the literature. The text states that five recurring themes emerged across all interviews (pages 19-20).",
+   "themes": [
+    {
+     "title": "Developer Led Urbanism and Logical Thinking",
+     "summary": "The most dominant theme: market-centred logic and developer control are seen as the central drivers of homogenisation. Mostafa says development models prioritise visual appeal, branding and financial efficiency over climate-responsive, culturally continuous and contextual design; Ghorab describes commercial return taking priority over protecting architecture in historic neighbourhoods such as West El Balad and Zamalek, where renovations favour generic global styles. The author links this to Sassen and King; the architects themselves stressed that developers (often the ones paying the architects) prioritise not just aesthetics but space orientation, so environments resemble one another inside and out across sites and cities.",
+     "quote": "Architectural decisions are often driven by financial efficiency and visual appeal rather than spatial quality or cultural unity.",
+     "pages": [
+      19,
+      20
+     ]
+    },
+    {
+     "title": "Breaking Apart Architectural Identity",
+     "summary": "Homogenisation is not only stylistic but reaches social life and lived experience. Mostafa points to a decline of public space and street life caused by private compounds and gated developments; Leithy describes a shift toward speed, density and surface-level modernity that weakens Cairo’s urban character; Lehta insists identity is carried in everyday life, not just preserved façades, so West El Balad’s renovations should embrace social life rather than museum-style preservation. The author relates this to Norberg Schulz: identity loss must be experienced socially, not just viewed.",
+     "quote": "Identity is not just heritage façades but the daily life they contain.",
+     "pages": [
+      20,
+      21
+     ]
+    },
+    {
+     "title": "Loss of Environmental and Climate Responsiveness",
+     "summary": "Several architects see contemporary architecture detaching from environmental thinking. Mostafa says sealed glass buildings disregard traditional solutions like shading, courtyards and local materials; Leithy says the climate intelligence shared by minarets, courtyards and arcades across eras has been ignored by designs that prioritise visual modernity. The author ties this to Frampton’s call for architecture to respond to its local environment.",
+     "quote": "Elements such as minarets, courtyards, arcades shared climate intelligence across eras. Today, this dialogue has fractured.",
+     "pages": [
+      21,
+      22
+     ]
+    },
+    {
+     "title": "Resisting Homogenisation through Adaptive Reuse and Context Specificity",
+     "summary": "Despite shared concern, the architects identify strategies that resist homogenisation through contextualism, adaptive reuse and human-focused spatial design. Ghorab cites projects such as Emaret Kodak and Consulya, where historic exteriors are preserved while interiors adapt to contemporary use, showing preservation and modern adaptation can co-exist. Mostafa describes a practice driven by site conditions, climate and human behaviour, with attention to circulation and indoor-outdoor transitions. The author aligns these with Critical Regionalism.",
+     "quote": "Façades, proportions, and historic details must stay… interiors can adapt to modern needs.",
+     "pages": [
+      22
+     ]
+    },
+    {
+     "title": "Informal Practices as Carriers of Urban Identity",
+     "summary": "The most distinctive contribution: Nehal Lehta is the one architect who highlighted the Ashwa’iyat, framing them not as failed design but as sites of organic identity whose residents have resisted buy-outs by larger developments. Artists collaborated with residents to transform façades with large-scale murals reflecting collective narratives. She also values preserved rituals and experiences beyond physical form, such as the continued hospitality in Mohamed Saghayer’s salon. The author reads this community-driven resistance as deeper than any other, grounded in lived culture.",
+     "quote": "Murals turned walls into collective art, revealing identity through colour, poetry, and context.",
+     "pages": [
+      22,
+      23
+     ]
+    }
+   ],
+   "intervieweesAsCited": [
+    {
+     "nameAsCited": "Salem Mostafa (in-text citation: Mostafa; bibliography entry: Salem, M.)",
+     "roleAsStatedInMainText": "One of the well known practising architects working within the Cairo context (page 10); the main text describes his own practice as driven by site conditions, climatic response and human behaviour (page 22) but states no further role or title.",
+     "pages": [
+      20,
+      21,
+      22
+     ]
+    },
+    {
+     "nameAsCited": "Hisham Ghorab (in-text citation: Ghorab; bibliography entry: Ghorab, H.)",
+     "roleAsStatedInMainText": "One of the well known practising architects working within the Cairo context (page 10); the main text associates him with adaptive-reuse projects Emaret Kodak and Consulya (page 22) but states no further role or title.",
+     "pages": [
+      20,
+      22
+     ]
+    },
+    {
+     "nameAsCited": "Nehal Lehta (in-text citation: Lehta; bibliography entry: Lehta, N.)",
+     "roleAsStatedInMainText": "One of the well known practising architects working within the Cairo context (page 10); described as the one architect who highlighted Ashwa’iyat (page 22); no further role or title stated.",
+     "pages": [
+      21,
+      22,
+      23
+     ]
+    },
+    {
+     "nameAsCited": "Leithy (in-text citation: Leithy; bibliography entry: Leithy.; single name only, no initial given)",
+     "roleAsStatedInMainText": "One of the well known practising architects working within the Cairo context (page 10); the interview was conducted by email with paragraph answers (page 11); no further role or title stated.",
+     "pages": [
+      11,
+      21
+     ]
+    }
+   ]
+  },
+  "discussion": {
+   "summary": "The discussion draws the strands together: homogenisation is a social and spatial concept driven by profit, developer-led decisions and foreign aesthetics of modernity. The New Administrative Capital is the clearest generic case, designed for show rather than everyday life, matching Koolhaas’s Generic City; Zamalek and West El Balad undergo a slower homogenisation through small commercial renovations, with architects observing that architectural loss often happens through market research change rather than intentional elimination; the Ashwa’iyat offer a parallel setting of informality, need and community engagement that questions the equation of informality with failure. The interviews confirm developer-led and cost-driven decisions as the constant, while showing architects can still resist through adaptive reuse, local materials and attention to experience. Phenomenology is the key to what is lost: identity is born in atmosphere, rituals and interactions (hospitality, street life, artistic interventions), and copying bigger cities risks losing not just a look but an emotional connection. Cairo is framed as a city where identity is constantly changing and negotiated.",
+   "quote": "Beyond façades and styles, identity is born in atmosphere, rituals, and interactions. Hospitality, street life, and artistic interventions are just a few examples that highlight architectural meaning in an experience, not just a façade.",
+   "pages": [
+    23,
+    24,
+    25
+   ]
+  },
+  "conclusion": {
+   "summary": "Although Cairo’s horizons continue to homogenise like other big cities, the outcome may not be so tragic, since today’s skylines may become tomorrow’s memory and create entirely new attachments and cultural meanings. Homogenisation changes Cairo, sometimes repetitively, but the study of local practices and community engagement reveals possible alternative futures. Homogenisation is therefore not a final outcome but an ongoing back-and-forth, a negotiation between modernisation and memory, and Cairo has the opportunity to turn repetition into relevance and homogenisation into shared identity. Its impact depends on how it is transformed.",
+   "quote": "Therefore, homogenisation is not a final outcome, but an ongoing back and forth discussion. Merely a negotiation between modernisation and memory. Cairo has the opportunity to change repetition into relevance and homogenisation into shared identity.",
+   "page": 25
+  },
+  "bibliography": [
+   {
+    "citation": "Arafa, W. (2018) Building with Memory: Contemporary Architecture in Egypt. Cairo: Dar El Sherouk. Retrieved from: Public Library of Egypt. Accessed 03 January 2026",
+    "page": 26
+   },
+   {
+    "citation": "Fathy, H. (1973) Architecture for the Poor: An Experiment in Rural Egypt. Chicago: University of Chicago Press. Retrieved from: Hard Copy. Purchased October 2023",
+    "page": 26
+   },
+   {
+    "citation": "Frampton, K. (1983) ‘Towards a Critical Regionalism: Six Points for an Architecture of Resistance’, in Foster, H. (ed.) The Anti-Aesthetic: Essays on Postmodern Culture. Seattle: Bay Press, pp. 16–30. Retrieved from: https://modernindenver.com/wp-content/uploads/2015/08/Frampton.pdf Accessed 10 January 2026",
+    "page": 26
+   },
+   {
+    "citation": "Ghorab, H. (2025) Interview by Tala Hagras, 28 December 2025, Cairo.",
+    "page": 26
+   },
+   {
+    "citation": "King, A.D. (2004) Spaces of Global Cultures: Architecture, Urbanism, Identity. London: Routledge. Retrieved from: https://api.pageplace.de/preview/DT0400.9781134644469_A24933290/preview-9781134644469_A24933290.pdf Accessed 10 January 2026",
+    "page": 26
+   },
+   {
+    "citation": "Koolhaas, R. (1995) S,M,L,XL. New York: Monacelli Press. Retrieved from https://www.scribd.com/document/245218452/The-Generic-City-Rem-Koolhaas-Scan-S-M-L-XL. Accessed 15 December 2025",
+    "page": 26
+   },
+   {
+    "citation": "Lehta, N. (2026) Interview by Tala Hagras, 05 January 2026, Cairo.",
+    "page": 26
+   },
+   {
+    "citation": "Leithy. (2026) Interview by Tala Hagras, 11 January 2026, Cairo.",
+    "page": 26
+   },
+   {
+    "citation": "Molloy, M. (2016) Artist creates amazing murals across 50 buildings in Cairo, The Telegraph. Retrieved from https://www.telegraph.co.uk/news/2016/04/14/artist-creates-amazing-mural-across-50-buildings-in-cairo---with/ Accessed Demebver 28, 2025",
+    "page": 26
+   },
+   {
+    "citation": "Norberg-Schulz, C. (1980) Genius Loci: Towards a Phenomenology of Architecture. New York: Rizzoli. Retrieved from: https://marywoodthesisresearch.wordpress.com/wp-content/uploads/2014/03/genius-loci-towards-a-phenomenology-of-architecture-part1_.pdf Accessed 05 December 2026",
+    "page": 27
+   },
+   {
+    "citation": "OpenAI (2026) ChatGPT (GPT-5.2) (Large language model). Retrieved from https://chat.openai.com Accessed 01 January 2026",
+    "page": 27
+   },
+   {
+    "citation": "Pallasmaa, J. (2012) The Eyes of the Skin: Architecture and the Senses. 3rd edn. Chichester: Wiley. Retrieved from: https://doubleoperative.com/wp-content/uploads/2009/12/pallasmaa_the-eyes-of-the-skin.pdf Accessed 05 January 2026",
+    "page": 27
+   },
+   {
+    "citation": "Salem, M. (2025) Interview by Tala Hagras, 24 December 2025, Cairo.",
+    "page": 27
+   },
+   {
+    "citation": "Sassen, S. (2001) The Global City: New York, London, Tokyo. 2nd edn. Princeton: Princeton University Press. Retrieved from: https://www.jstor.org/stable/pdf/4177112.pdf?refreqid=fastly-default%3Abbefd4f90c29c1495a661921a5c6d487&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&initiator=search-results&acceptTC=1 Accessed 05 December 2025",
+    "page": 27
+   },
+   {
+    "citation": "Zumthor, P. (2006) Atmospheres: Architectural Environments – Surrounding Objects. Basel: Birkhäuser. Retrieved from: https://arhitectura2tm2016.wordpress.com/wp-content/uploads/2019/09/peter_zumthor__atmospheres.pdf Accessed 05 December 2026",
+    "page": 27
+   }
+  ],
+  "figureReferences": [
+   {
+    "number": 1,
+    "creditAsWritten": "Figure 1 - The New Administrative Skyline drawn by Tala Hagras",
+    "thirdParty": false,
+    "page": 28
+   },
+   {
+    "number": 2,
+    "creditAsWritten": "Figure 2 - The Large Grandiose Entrance into The New Administrative drawn by Tala Hagras",
+    "thirdParty": false,
+    "page": 28
+   },
+   {
+    "number": 3,
+    "creditAsWritten": "Figure 3 - The Linear Generic Formal Building Facades of The New Administrative, drawn by Tala Hagras",
+    "thirdParty": false,
+    "page": 28
+   },
+   {
+    "number": 4,
+    "creditAsWritten": "Figure 4 - The Exterior Facade of a Typical Building in West el Balad, drawn by Tala Hagras",
+    "thirdParty": false,
+    "page": 28
+   },
+   {
+    "number": 5,
+    "creditAsWritten": "Figure 5 - Street view of Facade in West el Balad showing balconies and street shading, drawn by Tala Hagras",
+    "thirdParty": false,
+    "page": 28
+   },
+   {
+    "number": 6,
+    "creditAsWritten": "Figure 6 - The Exterior Facade of a Typical Building in Zamalek, drawn by Tala Hagras",
+    "thirdParty": false,
+    "page": 28
+   },
+   {
+    "number": 7,
+    "creditAsWritten": "Figure 7 - Worm’s Eye View showing the narrow streets between building and use of shading, drawn by Tala Hagras",
+    "thirdParty": false,
+    "page": 28
+   },
+   {
+    "number": 8,
+    "creditAsWritten": "Figure 8 - Ashwa’iyat Landscape Overview, drawn by Tala Hagras",
+    "thirdParty": false,
+    "page": 28
+   },
+   {
+    "number": 9,
+    "creditAsWritten": "Figure 9 - Street View of Typical Ashwa’iyat Facade, drawn by Author",
+    "thirdParty": false,
+    "page": 28
+   },
+   {
+    "number": 10,
+    "creditAsWritten": "Figure 10 - Image of Mural of Ashwa’iyat seen from the Highway, captured by Seed, El. (2016) The Stunning Mural. Retrieved from: https://www.telegraph.co.uk/news/2016/04/14/artist-creates-amazing-mural-across-50-buildings-in-cairo---with/ Accessed 28 December 2025",
+    "thirdParty": true,
+    "page": 28
+   },
+   {
+    "number": 11,
+    "creditAsWritten": "Figure 11 - Semi Inhabited Broken Down Ashway, drawn by Tala Hagras",
+    "thirdParty": false,
+    "page": 28
+   }
+  ],
+  "biographicalFacts": [
+   {
+    "fact": "The author is an Egyptian British architecture student who has lived between Cairo and London.",
+    "quote": "This research is informed by my position as an Egyptian British architecture student who has lived between Cairo and London.",
+    "page": 5
+   },
+   {
+    "fact": "The author grew up in Cairo, with firsthand experience of the historic urban architecture of Zamalek and West el Balad and of the Ashwa’iyat.",
+    "quote": "Growing up in Cairo allowed for firsthand experience of historic urban architecture in Zamalek and West el Balad as well as the Ashwa’iyat.",
+    "page": 5
+   },
+   {
+    "fact": "The author studied in the UK, gaining insight into Western planning and contemporary architectural practice.",
+    "quote": "While studying in the UK I got insight into the planning designs and contemporary architectural practices of the West.",
+    "page": 5
+   },
+   {
+    "fact": "The research was conducted in line with the University of Reading’s ethical guidelines.",
+    "quote": "This research was conducted in line with the University of Reading’s ethical guidelines.",
+    "page": 11
+   },
+   {
+    "fact": "The dissertation names no author on its cover (page 1). The interviews are credited \"Interview by Tala Hagras\" (pages 26-27) and Figures 1-8 and 11 are credited \"drawn by Tala Hagras\" while Figure 9 is \"drawn by Author\" (page 28), which together identify Tala Hagras as the author.",
+    "quote": "Ghorab, H. (2025) Interview by Tala Hagras, 28 December 2025, Cairo.",
+    "page": 26
+   },
+   {
+    "fact": "The bibliography dates the four interviews between 24 December 2025 and 11 January 2026 and lists Cairo for each (Salem 24 December 2025, Ghorab 28 December 2025, Lehta 05 January 2026, Leithy 11 January 2026); page 11 notes that the Leithy interview was conducted by email rather than face to face.",
+    "quote": "Salem, M. (2025) Interview by Tala Hagras, 24 December 2025, Cairo.",
+    "page": 27
+   },
+   {
+    "fact": "The analytical figures are credited as drawn by Tala Hagras or by Author (Figures 1-8 and 11 \"drawn by Tala Hagras\", Figure 9 \"drawn by Author\"); only Figure 10 is a third-party photograph.",
+    "quote": "Figure 1 - The New Administrative Skyline drawn by Tala Hagras",
+    "page": 28
+   },
+   {
+    "fact": "The dissertation’s stated word count is 5,039.",
+    "quote": "Word Count: 5,039",
+    "page": 1
+   }
+  ],
+  "privacyFlags": [
+   {
+    "kind": "Appendix front matter and image-only pages: page 29 is headed 'Appendices / Approved Appendix Form'; pages 30-36 contain no extracted text. The contents page lists appendix sections 11.1 Interview Questions, 11.2 Analytical Drawings and 11.3 Ethics Documentation, so these pages may hold ethics/consent paperwork and/or analytical drawings. The extracted text shows no names, emails or signatures; treat as potentially sensitive and do not reproduce.",
+    "pages": [
+     29,
+     30,
+     31,
+     32,
+     33,
+     34,
+     35,
+     36
+    ]
+   },
+   {
+    "kind": "Interview transcripts and written answers of the four practising architects named in the main text and bibliography, including the interview questions (contents section 11.1) and their personal professional opinions; three transcripts are headed with the interviewee's full name and one (Leithy) with surname only, as in the bibliography. Do not copy.",
+    "pages": [
+     37,
+     38,
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48
+    ]
+   },
+   {
+    "kind": "Third-party businesses/buildings named in interview transcripts (pages 41-42; the same two projects are named in the main text, page 22), one street name in Arabic script (page 41), other Egyptian districts and places cited as examples (pages 41, 42, 44), and one named third-party individual's business (page 45; also named in the main text, page 23).",
+    "pages": [
+     41,
+     42,
+     44,
+     45
+    ]
+   }
+  ]
+ },
+ "issues": [
+  {
+   "path": "positionality.summary",
+   "problem": "The summary uses gendered pronouns (\"She acknowledges\", \"she limits\") but the file never states the author's gender. Pages 1-11 are written in the first person and no name or pronoun for the author appears in the main text; the only occurrences of \"She\" in the file refer to interviewee Lehta (pages 21-23) and to a transcript on page 45. Minor, but it is an added fact.",
+   "correction": "Replace \"She acknowledges this background may incline her to value culture over homogenisation, and says she limits that bias\" with \"The author acknowledges this background may incline them to value culture over homogenisation, and limits that bias\" (or keep the first person: \"I am aware that this background may push me to value culture over homogenisation\", page 5).",
+   "severity": "invented"
+  },
+  {
+   "path": "biographicalFacts[1].fact",
+   "problem": "Same gender inference: \"She grew up in Cairo\" (also \"She studied in the UK\" in biographicalFacts[2].fact, \"she personally conducted\" in biographicalFacts[4].fact, and \"drew the analytical figures herself\" in biographicalFacts[6].fact). The file does not state the author's gender anywhere on pages 1-28.",
+   "correction": "Use \"The author grew up in Cairo...\", \"The author studied in the UK...\", \"the interviews are credited to Tala Hagras\", and \"The analytical figures are credited as drawn by Tala Hagras or by Author\" respectively.",
+   "severity": "invented"
+  },
+  {
+   "path": "biographicalFacts[4].fact",
+   "problem": "\"The author's name is Tala Hagras\" is presented as a stated fact, but the file never names the dissertation's author: page 1 carries no author line, and \"Tala Hagras\" appears only as the interviewer in the bibliography entries (pages 26-27) and as the draughtsperson in the figure credits (page 28; Figure 9 is credited \"drawn by Author\"). The identification is a strong inference from those credits, not something the text says.",
+   "correction": "The dissertation names no author on its cover (page 1). The interviews are credited \"Interview by Tala Hagras\" (pages 26-27) and Figures 1-8 and 11 are credited \"drawn by Tala Hagras\" while Figure 9 is \"drawn by Author\" (page 28), which together identify Tala Hagras as the author.",
+   "severity": "distortion"
+  },
+  {
+   "path": "biographicalFacts[5].fact",
+   "problem": "States that all four interviews \"were conducted in Cairo\". The bibliography does list \"Cairo\" for each entry, but page 11 states that the Leithy interview was conducted by email (\"the emailed interview with Leithy, a face to face conversation wasn't conducted\"), so presenting all four as conducted in Cairo without that qualification overstates the text.",
+   "correction": "The bibliography dates the four interviews between 24 December 2025 and 11 January 2026 and lists Cairo for each (Salem 24 December 2025, Ghorab 28 December 2025, Lehta 05 January 2026, Leithy 11 January 2026); page 11 notes that the Leithy interview was conducted by email rather than face to face.",
+   "severity": "distortion"
+  },
+  {
+   "path": "methods[2].summary",
+   "problem": "The summary says the drawings examine \"material presence and spatial relationships\"; the text on page 10 says \"circulation patterns, material presence, and significant relationships across the selected case study areas\". \"spatial\" is a substitution for the author's word.",
+   "correction": "Mapping, sectional studies and diagrammatic analysis examine urban forms, shapes and structures, circulation patterns, material presence and significant relationships across the case-study areas, curated from direct observation and photographic documentation.",
+   "severity": "distortion"
+  },
+  {
+   "path": "cases[3].observations[4].summary",
+   "problem": "Summary says \"active spatial use\"; the source (page 18) says only \"spatial use\". The adjective \"active\" is an addition that slightly strengthens the author's claim.",
+   "correction": "Observation identified a strong street-life presence, spontaneous interaction and spatial use, reinforcing the theory of place as lived experience.",
+   "severity": "distortion"
+  },
+  {
+   "path": "cases[3].summary",
+   "problem": "The sentence \"Residents have resisted developer buy-outs\" is not stated in the case-study section (pages 16-19). Page 17 only says developers \"always sought out Ashwa’iyat residents to take over the land\" and that artists then added murals; the explicit statement that residents \"choose to resist\" appears on page 22 (section 6.5, reporting Lehta's interview), which is not in cases[3].pages [16,17,18,19,24].",
+   "correction": "Either add 22 (and 23, where the murals are described) to cases[3].pages, or reword to the page-17 wording: \"Developers have sought to take over the land, which would leave residents misplaced; instead artists added murals and façade designs to the existing structures (Molloy).\"",
+   "severity": "missing"
+  },
+  {
+   "path": "conclusion.summary",
+   "problem": "Opening clause \"The conclusion is deliberately nuanced rather than elegiac\" is the note-writer's editorial judgement; nothing on page 25 says the conclusion is deliberate, nuanced or contrasts it with an elegy. Everything after that clause is faithful to the text.",
+   "correction": "Although Cairo’s horizons continue to homogenise like other big cities, the outcome may not be so tragic, since today’s skylines may become tomorrow’s memory and create entirely new attachments and cultural meanings. Homogenisation changes Cairo, sometimes repetitively, but the study of local practices and community engagement reveals possible alternative futures. Homogenisation is therefore not a final outcome but an ongoing back-and-forth, a negotiation between modernisation and memory, and Cairo has the opportunity to turn repetition into relevance and homogenisation into shared identity. Its impact depends on how it is transformed.",
+   "severity": "invented"
+  },
+  {
+   "path": "architectsPerspectives.themes[0].summary",
+   "problem": "Attribution shift. The notes say \"The author links this to Sassen and King, noting that developers who pay the architects shape not just aesthetics but spatial orientation...\". On page 20 the Sassen/King link is the author's, but the developer-paying-architects point is attributed to the interviewees: \"The architects strongly stood on the fact that the developers (often the ones paying the architects) priorities not just aesthetics but also space orientation which leads the environments to resemble one another on both the inside and the outside across different sites and cities.\"",
+   "correction": "The most dominant theme: market-centred logic and developer control are seen as the central drivers of homogenisation. Mostafa says development models prioritise visual appeal, branding and financial efficiency over climate-responsive, culturally continuous and contextual design; Ghorab describes commercial return taking priority over protecting architecture in historic neighbourhoods such as West El Balad and Zamalek, where renovations favour generic global styles. The author links this to Sassen and King; the architects themselves stressed that developers (often the ones paying the architects) prioritise not just aesthetics but space orientation, so environments resemble one another inside and out across sites and cities.",
+   "severity": "distortion"
+  },
+  {
+   "path": "discussion.summary",
+   "problem": "Minor paraphrase drift: the notes say architects note loss happens \"through market change rather than intentional elimination\"; the author's wording on page 24 is \"architectural loss often happens through market research change rather than intentional elimination\". Dropping \"research\" alters the author's (admittedly odd) phrase.",
+   "correction": "...with architects observing that architectural loss often happens through market research change rather than intentional elimination...",
+   "severity": "distortion"
+  },
+  {
+   "path": "architectsPerspectives.intervieweesAsCited[3].nameAsCited",
+   "problem": "\"surname only\" is an inference. The main text (pages 11, 21) and bibliography (page 26, \"Leithy. (2026) Interview by Tala Hagras, 11 January 2026, Cairo.\") give only the single name \"Leithy\"; the file never states whether it is a surname.",
+   "correction": "Leithy (in-text citation: Leithy; bibliography entry: Leithy.; single name only, no initial given)",
+   "severity": "invented"
+  },
+  {
+   "path": "privacyFlags[0].kind",
+   "problem": "Overstates what the file shows. Page 29 carries only the headings 'Appendices' and 'Approved Appendix Form'; pages 30-36 have no extracted text at all. The contents page (page 2) lists three appendix sections (11.1 Interview Questions, 11.2 Analytical Drawings, 11.3 Ethics Documentation), so the image-only pages may hold analytical drawings as well as ethics paperwork. 'Consent paperwork' and 'participant consent details and signatures' are not stated anywhere in the file; the hedge 'treat as' should be labelled as unverified rather than presented as the pages' content.",
+   "correction": "Appendix front matter and image-only pages: page 29 is headed 'Appendices / Approved Appendix Form'; pages 30-36 contain no extracted text. The contents page lists appendix sections 11.1 Interview Questions, 11.2 Analytical Drawings and 11.3 Ethics Documentation, so these pages may hold ethics/consent paperwork and/or analytical drawings. The extracted text shows no names, emails or signatures; treat as potentially sensitive and do not reproduce.",
+   "severity": "distortion"
+  },
+  {
+   "path": "privacyFlags[1].kind",
+   "problem": "Two inaccuracies. (a) 'each transcript is headed with the interviewee's full name' is false for the fourth: the page 46 heading gives the surname only (Leithy), exactly as the bibliography does; only the three headings on pages 37, 40 and 43 give full names (and the page 37 heading reverses the name order used in the main text, so it must not be propagated). (b) 'Verbatim' is not stated in the file: page 11 says the Leithy interview was an emailed set of paragraph answers, and one transcript contains a third-person reporting sentence, so the appendix is better described as interview transcripts/written answers.",
+   "correction": "Interview transcripts and written answers of the four practising architects named in the main text and bibliography, including the interview questions (contents section 11.1) and their personal professional opinions; three transcripts are headed with the interviewee's full name and one (Leithy) with surname only, as in the bibliography. Do not copy.",
+   "severity": "distortion"
+  },
+  {
+   "path": "privacyFlags[2].kind",
+   "problem": "'Specific street addresses' (plural) overstates the file: there is a single street name in Arabic script on page 41 and no numbered addresses. The only third-party individual is on page 45 (a named person's salon, which the main text also names on page 23); pages 41-42 name two buildings/projects (also named in the main text on page 22) and other Egyptian districts/places given as examples, not individuals.",
+   "correction": "Third-party businesses/buildings named in interview transcripts (pages 41-42; the same two projects are named in the main text, page 22), one street name in Arabic script (page 41), other Egyptian districts and places cited as examples (pages 41, 42, 44), and one named third-party individual's business (page 45; also named in the main text, page 23).",
+   "severity": "distortion"
+  }
+ ],
+ "confirmed": [
+  "title: matches page 1 exactly (\"Homogenisation of Cairo’s Urban Horizons\")",
+  "subtitle: matches page 1 exactly (\"Cultural Identity, Lived Experience, and Contemporary Urban Practice\")",
+  "institutionContext: page 1 of the extracted text carries only title, subtitle, Abstract heading/text and \"Word Count: 5,039\"; no university, school or department is named. Grep confirms \"University of Reading\" occurs once in the main text, on page 11 (line 349); the other two \"University\" hits are publishers in the bibliography (Chicago, Princeton). The embedded quote \"was conducted in line with the University of Reading’s ethical guidelines\" is verbatim, page 11.",
+  "wordCountStated: \"Word Count: 5,039\" on page 1",
+  "abstract.quote: verbatim, page 1 (19 words)",
+  "researchQuestion.quote: verbatim, page 4 (42 words); summary correctly paraphrases the abstract (page 1) and the three open questions and risk framing on page 4; pages [1,4] correct",
+  "positionality.quote: verbatim, page 5; summary content (Egyptian British student between Cairo and London, Zamalek/West el Balad/Ashwa’iyat experience, UK study, bias toward culture, comparative evidence-based method, homogenisation as social and contextual process) all grounded on page 5 (apart from the pronoun issue flagged)",
+  "theoreticalLenses[0] (Koolhaas/Sassen/King): summary matches 3.1 and 3.2 on pages 5-7, including gated communities / New Administrative Capital application and \"not just style, but an outcome of chasing capital and urban production\"; pages [5,6,7] correct; the merged lens name is consistent with the abstract's three-perspective framing",
+  "theoreticalLenses[1] (Frampton): summary matches 3.3 on pages 7-8 including shaded streets, courtyards, thick walls as historical examples; pages [7,8] correct",
+  "theoreticalLenses[2] (Norberg Schulz/Pallasmaa/Zumthor): summary matches 3.4 on page 8; page [8] correct",
+  "theoreticalLenses[3] (Fathy/Arafa): section heading \"3.5 Egyptian Perspectives on Architecture Identity\" on page 8; summary matches pages 8-9; \"always changing\" is grounded in page 9 (\"always changing\"); pages [8,9] correct",
+  "methods[0] Literature review: pages [5,6,7,8,9] span the review (heading on page 5, sections through page 9)",
+  "methods[1] Comparative urban analysis and case study selection: three case studies and their descriptors, and the planned/formal/international contrasts, match page 9; pages [9] correct",
+  "methods[2] Analytical urban drawings and observation: observation foci (street life, public/private transitions, climatic response, structure detailing, movement/viewing, form and function) match page 10; pages [9,10] correct (heading on page 9, content on page 10); only the \"spatial relationships\" wording flagged",
+  "methods[3] Semi-structured interviews: summary matches page 10 (well known practising architects in the Cairo context, different fields, question foci, analysis of transcripts for root issue and patterns); pages [10] correct",
+  "limitations[0]-[4]: all five quotes verbatim on page 11; summaries accurate; limitations[4] summary's reliability point matches the \"Nevertheless...\" sentence on page 11",
+  "ethics: summary matches page 11 in full (University of Reading guidelines, informed consent, purpose and right to withdraw, optional anonymity declined, secure storage accessible only to the researcher, drawings of public environments avoiding individuals, accurate and appropriate representation); page 11 correct",
+  "aiToolDisclosure: summary matches page 11 (ChatGPT for translation/content checking of recorded interviews into transcripts and selecting theories from a premade list; theoretical material and references independently sourced; \"Nothing else was involved in the study\"); bibliography entry \"OpenAI (2026) ChatGPT (GPT-5.2) (Large language model)\" is on page 27; page 11 correct",
+  "biographicalFacts[0]: quote verbatim page 5",
+  "biographicalFacts[1]: quote verbatim page 5",
+  "biographicalFacts[2]: quote verbatim page 5",
+  "biographicalFacts[3]: quote verbatim page 11",
+  "biographicalFacts[4]: quote verbatim page 26 (fact wording flagged separately)",
+  "biographicalFacts[5]: quote verbatim page 27; all four interview dates verified against pages 26-27 (Ghorab 28 Dec 2025 p26, Lehta 05 Jan 2026 p26, Leithy 11 Jan 2026 p26, Salem 24 Dec 2025 p27)",
+  "biographicalFacts[6]: quote verbatim page 28; Figures 1-8 and 11 credited \"drawn by Tala Hagras\", Figure 9 \"drawn by Author\", Figure 10 \"captured by Seed, El. (2016)\" is the only third-party image",
+  "biographicalFacts[7]: \"Word Count: 5,039\" verbatim page 1",
+  "Privacy: no emails, signatures, form fields or appendix transcript content appear in any in-scope field; the only personal names used (Leithy on page 11, Tala Hagras on pages 26-28) come from the main text and bibliography/figure credits as permitted",
+  "All quotes in scope are under 60 words (longest is the researchQuestion quote at 42 words)",
+  "cases[0] (New Administrative Capital): all 7 observation quotes verbatim on pages 12, 12, 13, 13, 14, 14, 23; summaries faithful (p14 'unlike real Cario where street life is always busy' supports 'unlike the busy street life of the rest of Cairo'; p23 'prioritizing image, convenience, and what will be seen as progress over lived experience' supports obs 7 summary).",
+  "cases[0].figures: 'Figure 1, the Skyline of The New Administrative Capital' p12; 'Figure 2, The Grand Entrance of the New Administrative Capital' p13; 'Figure 3, The Building Shape and Size Outline' p13 - all verbatim and on the stated pages.",
+  "cases[0].spatialCondition: 'representing large scale state and developer decision driven expansion' is on p9 and 'the most accurate representation of state led and developer driven growth in Cairo' is on p12, as cited.",
+  "cases[1] (Zamalek): all 6 observation quotes verbatim on pages 14, 15, 15, 16, 16, 24 (line-wrapped text on p15/p16 normalises correctly); summaries do not add claims; 'slower form of homogenisation' wording is on p24 and the profit-driven-renovation finding on p19.",
+  "cases[1].figures: 'Figure 6, Typical Exterior of Building in Zamalek' p15; 'Figure 7, Balconies and Shading in Zamalek, Worm’s Eye View in the Narrow Streets Between Buildings' p16 - verbatim.",
+  "cases[1]/cases[2].spatialCondition: 'reflecting historic urban memory with bits of contemporary pressure' is on p9; 'different scaled districts within central Cairo' is on p1; section heading '5.2 Zamalek and West El Balad' is on p14.",
+  "cases[2] (West El Balad): all 6 observation quotes verbatim on pages 14, 15, 15, 16, 20, 21. Observation 4's quote ('As highlighted by the architects, this change reflects the market driven priorities...') is verbatim p16 and the balconies/shading clause of its summary is also supported on p16 ('Climate responsive architecture can still be seen through shaded sidewalks, balconies...'). Ghorab (p20) and Lehta (p21) attributions match the main text; names appear only as they do in the main text/bibliography.",
+  "cases[2].figures: 'Figure 4, Façade of Typical Building in West el Balad' p14; 'Figure 5, Emphasis on Balcony and Street Shading in West el Balad' p15 - verbatim.",
+  "cases[3] (Ashwa’iyat): all 7 observation quotes verbatim on pages 17, 17, 17, 17, 18, 19, 24 (obs 6's 'often ignored in official state planning' sentence begins on p18 and the quoted sentences are on p19, as cited). Obs 4 correctly avoids the vague 'hundreds or thousands' figure. The statement that the text makes no explicit climate-response observation for this case is accurate for pages 16-19.",
+  "cases[3].figures: 'Figure 8, Asha’iyat Landscape Overview' p16 (source typo preserved); 'Figure 9, Street View Ashwa’iyat Façade' p17; 'Figure 10, Artworks on Façade of the Ashwa’iyat seen from the Highway' p18; 'Figure 11, Semi Inhabited Broken Down Ashwaya (singular of Ashwaiyat)' p18 - verbatim.",
+  "cases[3].spatialCondition: p9 wording 'Ashwa’iyat (informal neighbourhoods), which demonstrate adaptation and community driven spatial design that organically grown from the lower class' and the p16 heading '5.3 Ashwa’iyat and Informal Urbanism' are both verbatim.",
+  "All quotes are under 60 words (longest is 40 words). No scores, coordinates, dates or numeric claims appear in any case beyond figure numbers.",
+  "Privacy: no emails, signatures, form fields or transcript-only names appear anywhere in cases[]; the extracted appendix text (pages 29-48) contains no '@' or signature/consent strings, and every case claim is traceable to the main text.",
+  "summaryOfFindings.summary — faithful to section 5.4 on page 19 (four studies, economic ambition/developer control/foreign styles, NAC visual modernity over human experience, Zamalek & West El Balad profit-driven renovation, Ashwa’iyat spatial/social/fluid thinking, identity renovated bit by bit, formal vs informal defence).",
+  "summaryOfFindings.quote — verbatim on page 19; pages [19] correct (section 5.4 is entirely on page 19).",
+  "architectsPerspectives.purpose — matches page 19 (perceive rise of homogenisation, driving forces, interference with cultural identity and experience, place quotes within debates on globalisation, urban memory, design practice); 'five recurring themes that all architects touched base on' is on page 19, list continues on page 20.",
+  "themes[0].title 'Developer Led Urbanism and Logical Thinking' — matches heading 6.1 (page 20); quote verbatim, attributed to (Mostafa) on page 20; pages [19,20] acceptable (theme list p19, section p20).",
+  "themes[1] 'Breaking Apart Architectural Identity' — heading 6.2 matches; summary faithful (Mostafa public space/street life decline due to private compounds and gated developments; Leithy speed/density/surface-level modernity; Lehta identity in everyday life, West El Balad renovations should embrace social life rather than museum preservation; Norberg Schulz link); quote verbatim (Lehta) on page 21; pages [20,21] correct.",
+  "themes[2] 'Loss of Environmental and Climate Responsiveness' — heading 6.3 matches; summary faithful (Mostafa sealed glass vs shading/courtyards/local material; Leithy minarets/courtyards/arcades; Frampton link); quote verbatim (Leithy) on page 21; pages [21,22] correct (final sentence of 6.3 is on page 22).",
+  "themes[3] 'Resisting Homogenisation through Adaptive Reuse and Context Specificity' — heading 6.4 matches; summary faithful (Ghorab Emaret Kodak and Consulya, exteriors preserved/interiors adapted, preservation and adaptation co-exist; Mostafa practice driven by site conditions, climatic response, human behaviour, circulation and indoor/outdoor transitions; Critical Regionalism); quote verbatim incl. ellipsis (Ghorab) on page 22; pages [22] correct.",
+  "themes[4] 'Informal Practices as Carriers of Urban Identity' — heading 6.5 matches; summary faithful (Lehta the one architect who highlighted Ashwa’iyat; not failed attempts but sites of organic identity; residents resisted buy-outs by bigger developments; artists' large-scale murals; Mohamed Saghayer’s salon hospitality ritual is named in the main text on page 23, not leaked from appendices; community-driven resistance greater than any other); quote verbatim (Lehta) on page 23; pages [22,23] correct.",
+  "intervieweesAsCited[0] Salem Mostafa — full name on pages 20/21/22, cited as (Mostafa), bibliography 'Salem, M. (2025) Interview by Tala Hagras, 24 December 2025, Cairo.' on page 27; role text matches page 10 ('well known practising architects working within the Cairo context') and page 22 ('his own practice is driven by site conditions, climatic response, and human behaviour'); no title given in text; pages [20,21,22] correct.",
+  "intervieweesAsCited[1] Hisham Ghorab — full name on pages 20 and 22, cited as (Ghorab), bibliography 'Ghorab, H. (2025)...' on page 26; Emaret Kodak and Consulya association on page 22 confirmed; pages [20,22] correct.",
+  "intervieweesAsCited[2] Nehal Lehta — full name on pages 21 and 22, cited as (Lehta), bibliography 'Lehta, N. (2026)...' on page 26; 'the one architect who highlighted Ashwa’iyat' on page 22 confirmed; pages [21,22,23] correct.",
+  "intervieweesAsCited[3] Leithy — single name on pages 11 and 21, bibliography 'Leithy. (2026)...' on page 26; emailed-interview limitation on page 11 confirmed; pages [11,21] correct (only the 'surname only' gloss is flagged above).",
+  "discussion.summary — otherwise faithful to pages 23-25 (social and spatial concept focused on profit/developer-led decisions/foreign aesthetics; NAC most accurate example, designed for show, Koolhaas Generic City; Zamalek/West El Balad slower homogenisation via small commercial renovations; Ashwa’iyat parallel setting of informality/needs/community engagement questioning informality = failure; interviews: developer-led and cost-effective decisions as key constant factors, resistance via adaptive reuse/local material/attention to experience; phenomenology key; emotional connection; identity constantly changing and negotiated on page 25).",
+  "discussion.quote — verbatim; it appears on page 24, which lies within the stated pages [23,24,25]; section 07 Discussion spans pages 23-25 correctly.",
+  "conclusion.quote — verbatim (double space after 'memory.' normalises); on page 25; page 25 correct. Under 60 words.",
+  "No numeric claims, scores, dates or coordinates added in scope beyond what the text states ('five recurring themes', 'four studies' are the author's).",
+  "No personal data (emails, signatures, form fields) from appendix pages 29-48 appears anywhere in the in-scope sections; all interviewee names and the only third-party name (Mohamed Saghayer) come from the main text or bibliography.",
+  "bibliography: all 15 entries are verbatim (whitespace-normalised; URLs the extractor split across lines rejoin exactly) and on the correct physical pages: page 26 = Arafa, Fathy, Frampton, Ghorab, King, Koolhaas, Lehta, Leithy, Molloy; page 27 = Norberg-Schulz, OpenAI, Pallasmaa, Salem, Sassen, Zumthor.",
+  "bibliography: complete and faithful, including the source's own oddities (the 'Demebver 28, 2025' typo in Molloy, the 'Accessed 05 December 2026' dates in Norberg-Schulz and Zumthor, the surname-only 'Leithy.' entry, en dashes in Frampton 'pp. 16–30' and Zumthor's title). No entry missing, none invented.",
+  "figureReferences: all 11 credits are verbatim and on page 28; thirdParty flags are correct (Figures 1-8 and 11 'drawn by Tala Hagras', Figure 9 'drawn by Author', Figure 10 credited to a third party with the Telegraph URL and 'Accessed 28 December 2025').",
+  "privacyFlags page ranges are consistent with the file: 29-36 (appendix form heading + image-only pages), 37-48 (four interview sections headed on pages 37, 40, 43, 46), and 41/42/45 for the third-party names.",
+  "privacyFlags contain no copied appendix content: no emails, signatures, Arabic text, quotes or names taken from the forms or transcripts.",
+  "Leak check: no appendix-only content appears outside privacyFlags. Every interviewee quote in architectsPerspectives and the case observations matches the main-text wording on pages 20-23, not the transcript variants (e.g. 'repetitive alterations' p.20 vs the transcript's different word on p.41; 'rather than spatial quality' p.20 vs the transcript's 'rather than by' on p.38). Emaret Kodak, Consulya and Mohamed Saghayer's salon come from main-text pages 22-23. The interviewee names used everywhere ('Salem Mostafa', 'Hisham Ghorab', 'Nehal Lehta', 'Leithy') follow the main text/bibliography, not the appendix headings. No other districts, historical dates, third-person details or transcript phrasing from pages 37-48 appear in any field.",
+  "biographicalFacts that draw on pages 26-28 (interviewer named as Tala Hagras; interview dates 24 Dec 2025, 28 Dec 2025, 05 Jan 2026, 11 Jan 2026, all listed as Cairo; Figures 1-9 and 11 author-drawn, Figure 10 third-party) are accurate to the bibliography and figure references.",
+  "aiToolDisclosure's note that 'OpenAI (2026) ChatGPT (GPT-5.2)' is a bibliography entry on page 27 is correct."
+ ]
+}

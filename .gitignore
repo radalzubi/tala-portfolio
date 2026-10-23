@@ -40,9 +40,19 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# private source material (raw archive + extraction outputs). Rebuild with scripts/extract_sources.py
-/sources/raw/
-/sources/derived/
+# Private source material. The portfolio PDF and the derived outputs for permitted pages are
+# committed to the PRIVATE repository so a cloud session can rebuild media. The dissertation
+# appendices (physical pages 29-48: ethics forms, consent forms, interview transcripts) are never
+# committed: the raw dissertation PDF, its full text, and every appendix page render/image are ignored.
+/sources/raw/*Dissertation*.pdf
+/sources/derived/text/dissertation.txt
+/sources/derived/text/dissertation/page-29.*
+/sources/derived/text/dissertation/page-[3-4][0-9].*
+/sources/derived/pages/dissertation/page-29.png
+/sources/derived/pages/dissertation/page-[3-4][0-9].png
+/sources/derived/images/dissertation/p29-*
+/sources/derived/images/dissertation/p[3-4][0-9]-*
+/sources/derived/contact/dissertation-sheet-*.png
 # playwright
 /test-results/
 /playwright-report/
@@ -50,3 +60,7 @@ next-env.d.ts
 
 # local scratch
 /.tmp/
+
+# regenerable forensics previews and python caches
+/sources/derived/crops-preview/
+__pycache__/

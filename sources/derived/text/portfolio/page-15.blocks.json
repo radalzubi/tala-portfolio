@@ -1,0 +1,102 @@
+[
+ {
+  "bbox": [
+   65.0,
+   61.16,
+   200.45,
+   70.16
+  ],
+  "type": "text",
+  "text": "PLAN / SECTION / MATERIAL\n"
+ },
+ {
+  "bbox": [
+   85.0,
+   314.36,
+   300.29,
+   328.36
+  ],
+  "type": "text",
+  "text": "PRIMARY PLAN OR SECTION\n"
+ },
+ {
+  "bbox": [
+   85.0,
+   340.16,
+   301.72,
+   349.16
+  ],
+  "type": "text",
+  "text": "Insert original DS5 drawing / image here\n"
+ },
+ {
+  "bbox": [
+   820.0,
+   234.36,
+   995.06,
+   248.36
+  ],
+  "type": "text",
+  "text": "SECONDARY DRAWING\n"
+ },
+ {
+  "bbox": [
+   820.0,
+   260.16,
+   1036.72,
+   269.16
+  ],
+  "type": "text",
+  "text": "Insert original DS5 drawing / image here\n"
+ },
+ {
+  "bbox": [
+   820.0,
+   466.86,
+   1017.83,
+   480.86
+  ],
+  "type": "text",
+  "text": "LINEN / CHIMNEY DETAIL\n"
+ },
+ {
+  "bbox": [
+   820.0,
+   492.66,
+   1036.72,
+   501.66
+  ],
+  "type": "text",
+  "text": "Insert original DS5 drawing / image here\n"
+ },
+ {
+  "bbox": [
+   65.0,
+   648.64,
+   753.69,
+   659.64
+  ],
+  "type": "text",
+  "text": "This should be the technical heart of the project: spatial arrangement, pavilion enclosure, ventilation,\n"
+ },
+ {
+  "bbox": [
+   65.0,
+   668.64,
+   356.37,
+   679.64
+  ],
+  "type": "text",
+  "text": "rainwater collection and construction logic.\n"
+ },
+ {
+  "bbox": [
+   65.0,
+   806.16,
+   1110.84,
+   815.16
+  ],
+  "type": "text",
+  "text": "TALA HAGRAS   /   ARCHITECTURE\nSOUND AROMA LOOM\n15\n"
+ }
+]

@@ -5,8 +5,12 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
+    "start": "serve out",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "check:geometry": "node scripts/check_geometry.mjs",
+    "check:contrast": "python3 -I scripts/check_contrast.py",
+    "media": "python3 -I scripts/build_media.py"
   },
   "dependencies": {
     "@fontsource-variable/hanken-grotesk": "5.3.0",

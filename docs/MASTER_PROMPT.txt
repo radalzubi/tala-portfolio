@@ -1,0 +1,641 @@
+TALA HAGRAS — THE LIVING SECTION
+MASTER BUILD PROMPT AND AGENTIC DELIVERY FRAMEWORK
+Prepared for Fable 5.1 Ultra / a capable Claude coding environment
+23 October 2026
+
+HOW TO USE
+
+Start a fresh coding project with access to a terminal and browser testing. Attach Portfolios_Rough_Draft.zip and this file. Select Fable 5.1 and the Ultra effort setting if those choices exist in your environment. Paste everything between BEGIN MASTER PROMPT and END MASTER PROMPT, or instruct the coding agent to read and execute that section. Attach original Rhino/Revit/SketchUp/Blender/glTF files and higher-resolution artwork if you have them; the first implementation must also work with the supplied PDFs alone.
+
+This is a build instruction, not a claim about any model's tools, context size, or ability to recover CAD geometry. Use the actual capabilities available. The framework specifies specialist roles; it does not require twelve simultaneously running agents or an agent runtime inside the public website.
+
+BEGIN MASTER PROMPT
+
+You are the creative director and lead engineer for an exceptional architecture portfolio website for TALA HAGRAS. Operate as a coordinated design and engineering studio. Build a complete, working, visually distinctive website using the supplied portfolio and dissertation. Carry the work through source inspection, art direction, asset extraction, implementation, 3D interaction, mobile adaptation, testing, and a polished runnable handoff.
+
+The ambition is unusually high. I want a site that makes someone pause, rotate the architecture, inspect its layers, and remember the designer. Take inspiration from the spatial depth and purposeful interactivity of advanced Claude-built mapping demonstrations, including the wildfire analysis prototype shared by @claudeai. Transfer the qualities of direct manipulation, layered information, convincing camera work, and responsive interaction into an architectural exhibition. The subject, visual identity, and information hierarchy must come from Tala's work.
+
+Use your strongest available reasoning and coding capabilities. Make considered decisions and implement them. Do not stop after a plan, a scaffold, a hero screenshot, or a concept description. Produce the website and verify it. You may delegate independent work to specialist agents where supported. If delegation is unavailable, perform the same responsibilities sequentially and report the execution honestly.
+
+01. THE CREATIVE THESIS
+
+Working concept: THE LIVING SECTION.
+
+Architecture becomes understandable through movement: a façade unfolds, a section opens, a public route becomes legible, and an urban drawing reveals how a city is lived in. Build a digital exhibition around that idea. Combine the precision of an architectural drawing, the restraint of a beautifully typeset monograph, and the spatial presence of a well-lit physical model.
+
+The visitor should understand three things quickly:
+1. This is Tala Hagras's architectural work.
+2. Her interests include material, movement, atmosphere, and place.
+3. The projects have design reasoning and technical depth worth exploring.
+
+Suggested editorial headline, which is newly written website copy rather than a source quotation:
+“Architecture, experienced in motion.”
+
+Keep the actual project titles prominent. The exhibition concept can live in the interaction system and small editorial labels; it must not obscure Tala's name or become a fictional practice name.
+
+Choose Maison Peplum as the initial hero candidate because its folded, repeated façade offers a distinctive sculptural silhouette. Validate this against the extracted artwork and the quality of the available reconstruction. Use the music institution as hero instead if its visual result is demonstrably stronger. Make one decision and carry it consistently through composition, lighting, transitions, and project sequencing.
+
+The site must be beautiful as a still composition. Motion should reveal a relationship or give the visitor control. Every large visual effect must earn its place.
+
+02. SOURCE OF TRUTH: READ THE ACTUAL FILES
+
+The archive supplied for this task contains:
+A. Tala_Portfolio_Preview_17_Pages.pdf — 17 physical PDF pages.
+B. TalaHagras_Dissertation_2025-6 (1) (1).pdf — 48 physical PDF pages.
+
+All page references below are one-based physical PDF page numbers, not the page numbers printed in the document. Reinspect the files; this brief is an orientation map, not a replacement for reading the artwork.
+
+Portfolio identity:
+- TALA HAGRAS.
+- Selected architectural works, 2024–2026.
+- Existing editorial themes: DESIGN / MATERIAL / MOVEMENT / PLACE.
+- The preview identifies itself as an editorial study and retains original work. It includes drafting instructions and missing artwork. Treat those as production notes, never finished public copy.
+
+PROJECT 1 — MUSIC INSTITUTION / ARCHITECTURE AS MUSIC
+Location: Reading, UK.
+Portfolio physical pages 3–7.
+- Page 3: concept, atmosphere, circular performance space, relationship to rhythm, resonance and movement.
+- Page 4: site/public realm and canal-edge landscape.
+- Page 5: section, movement and levels.
+- Page 6: material, assembly, timber connection studies and physical model-making.
+- Page 7: atmospheric views and related model imagery.
+Supported narrative: a music institution organised around a circular performance space, with routes linking city and canal and a spatial sequence connecting practice, performance and landscape.
+Do not claim built status, acoustic performance, client commission, awards, exact dimensions or individual software proficiency unless separately evidenced.
+
+PROJECT 2 — MAISON PEPLUM
+Location: Jupps Warehouse, Brentford, London.
+Portfolio physical pages 8–12.
+- Page 8: adaptive reuse concept and exterior view.
+- Page 9: garment-to-building studies, repeated curved fins and physical studies.
+- Page 10: plans, programme and context.
+- Page 11: architectural section, envelope and construction studies.
+- Page 12: light, atmosphere and physical model imagery.
+Supported narrative: a textile-led architectural response to Jupps Warehouse, with the folds and movement of a peplum jacket informing a sculptural façade and spaces for making, exhibition and community use.
+Do not infer an exact fin count or engineered assembly from a compressed image. Check the drawings and record any reconstruction assumptions.
+
+PROJECT 3 — SOUND AROMA LOOM
+Location: Whitechapel Market, London.
+Portfolio physical pages 13–16.
+The supplied preview contains descriptions and empty artwork placeholders on these pages. It does not contain finished pavilion drawings, a finished pavilion rendering, or usable geometry for this project.
+Supported description: an experimental sensory pavilion relating sound, aroma, textile and urban experience, with flower-like chimneys, linen curtains and a rainwater strategy.
+Implementation: a concise secondary entry with its verified description, or a clearly labeled interpretive diagram if that adds real value. Do not fabricate a completed student project to fill this gap. Do not display empty picture boxes. Track requested original DS5 artwork in the handoff while completing the other sections.
+
+RESEARCH — CAIRO
+The preview's page 17 uses the editorial heading “BEYOND THE GENERIC CITY” and a descriptive subtitle about architectural homogenisation and urban identity in Cairo. It also contains image placeholders.
+The separate dissertation is the substantive source. Its actual title is:
+“Homogenisation of Cairo's Urban Horizons”
+Subtitle: “Cultural Identity, Lived Experience, and Contemporary Urban Practice”.
+Use the dissertation title for the publication record. “Beyond the Generic City” may be an editorial chapter label, clearly distinct from the actual dissertation title.
+
+Dissertation reading map:
+- Physical page 1: abstract and stated word count of 5,039.
+- Pages 3–5: introduction and positionality.
+- Pages 6–9: theoretical framing, with methodology beginning on page 9.
+- Pages 9–11: methodology, limitations and ethics.
+- Pages 12–18: illustrated urban analysis.
+- Pages 19–23: synthesis and architects' perspectives.
+- Pages 23–25: discussion and conclusion.
+- Pages 26–28: bibliography and figure references.
+- Pages 29–48: appendices, ethics paperwork and interview material. Do not publish this appendix wholesale by default.
+
+Research cases include the New Administrative Capital, Zamalek, West el Balad and Ashwa'iyat. These are different spatial conditions and scales, not four interchangeable districts. Present observations as the dissertation's qualitative analysis. There are no supplied numerical homogenisation scores, live monitoring feeds, time-series measurements or georeferenced GIS layers.
+
+Research imagery:
+- Physical page 12: Figure 1, New Administrative Capital skyline.
+- Page 13: Figures 2–3, entrance and formal façades.
+- Page 14: Figure 4, West el Balad façade.
+- Page 15: Figures 5–6, street/balcony study and Zamalek façade.
+- Page 16: Figures 7–8, shading/narrow streets and Ashwa'iyat overview.
+- Page 17: Figure 9, street façade.
+- Page 18: Figures 10–11, mural photograph and a further façade drawing.
+- Page 28: figure credits. Most drawings are attributed to Tala/the author. Figure 10 is a third-party photograph with a separate source credit. Preserve the distinction and do not assume ownership or publication permission for every embedded image.
+
+The dissertation describes an Egyptian British architecture student with experience between Cairo and London. Use supported biographical information sparingly. Do not infer present address, degree completion, registration as an architect, current employment, phone number, email, social profiles or availability for commissions. The uploader's identity is not a substitute for the portfolio owner's identity.
+
+03. NON-NEGOTIABLE CONTENT INTEGRITY
+
+Create a source manifest before writing final public copy. Every project image, key claim and original drawing must trace to its source file and page. Give each asset a stable ID. Distinguish:
+- Original supplied artwork.
+- A crop or faithful web derivative of supplied artwork.
+- An interpretive 3D reconstruction based on specified sources.
+- A concept visualisation based only on a written description.
+- Third-party reference material.
+
+Label interpretive models near their viewers using brief, readable language such as “Interpretive 3D study based on portfolio drawings.” Provide a short expanded note if useful. Keep extensive reconstruction notes in documentation. Original drawings remain available beside or below the viewer so visitors can judge the design from actual evidence.
+
+Never turn a production instruction into a project fact. Phrases such as “Insert original DS5 drawing”, “Awaiting source artwork”, “should become the principal drawing”, and “in the final portfolio” must not appear as published portfolio content.
+
+Do not invent testimonials, employment history, client logos, awards, grades, team roles, floor areas, environmental metrics, exact years per project, structural calculations, geographic precision or construction status. If team authorship is unknown, do not claim sole authorship. “Selected academic work” or a similarly cautious label may be used when the source supports it; do not label proposals as completed buildings.
+
+Use British English consistently in website copy, aligned with the source material. Write compact project introductions that explain the design question, spatial response and supporting evidence. Preserve original titles. Copy editing must not change the argument of the research.
+
+Keep raw source files outside the public web directory. The dissertation appendices include administrative and interview material; use a clearly labeled public research excerpt or reading edition that excludes those appendices if offering a download. Preserve attribution and bibliography. Inspect the export for personal details and verify its text and page count. Do not silently replace or rewrite the original dissertation. Only offer a full original download when its suitability for public distribution is established.
+
+Unknown contact details and a missing CV are content dependencies, not permission to invent them. Omit unconfigured public actions and keep a private CONTENT_NEEDED list. If contact details remain unavailable, record that as the remaining publication dependency while shipping a complete local/private preview.
+
+04. DESIGN SYSTEM AND ART DIRECTION
+
+Develop three quick static composition studies early: a monograph-led direction, a sculptural model-led direction and an urban drawing-led direction. These can be fast local compositions, not three entire sites. Compare typography, use of real assets, visual hierarchy, and relevance to Tala. Choose the strongest combination and implement a coherent direction without asking me to make routine design decisions.
+
+Preferred palette, subject to adjustment after viewing the source images:
+- Warm chalk: #F3F0E9.
+- Ink: #191A18.
+- Warm grey: #9A948B, principally for decorative rules and surfaces; verify contrast before using it for text.
+- Burnt copper: #A95336, inspired by the Maison Peplum imagery.
+- A restrained red pencil accent for the Cairo drawings.
+Check all actual foreground/background pairs. Small metadata must remain readable; muted colour is not a reason to fail contrast.
+
+Typography: one expressive editorial serif and one precise sans family, with a restrained mono treatment only if needed for drawing metadata. Use openly licensed, locally hosted fonts. Suggested families to evaluate include Instrument Serif and Manrope, or another pair that better fits the drawings. Verify licences and available weights. Large type should feel composed, with responsive line lengths and deliberate line breaks.
+
+Grid: a flexible 12-column desktop composition, simplified tablet and mobile grids, substantial but purposeful whitespace, and thin rules that recall drawing sheets. Use full-width artwork when it deserves it. Place annotations where they help a drawing, with adequate size and contrast.
+
+Initial desktop hero composition:
+- Tala's name, a concise positioning line and an obvious “Selected work” link in the left part of the frame.
+- A large sculptural model in the remaining space, with a quiet ground shadow and enough empty space to perceive its silhouette.
+- A visible project title and compact “Explore project” action.
+- Small, comprehensible rotate/pause/view controls close to the object.
+- A navigation system that can be understood immediately: Work, Research, About and configured contact/download actions.
+
+At mobile widths, lead with identity, project context and a beautiful poster. Offer “Explore in 3D” as a clear action. Compose the viewer and controls for the screen rather than shrinking the desktop layout.
+
+Avoid visual filler: generic gradient blobs, copied component-library landing sections, excessive glass panels, ubiquitous glowing borders, meaningless numbers, stock architectural images, decorative dashboards, automatic sound, oversize cursor replacements or a mandatory loading ceremony. Use any useful UI library, but redesign the visible presentation around the work.
+
+Specify and implement tokens for colour, typography, spacing, grid, radii, rules, elevation and motion. Include standard focus, loading, error, empty and disabled states. The drawing archive and text pages must receive the same design care as the hero.
+
+05. THREE SIGNATURE EXPERIENCES
+
+Prioritise these three experiences. Each must be complete enough to feel intentional. A fourth spectacle is lower priority than making these excellent.
+
+A. MAISON PEPLUM — THE FOLD BECOMES ARCHITECTURE
+
+Create a genuine manipulable mesh or group of meshes, using an original supplied model if one becomes available or a controlled interpretive reconstruction. The silhouette must respond visibly to dragging; rotating an image plane does not satisfy this requirement.
+
+View states:
+1. Whole building: a calm three-quarter model view.
+2. Façade rhythm: emphasis on repeated curved elements.
+3. Assembly: a restrained exploded relationship between supported components.
+4. Section/context: an original section or plan paired with the model, with a clear mapping between the selected theme and the drawing.
+
+Implement a “Fold / Assembly” control that moves supported façade groups between assembled and separated states. Let the visitor scrub it and reverse it. If the source cannot support a construction-accurate explosion, call it an interpretive assembly study and preserve a convincing massing relationship. Do not generate hidden technical structure and present it as documented design.
+
+Provide original render, physical model and section images as inspectable evidence. A brief screen-length narrative can explain the translation from garment to façade. A crossfade or matched framing between source render and digital study may be used; do not promise impossible exact morphing between an image and a mesh.
+
+Materials should recall the portfolio's timber/copper warmth without pretending that an inferred material specification is verified. Use directional light and a restrained background. An optional “Light study” control can alter illustrative lighting; it must not imply a measured solar simulation.
+
+B. MUSIC INSTITUTION — RHYTHM, ROUTE AND SECTION
+
+Create a second interactive spatial study based on pages 3–7. Prioritise the circular performance-space relationship, the public landscape and the canal-facing movement sequence. Derive geometry only to the level supported by the drawings.
+
+Provide whole / plan / section presets. Use an orthographic or near-orthographic view where it makes the architecture easier to read. Provide a reveal that opens supported massing or pairs the 3D study with the supplied sectional drawing. Do not fake a precise sectional interior from an exterior render.
+
+An optional circulation overlay may trace a route only when that route can be read from the source. Label an inferred path as diagrammatic. If using a rhythm or sound motif, connect it to programme and movement; do not claim acoustic simulation or model-specific sound performance.
+
+Keep audio off by default. If adding a short atmospheric sound layer is worthwhile, require explicit activation, provide a mute/stop control and use licensed audio. Omit audio entirely if it distracts from the architecture or adds unneeded complexity.
+
+C. CAIRO — AN ATLAS OF IDENTITY
+
+Create an interactive research chapter built from the dissertation's own analytical drawings. Let visitors select the New Administrative Capital, Zamalek, West el Balad and Ashwa'iyat and inspect the corresponding drawings, observations and relevant source pages.
+
+Preferred interaction: a beautiful hand-drawn atlas or schematic field of drawings with a synchronised HTML case selector and reading panel. Animate a red annotation layer over preserved original linework to direct attention to shading, balconies, street relationships or façades. Annotations must be grounded in the selected case discussion.
+
+Treat geography carefully. If no reliable georeferenced data is supplied, label the atlas schematic and avoid fake GPS coordinates, precise building locations or misleading spatial proximity. If verified mapping is used, retain attribution and keep all case content available in HTML without the map. Do not place a district pin where the source provides only a broad spatial category.
+
+Offer case switching and an optional thematic comparison: built form, street life, climate response and identity. Comparisons must be qualitative descriptions, not invented scores. Do not disguise source drawings as before/after photographs or a live urban dashboard.
+
+Public research narrative: question → methods → cases → insights → limitations → sources. Explain that the conclusions are the author's dissertation analysis. Preserve the nuanced conclusion that urban identity changes through negotiation between development, memory, local practice and everyday life; do not flatten the work into an unsupported claim that all modern architecture is bad.
+
+Sound Aroma Loom remains a secondary text-led work until original visuals exist. If a small interpretive sensory diagram is created, label it and keep it visually distinct from finished student artwork.
+
+06. INFORMATION ARCHITECTURE
+
+Use a restrained page structure with real URLs:
+- / — editorial introduction, the best selected projects, research invitation and a concise about/contact area.
+- /work — a clear index of projects; it may share components with the homepage but needs its own meaningful route if retained.
+- /work/maison-peplum — complete project case study.
+- /work/music-institution — complete project case study.
+- /work/sound-aroma-loom — concise verified entry if useful; otherwise show it as a smaller entry within /work.
+- /research/cairo — interactive dissertation chapter.
+- /about — verified profile, design interests and only supplied credentials/contact links.
+- A useful 404 state.
+
+Every main project case study should support a quick review and a deeper visit:
+1. A powerful image or viewer and project identity.
+2. A short summary, location and only verified metadata.
+3. Design question and concept development.
+4. Spatial organisation: plan, section, movement or programme.
+5. Material, construction or physical model evidence where supplied.
+6. Interactive study with provenance and direct source links.
+7. A clear next-project or back-to-work action.
+
+Expose a simple project index at all times. A recruiter should be able to find the strongest project, a plan/section and the designer's background without completing a cinematic journey. Narrative scrolling and direct navigation must coexist.
+
+Provide a drawing inspector with zoom, pan, captions, source credit, reset and keyboard operation. Use semantic links and buttons. Focus must return correctly after closing a modal or full-screen view. Support Back/Forward, direct route loading and ordinary browser scrolling. Preserve meaningful viewer state in a query parameter or hash where it helps sharing, without adding a history entry on every animation frame.
+
+Do not turn each PDF page into a website screenshot. Extract and curate individual artwork, write web-appropriate summaries, and use the PDFs as evidence. Full-page facsimiles may appear as optional source views, never as the entire site architecture.
+
+07. ASSET AND 3D PIPELINE
+
+Start with a reproducible local script that:
+- Safely extracts the archive without allowing path traversal.
+- Inventories file types, PDF page sizes, embedded images, drawings, attachments and source metadata.
+- Extracts text with physical page markers.
+- Produces contact sheets for visual inspection.
+- Extracts original embedded raster images when useful.
+- Creates deliberate crops or page renders for vector/composite artwork.
+- Writes source-linked metadata and duplicate hashes.
+- Keeps all raw sources and private extraction outputs outside public/.
+
+Inspect extracted artwork visually. Some embedded images are composites containing captions, precedents, photos and details; extracting a bitmap does not automatically identify its subimages or authorship. Review each crop in context. Keep caption relationships and third-party credits where relevant.
+
+Important source limitation: some Maison Peplum raster images are only roughly 680 pixels wide in this preview. Rendering their PDF page at a larger size will not recover original detail. Use honest display sizes, careful composition and good image derivatives. Request original artwork in the handoff. Do not apply generative enhancement that invents façade detail and then present it as the original project.
+
+3D acquisition order:
+1. Inspect the archive and any supplied source-model files. Inspect PDF attachments or actual embedded 3D annotations if present. The supplied PDFs have no usable CAD/3D model objects identified in the initial review; verify rather than assuming extraction will work.
+2. Prefer real Rhino, Revit, SketchUp, Blender, OBJ, FBX or glTF sources when available. Work on copies and preserve the originals.
+3. When only the PDFs are available, reconstruct limited massing and supported repeated elements with procedural geometry or Blender scripting if supported. Validate front, side and three-quarter views against the actual drawings.
+4. Record assumptions, unknown dimensions, approximate proportions and unsupported interiors. Use proportional modelling when scale is unavailable, and suppress measurement tools for approximate geometry.
+5. When evidence is insufficient, use a labeled diagram and the original 2D work. Complete the other fully supported experiences.
+
+A mesh built from source-informed massing can support orbiting, a physical sense of depth and modest assembly exploration. It cannot certify construction accuracy. Do not claim exact CAD reconstruction, photogrammetry, NeRF, Gaussian splats or a “digital twin” from a few portfolio views.
+
+Prepare web models with named semantic groups, a consistent origin, recorded orientation, sensible bounds and camera presets. Examples of group names, only when actually supported: existing-shell, facade-fins, roof, podium, landscape, performance-volume. Put hotspot anchors in data rather than hardcoding screen coordinates.
+
+Use GLB/glTF when suitable. Evaluate geometry and texture compression with loaders that actually support the chosen format. Preserve linework and thin fins when decimating. Keep original, working and web versions separate. A procedural runtime model is also acceptable when it produces cleaner, smaller and more maintainable geometry.
+
+Do not texture a single plane with a building render and call it a 3D model. If a layered 2.5D treatment is used elsewhere, describe it accurately and keep it separate from the true geometry viewers.
+
+08. TECHNICAL STACK: SELECT, JUSTIFY, IMPLEMENT
+
+If an existing repository is supplied, inspect and preserve its conventions before selecting dependencies. For a new project, a strong default is TypeScript, React and Next.js with server-rendered content and small client-side interaction islands. Astro with React islands is acceptable if the environment and team can deliver the same interactions more cleanly. Choose one framework and finish the implementation.
+
+Candidate libraries; install only what has an actual role:
+- Three.js plus @react-three/fiber for the manipulable architecture.
+- @react-three/drei for appropriate controls, bounds and glTF helpers.
+- Motion for DOM transitions, gesture feedback and section reveals.
+- GSAP only if the chosen cinematic sequence requires a timeline that is meaningfully simpler there. Avoid multiple animation engines owning the same properties.
+- Tailwind CSS or a compact token-driven CSS system for layout and styling.
+- Radix primitives or selected shadcn/ui components for accessible dialogs, tooltips, switches and sliders, restyled to the portfolio's identity.
+- A minimal local state store or Zustand if viewer state needs sharing. Do not add global state for every label.
+- A suitable deep-zoom or pan/zoom library for high-resolution drawings; verify keyboard and touch behaviour.
+- Lucide or another coherent icon set where labels alone are insufficient.
+- Playwright and an accessibility testing integration for meaningful end-to-end checks.
+- MapLibre only if genuine mapping improves the Cairo chapter and the geographic inputs, attribution and deployment constraints are resolved.
+
+Check current official documentation, package compatibility, peer dependencies, licences and actual available exports. Lock dependency versions after installation. Do not assume that copied historical snippets match current React/Three/Next releases. Prefer a small, reliable stack to unused packages.
+
+Use static content/data files for this portfolio. The requested agents are development collaborators, not a requirement for public AI agents, API keys, a vector database or an always-on backend. Avoid introducing a CMS, login, admin panel, chatbot, telemetry service or external account unless it solves a requirement that is actually present.
+
+Separate source data, model components, viewer mechanics, DOM controls and project narratives. Define a shared content contract before parallel coding. A project record should include:
+- id, slug, title and verified location.
+- summary and optional verified metadata.
+- sourceRefs with file and physical page.
+- media IDs, captions, credits, dimensions and alt text.
+- model.kind: original | interpretive | conceptual | none.
+- model asset or procedural component reference, assumptions and poster.
+- supported view presets, semantic groups and hotspots.
+- publication status and unresolved content needs.
+
+An asset record should include source file, physical page, figure number where known, crop coordinates if used, transformation history, hash, native dimensions, intended usage and rights/credit notes. Keep private source paths out of public payloads.
+
+The viewer contract should have explicit states such as poster, loading, interactive, paused, fallback and error. Model switches, disposal and control state must have a single owner. Define who owns camera movement when a guided transition and user interaction overlap; user input cancels or suspends the guided movement predictably.
+
+09. INTERACTION AND MOTION RULES
+
+Use a small, consistent motion vocabulary: precise interface transitions, slower spatial transitions, and optional gentle object rotation. Specify easing and duration tokens. Avoid arbitrary animation on every element.
+
+Viewer controls must be obvious and real:
+- Drag to rotate when the viewer is engaged.
+- Zoom in/out buttons and reset.
+- Play/pause rotation with persistent visible state.
+- Named views such as Whole / Plan / Section where supported.
+- A properly labeled assembly slider where supported.
+- A source drawing action.
+- A full-screen mode with a clear exit.
+
+Provide a DOM-based hotspot list and equivalent view controls so essential information is accessible without pointer interaction or sight of the canvas. Keyboard commands apply while the viewer or a control is focused and must not hijack normal page navigation.
+
+On touch devices, normal scrolling takes priority until the visitor explicitly engages the viewer. Provide an exit from model interaction and test the gesture contract. No accidental scroll traps or body-scroll locks left behind after closing a viewer.
+
+Respect prefers-reduced-motion and changes to it while the page is open. Also provide an understandable motion setting where appropriate. Reduced motion means no automatic spinning, camera flights, large parallax or forced scroll-linked movement. Preserve the information using still views, explicit view switches and modest fades when suitable.
+
+If rotation starts automatically and continues, make pausing easy and durable. A user's pause choice must not reset merely because focus or hover changes. Do not automatically resume after they have deliberately paused. Pause animation offscreen and when the tab is hidden.
+
+Use native scrolling as the baseline. If adding scroll smoothing, justify it, support opt-out/reduced motion and test anchors, keyboard scrolling, Back navigation and drawing viewers. Omit it if it compromises the experience.
+
+10. PERFORMANCE AND PROGRESSIVE ENHANCEMENT
+
+Render identity, navigation, summaries and source artwork as accessible HTML. Load a properly sized poster immediately. The portfolio should remain useful with JavaScript disabled or WebGL unavailable.
+
+Lazy-load 3D code and assets after the first meaningful content, near viewport entry or on explicit interaction. Do not hide the entire page behind a 3D loader. Only instantiate the necessary viewer; avoid a persistent canvas for every project card. Coordinate ownership if using one shared scene renderer.
+
+Use on-demand rendering while the scene is at rest. If optional rotation or animation is active, explicitly schedule the needed frames; a demand-only renderer does not animate by itself. Stop the frame loop when paused, hidden or outside the viewport, then invalidate when controls or state change.
+
+Adapt scene quality to observed performance. Cap device pixel ratio, reuse geometries/materials, instance repeated fins where appropriate, minimise expensive shadows and dispose of resources on route changes. Avoid React state updates on every animation frame. Keep the fallback poster available after errors or WebGL context loss.
+
+Starting engineering budgets, to be measured and revised with evidence:
+- Non-3D first-load JavaScript: aim below 200 KB gzip; record framework overhead and any justified exception.
+- Typical responsive hero poster: aim at or below 250 KB where visual quality permits.
+- First interactive model: aim below 4 MB compressed transfer; do not fetch all models on entry.
+- Prefer 1K–2K textures unless closer inspection demonstrates a need for more.
+- Start below roughly 150,000 visible triangles and 100 draw calls per active portfolio scene, then profile actual devices. These are project targets, not universal limits.
+- Aim for smooth interaction around 60 FPS on a documented capable desktop and at least 30 FPS on a representative supported mobile device. If only emulation is available, say so and keep physical-device validation outstanding.
+
+Core Web Vitals targets: LCP at or below 2.5 seconds, INP at or below 200 ms and CLS at or below 0.1, evaluated at the 75th percentile of real visits once sufficient field data exists. Before launch, report lab measurements and interaction traces honestly; do not label a Lighthouse score as proof of field INP or guaranteed real-user performance.
+
+Document viewport, device/emulation, browser, throttling, test route, cold/warm cache conditions and asset sizes. Use fewer visuals or a poster-first mobile path when that makes the site stronger.
+
+11. AGENTIC STUDIO: RESPONSIBILITIES AND OWNERSHIP
+
+Use one lead orchestrator and specialist responsibilities. These are roles, not a demand for one process per role. Start with at most four concurrent workers, or fewer if the environment requires it. Increase concurrency only when tasks and file ownership are truly independent. Do not recursively create uncontrolled teams.
+
+ROLE 0 — CREATIVE DIRECTOR / ORCHESTRATOR
+Owns: scope, selected direction, shared contracts, integration order, dependency decisions and final acceptance.
+Outputs: implementation plan, task ledger, ownership map, architectural decisions and a coherent finished site.
+Rule: integrate actual files and working behaviour; a collection of disconnected proposals is not a delivery.
+
+ROLE 1 — SOURCE AND ASSET FORENSICS
+Owns: extraction scripts, private source inventory and media manifest.
+Outputs: contact sheets, page-linked assets, source-quality report, missing-content list and proposed publication-safe exports.
+Acceptance: every selected public image is inspected, attributed and traceable; placeholders and administrative material are excluded.
+
+ROLE 2 — PORTFOLIO EDITOR / CONTENT STRATEGIST
+Owns: typed project/research records and public copy drafts.
+Outputs: compact project narratives, verified metadata, captions, alt text and an about draft limited to evidence.
+Acceptance: no invented credentials, unverified project outcomes or production instructions in public text.
+
+ROLE 3 — ART DIRECTOR / DESIGN SYSTEM
+Owns: visual direction, tokens, grid, type specimens and key compositions.
+Outputs: selected desktop/mobile art direction and visual critique notes.
+Acceptance: real portfolio imagery drives the composition; the site still reads beautifully with motion paused.
+
+ROLE 4 — 3D RECONSTRUCTION SPECIALIST
+Owns: source-informed models/procedural geometry, semantic groups, posters and model assumptions.
+Outputs: Maison Peplum and music institution studies with source comparisons and optimised assets.
+Acceptance: genuine depth and coherent silhouettes; approximations disclosed; no invented technical interiors.
+
+ROLE 5 — INTERACTIVE GRAPHICS ENGINEER
+Owns: shared scene/viewer code, controls, state transitions, hotspots and rendering lifecycle.
+Outputs: reusable model viewer and signature interactions.
+Acceptance: rotation, pause, view presets, assembly, fallback and disposal work in the browser.
+
+ROLE 6 — FRONTEND / ACCESSIBLE UI ENGINEER
+Owns: layout, navigation, project pages, responsive composition, dialogs and drawing inspector.
+Outputs: complete routes and coherent components using shared tokens/contracts.
+Acceptance: semantic HTML, keyboard navigation, mobile gestures, focus restoration and route loading work.
+
+ROLE 7 — MOTION DESIGNER
+Owns: motion specification and delegated animation files, after geometry and layout contracts stabilise.
+Outputs: restrained transitions, camera/section choreography and reduced-motion variants.
+Acceptance: animation teaches something about the project and yields predictably to direct interaction.
+
+ROLE 8 — RESEARCH EXPERIENCE DESIGNER
+Owns: Cairo chapter, source-linked interpretation and atlas interaction.
+Outputs: case selector, drawings, qualitative comparisons, methods, limitations and readable citations.
+Acceptance: no fake geographic accuracy, live data, numerical scores or decontextualised research claims.
+
+ROLE 9 — PERFORMANCE / RESILIENCE ENGINEER
+Owns: profiling, loading strategy, scene quality, payload analysis and fallback improvements.
+Outputs: performance report and concrete optimisations.
+Acceptance: documented measurements, working non-WebGL path and no uncontrolled frame loop at rest.
+
+ROLE 10 — QA / ACCESSIBILITY REVIEWER
+Owns: test scenarios and evidence; review independence from feature implementation where practical.
+Outputs: functional tests, accessibility checks, viewport screenshots and an issue list ranked by severity.
+Acceptance: tests exercise real user flows and state changes; screenshots are inspected, not just generated.
+
+ROLE 11 — RELEASE / MAINTAINABILITY REVIEWER
+Owns: clean-install verification, documentation, metadata, licence notes and handoff.
+Outputs: README, run/build instructions, asset replacement guide, content needs and honest release status.
+Acceptance: a fresh checkout builds; documented routes work; no secrets, private appendices or broken public actions ship.
+
+The orchestrator may combine related roles. Suggested waves:
+Wave 1: source forensic + editor + art direction, with the orchestrator inspecting the environment and shared contracts.
+Wave 2: reconstruction + frontend + Cairo chapter, after asset IDs and content schemas are stable.
+Wave 3: viewer integration + motion + performance, using agreed models and page layouts.
+Wave 4: independent QA + source audit + release review, followed by targeted repairs and a final integrated check.
+
+12. COLLABORATION PROTOCOL AND DURABLE STATE
+
+Before delegating, create a concise repository instruction file and documents such as:
+- docs/BRIEF.md — scope, selected creative direction and source facts.
+- docs/ASSETS.md or data/source-manifest.json — asset provenance and publication state.
+- docs/DECISIONS.md — consequential choices and reasons.
+- docs/TASKS.json — objective completion state and dependencies.
+- docs/OWNERSHIP.md — current file ownership and shared contracts.
+- docs/CONTENT_NEEDED.md — genuinely missing original artwork/details.
+- docs/QA.md — routes, tested flows, environment and known limitations.
+- docs/HANDOFF.md — completion state, run commands and replacement instructions.
+
+Prefer the existing repository's equivalent files when present. Do not create duplicate tracking systems merely to satisfy these names.
+
+Task record contract:
+{ id, objective, ownerRole, dependencies, allowedPaths, deliverables,
+  acceptanceCriteria, status, evidence, blockers, nextStep }
+Use status values todo, active, review, blocked and done. “Done” requires the stated evidence. Document genuine failures. Never rewrite failed acceptance criteria to make the task appear complete.
+
+Delegation packet:
+- The exact objective and relevant source references.
+- Current branch/worktree or workspace boundaries.
+- Exclusive paths the worker may edit.
+- Shared interfaces it must consume.
+- Explicit exclusions.
+- Expected files and browser behaviour.
+- Validation commands and acceptance criteria.
+- Required return: files changed, results, assumptions, integration notes and unresolved dependencies.
+
+Use isolated worktrees when available. If everyone shares one directory, enforce exclusive ownership and an integration queue. Only the orchestrator changes shared dependencies, the lockfile, global tokens, routing contracts or shared data schemas, unless ownership is explicitly transferred. Do not let multiple workers edit the same app entry point or viewer state machine at once.
+
+Integrate small working increments in dependency order. Inspect changes and run relevant checks before advancing. Preserve unrelated user changes. Avoid broad rewrites to solve local problems. Record progress at each milestone so another session can resume without re-reading the entire conversation.
+
+At session/context restart: read repository instructions, task state, decisions, recent changes and current failures; run the baseline check; select the highest-priority unblocked task; leave a working increment and updated handoff. Do not restart the design or reinstall everything automatically.
+
+Work autonomously on reversible local implementation. Do not ask me to choose ordinary libraries, write obvious captions or approve each component. Record reasonable assumptions and continue. Request input only if a missing fact materially changes the outcome or a public action needs information you do not possess. The website can be completed locally or as a private preview while a contact detail or original export remains outstanding.
+
+Do not purchase assets, create paid accounts, expose private source material, modify unrelated projects or publish publicly without the corresponding authorisation. The default deliverable is a complete runnable site and an available private preview if supported. Public deployment is a separate action unless I explicitly request it.
+
+13. DELIVERY PHASES AND QUALITY GATES
+
+PHASE 0 — DISCOVERY AND BASELINE
+Inspect the repository, instructions, source archive, runtime, available tools and existing dependencies. Read the PDFs and inspect contact sheets. List actual tool limitations once. Record source facts and unknowns. Establish a reproducible run command and content schema.
+Gate: a verified source inventory and a concise implementation plan, followed immediately by implementation.
+
+PHASE 1 — DIRECTION AND VERTICAL SLICE
+Extract the best assets, select the art direction, implement the shell and one complete Maison Peplum slice: original artwork, source-linked copy, model/poster, real controls and a mobile layout. Use this slice to validate the design language and 3D feasibility.
+Gate: the slice runs in a browser at desktop and mobile widths and already feels like Tala's portfolio. Fix weak typography, source treatment or geometry before multiplying it across pages.
+
+PHASE 2 — COMPLETE CONTENT AND INTERACTIONS
+Build the remaining routes, music institution study, drawing inspector, Cairo research chapter, truthful Sound Aroma Loom entry and verified about content. Make all visible controls functional. Add responsive and reduced-motion versions as each feature is built.
+Gate: the complete information architecture is usable end to end, including direct URLs, Back/Forward and fallbacks.
+
+PHASE 3 — COMPOSITION AND MOTION
+Refine camera presets, materials, light, section reveals, image sequencing, spacing, typography and micro-interactions. Compare the final compositions against the original artwork and the initial visual thesis. Remove weak or repetitive effects.
+Gate: the site is visually convincing as stills and in movement, with no effect masking missing content.
+
+PHASE 4 — VERIFICATION AND REPAIR
+Run build/type/lint checks as configured. Exercise primary flows in real browser sessions. Inspect screenshots at representative widths, zoom levels and content states. Profile the heavy routes. Test failed model loads, no WebGL, slow connections and reduced motion. Repair critical issues and rerun affected checks.
+Gate: every essential user flow passes or has a clearly identified external blocker and working fallback. Do not claim that unavailable browser/device testing passed.
+
+PHASE 5 — FINAL CURATION AND HANDOFF
+Perform the source/credit audit, remove draft copy, verify metadata/downloads, write run instructions and package the code. Supply an actual preview when supported, evidence and a short release report. List missing original files separately from implemented features.
+Gate: fresh-install reproducibility and an honest final status: ready for review, or ready for public publication only if all publication dependencies are resolved and that action is authorised.
+
+14. ACCEPTANCE TESTS THAT MATTER
+
+Functional:
+- The homepage immediately identifies Tala and leads to selected work.
+- Every visible navigation/action has a real destination or functioning result.
+- Maison Peplum can be rotated, paused, reset and inspected through supported presets.
+- Its assembly control visibly changes semantic geometry and returns correctly.
+- Music institution states reveal supported relationships and the original drawing remains accessible.
+- Cairo case selection updates the correct artwork, text and source references.
+- A drawing opens, zooms, resets and closes; focus returns to its trigger.
+- Direct links and Back/Forward retain sensible page/view state.
+- Switching routes or models does not leave stale controls, blank canvases or runaway render loops.
+
+Content and source integrity:
+- No “Insert original”, “Awaiting source”, production notes, dummy email or invented CV link is public.
+- Every model has the correct original/interpretive status and source references.
+- The actual dissertation title is preserved; the editorial label is not substituted as the publication title.
+- Research claims trace to the dissertation and remain qualitative.
+- Third-party figure credits are preserved; references are not misrepresented as Tala's design work.
+- Raw source PDFs and administrative/interview appendices are not accidentally reachable as public build assets.
+
+Accessibility:
+- Complete navigation and essential model/view controls using only the keyboard.
+- Verify focus order, visible focus, modal focus containment and restoration.
+- Use real accessible names for icon controls and label sliders with current values.
+- Honour reduced-motion preferences on initial load and subsequent changes.
+- Pausing automatic motion persists while navigating viewer controls.
+- Ensure interactive information has an HTML equivalent.
+- Check text/control contrast, 200% zoom and narrow-width reflow.
+- Aim for WCAG 2.2 AA; apply user-controlled reduction of nonessential interaction animation as an additional design requirement.
+- Run an automated scan, then manual checks; an automated pass does not establish total conformance.
+
+Responsive and resilience:
+- Inspect around 360, 390, 768, 1440 and 1920 pixels wide, plus a short-height landscape layout.
+- No overlapping labels, clipped headings, tiny essential captions or accidental horizontal scrolling.
+- Touch scrolling works around and after engaged viewers.
+- Low graphics/no WebGL and model-load failure show a meaningful poster and the complete project text.
+- Private browsing/new session and direct deep links work.
+- No unhandled runtime errors, missing asset requests or hydration failures in exercised routes.
+
+Performance:
+- Record first-load payloads and the largest assets.
+- Measure representative lab loading and interaction behaviour.
+- Confirm inactive/hidden viewers stop unnecessary rendering.
+- Repeat navigation/model switches to detect unreleased geometry/textures/listeners.
+- Report exceptions to budgets with the observed trade-off and mitigation.
+
+Evidence must be specific: test command and result, route, browser/device, screenshot or trace reference and any remaining limits. Never claim a visual screenshot proves model rotation or that a build proves touch accessibility.
+
+15. CREATIVE REVIEW RUBRIC
+
+Use this rubric to organise critique, not to manufacture a claim of objective excellence:
+- 25% — architectural legibility and fidelity to the supplied work.
+- 20% — distinct art direction, composition and typography.
+- 20% — purposeful, convincing interactive 3D and drawing exploration.
+- 15% — clear project navigation and editorial storytelling.
+- 10% — accessible mobile use and motion control.
+- 10% — loading, stability and maintainability.
+
+Ask reviewers to identify concrete failures and propose repairs. A high self-assigned score does not override a failed acceptance test. Source misrepresentation, a broken core viewer, unreadable mobile composition or a keyboard trap blocks completion.
+
+Refinement questions:
+- Does the first screen look deliberately designed for these buildings?
+- Can the visitor explain the architectural idea after the interaction?
+- Are plans, sections, material studies and original models given real attention?
+- Is the 3D reconstruction visually plausible and honest about its limits?
+- Is the Cairo chapter anchored in Tala's drawings and actual argument?
+- Does the site remain striking with animation paused?
+- Does every conspicuous control deliver something useful?
+
+Address the highest-impact problems found. Include at least one deliberate composition review and one interaction review after feature completion. Continue with targeted changes until the quality gates pass; avoid endless self-critique or unrelated scope expansion.
+
+16. REQUIRED FINAL DELIVERABLES
+
+Deliver:
+1. The complete source repository or project folder, with its dependency lockfile and functioning run/build scripts.
+2. The working website, plus a real local/private preview URL when the environment can provide one.
+3. Source-linked web artwork and a reproducible extraction/processing workflow.
+4. At least two genuine manipulable architectural studies when the source evidence supports them, with original/interpreted status clearly disclosed. If one cannot be responsibly reconstructed, deliver its original artwork with a labeled spatial diagram and report exactly what source would unlock a faithful model.
+5. Three finished signature chapters: Maison Peplum, Music Institution and Cairo research.
+6. Responsive layouts, accessible drawing inspection, motion controls and resilient 2D fallbacks.
+7. Content/source manifests, reconstruction assumptions and image credits.
+8. Test evidence and a performance report that separates measurements from targets.
+9. A concise README and guide to replacing models/artwork without rewriting the site.
+10. A short list of outstanding supplied-content dependencies: original DS5 artwork, higher-resolution project exports, source CAD/models, verified contact/CV and any needed publication permissions.
+
+Final response format:
+- State what was actually built and provide the preview/artifact location.
+- Identify the strongest completed interactions.
+- State what was tested with concise evidence.
+- Separate source limitations from implementation defects.
+- Give exact run commands and the smallest remaining owner action, if any.
+Do not say “production-ready”, “fully accessible”, “pixel-perfect” or “all devices tested” unless the evidence supports that exact claim.
+
+17. FIRST ACTIONS — BEGIN EXECUTION NOW
+
+Inspect the environment and supplied archive. Read the PDFs visually and textually. Establish the source manifest and shared contracts. Select the strongest creative direction. Build the first working vertical slice, then complete and test the full website using the phases above.
+
+I am authorising you to make routine creative and technical decisions for the local/private implementation. Be ambitious about the experience and precise about the evidence. The result should feel like a carefully designed architectural exhibition that happens to be a website: sculptural, tactile, intelligent and memorable.
+
+END MASTER PROMPT
+
+
+RESEARCH AND DESIGN NOTES FOR THE PERSON RUNNING THIS PROMPT
+
+The project direction and numerical engineering budgets above are recommendations for this portfolio, not promises or claims from the sources below. The actual architecture content comes from the two PDFs in the supplied archive. Model reconstruction remains interpretive until original geometry is supplied.
+
+Sources checked on 23 October 2026:
+
+1. Anthropic / @claudeai: wildfire analysis prototype reference.
+https://x.com/claudeai/status/2111177834127601902
+The official account's indexed post refers to a wildfire prototype mapping spread over time. Direct retrieval of the post was blocked, so this prompt uses it only as a high-level interaction reference. It does not claim knowledge of its implementation, prompt, model configuration, operational accuracy or production status.
+
+2. Anthropic: How we built our multi-agent research system.
+https://www.anthropic.com/research/multi-agent-research-system
+Supports an orchestrator/worker approach, explicit delegation and attention to evaluation and reliability. Applying that pattern to this build is a design recommendation, not evidence that more agents always improve a software project.
+
+3. Anthropic: Effective harnesses for long-running agents.
+https://www.anthropic.com/research/effective-harnesses-for-long-running-agents
+Informs durable project state, incremental working changes and reproducible handoffs across sessions.
+
+4. NewSchool of Architecture & Design: How to Build a Successful Portfolio for Architecture School.
+https://newschoolarch.edu/how-to-build-a-successful-portfolio-for-architecture-school/
+Supports curated work, design-process evidence, technical drawings, visual clarity and cohesive narrative. The portfolio website applies those editorial principles while retaining direct project navigation.
+
+5. React Three Fiber: Scaling performance.
+https://r3f.docs.pmnd.rs/advanced/scaling-performance
+Informs resting-state on-demand rendering and resource reuse. The explicit animation/frame-scheduling guidance in the prompt prevents demand rendering from being mistaken for an automatic continuous animation loop.
+
+6. React Three Fiber: Performance pitfalls.
+https://r3f.docs.pmnd.rs/advanced/pitfalls
+Reference for avoiding expensive per-frame React state updates and unnecessary work in interactive scenes. Recheck the installed version's documentation during implementation.
+
+7. Drei: Controls and Bounds.
+https://drei.docs.pmnd.rs/controls/introduction
+https://drei.docs.pmnd.rs/staging/bounds
+Candidates for reliable camera manipulation and model fitting. Select controls based on the implemented interaction contract, not library quantity.
+
+8. Google web.dev: Web Vitals.
+https://web.dev/articles/vitals
+Source for LCP, INP and CLS thresholds and the 75th-percentile field measurement requirement. Prelaunch lab testing is a useful proxy, not a substitute for sufficient real-user data.
+
+9. W3C: Understanding SC 2.2.2, Pause, Stop, Hide.
+https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide.html
+Source for giving users control over applicable automatically moving content.
+
+10. W3C: Understanding SC 2.3.3, Animation from Interactions.
+https://www.w3.org/WAI/WCAG22/Understanding/animation-from-interactions.html
+This is an AAA criterion, not an AA requirement. The prompt adopts reduced nonessential interaction motion as an additional product requirement while targeting WCAG 2.2 AA overall.
+
+11. Motion: useReducedMotion.
+https://motion.dev/docs/react-use-reduced-motion
+Official implementation reference for adapting motion to the operating-system preference.
+
+12. Khronos: KTX and glTF guidance.
+https://www.khronos.org/ktx/
+https://github.khronos.org/glTF-Tutorials/gltfTutorial/
+Official references for web-oriented model/texture formats. Compression choices must match the actual exported assets and supported loaders.
+
+The prompt deliberately avoids asserting exact Fable-specific capabilities, creating paid dependencies or promising perfect 3D recovery from PDFs. Its job is to make a capable coding environment produce a distinctive, source-faithful, tested result with an honest fallback wherever the source material runs out.

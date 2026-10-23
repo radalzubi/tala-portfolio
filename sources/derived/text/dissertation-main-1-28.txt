@@ -1,0 +1,809 @@
+=== PAGE 1 ===
+ 
+Homogenisation of Cairo’s Urban Horizons 
+Cultural Identity, Lived Experience, and Contemporary Urban Practice​
+ 
+Abstract  
+This dissertation investigates how the growing homogenisation of the contemporary built 
+environment of Cairo impacts its own architectural identity. Through a mix of different 
+methods like a literature review, analytical urban drawings, critical observation, and semi 
+structured interviews with practicing architects in Egypt, this research examines how 
+homogenisation rises across multiple urban scales and how architects and communities 
+deal with these pressures in practice. 
+The study is structured by three theoretical perspectives. First the perspective on 
+globalisation and the Generic City through the lens’ of Koolhaas, Sassen and King,  followed 
+by critical regionalism through Frampton, and finishing off with phenomenology of place 
+with Norberg Schulz, Pallasmaa and Zumthor. Together this establishes an analytical lens 
+that is used to assess Cairo’s evolving urban state. The case studies included are the New 
+Administrative Capital of Cairo and different scaled districts within central Cairo to 
+compare between large scale development plans, historical urban identity, and 
+neighbourhoods that gradually changed through everyday life. Simultaneously revealing 
+alternative approaches rooted in adaptive reuse, context specific responsiveness, and 
+focused strategies. The research sheds light on ways to resist homogenisation and 
+negotiate terms that reinforce Cairo’s character.  
+ 
+Word Count: 5,039 
+ 
+
+=== PAGE 2 ===
+ 
+ 
+Contents 
+1.​
+Introduction                                                                                                          Pages 2 - 3 
+2.​
+Positionality                                                                                                           Pages      4 
+3.​
+Literature Review                                                                                                 Pages 4 - 8  
+3.1.​
+Architectural Homogenisation and the Generic City 
+3.2.​
+Globalisation, Capital, and Urban Production 
+3.3.​
+Critical Regionalism and Contextual Design 
+3.4.​
+Phenomenology of Place and Lived Experience 
+3.5.​
+Egyptians Point of View 
+4.​
+Methodology                                                                                                        Pages 8 - 10 
+4.1.​
+Research Approach and Case Study Selection 
+4.2.​
+Analytical Urban Drawings and Observation 
+4.3.​
+Semi-Structured Interviews 
+4.4.​
+Limitations of the Study 
+4.5.​
+Ethics 
+5.​
+Urban Analysis                                                                                                   Pages 11 - 18 
+5.1.​
+The New Administrative Capital  
+5.2.​
+Zamalek and West el Balad 
+5.3.​
+Ashwa’iyat 
+6.​
+Architects Perspectives on Homogenisation in Cairo                               Pages 18 - 22 
+7.​
+Discussion                                                                                                          Pages 22 - 24 
+8.​
+Conclusion                                                                                                          Page          24 
+9.​
+Bibliography                                                                                                      Pages 25 - 26 
+10.​
+Image References                                                                                             Pages         27 
+11.​
+Appendices                                                                                                        Pages 28 - 47 
+11.1.​
+Interview Questions 
+11.2.​
+Analytical Drawings 
+11.3.​
+Ethics Documentation 
+1 
+
+=== PAGE 3 ===
+ 
+ 
+01 Introduction  
+We live in an age defined by speed. Architecture today is shaped by efficiency, refinement, 
+and visual simplicity with sleek façades, smooth surfaces, and quick construction methods 
+that prioritise functionality and time efficiency. Buildings rise quickly, cities expand even 
+quicker, and design begins to respond to convenience rather than continuity now more 
+than ever. Contemporary architecture embraces clean modernism, technological 
+advancement, and global unity. Yet in this pursuit of progress, something quieter has begun 
+to fade. 
+There was a time when architecture was crafted slowly and deliberately. There was a 
+purpose. Corners were engraved, materials were layered, and façades had the work of a 
+lifetime. Stone was carved through generations, details told stories, and buildings were 
+made with intricate detailing, focus and patience rather than speed and profit turnover. 
+Inconvenience was not avoided but embraced. The thick walls to control climate, the 
+courtyards for social interactions, and the architectural detail for cultural values. 
+Architecture was not just built, it was embraced and taken care of. 
+Today, skylines all over Dubai, London, New York, and even Cairo, are beginning to look the 
+same. Glass towers, muted palettes, and generic masterplans take over these cities, cities 
+that are often seen as references of modernity and progress. As they become the 
+benchmarks of finance, culture, and development, they become reference points for what 
+contemporary architecture should look like, acting as a muse and model for emerging 
+cities. This creates environments that feel generic no matter the place, this is 
+homogenisation.  
+Cairo today exists between two realities. One side, shaped by centuries of history, climate 
+responsive architecture, and social life. On the other side lies New Cairo with spaces that 
+are defined by large scale masterplans, gated communities, and modern developments that 
+are meant to symbolize Cairo as a city of progress, modernisation, and goals. Egypt is an 
+emerging global destination, especially since the opening of the Grand Egyptian Museum 
+2 
+
+=== PAGE 4 ===
+ 
+ 
+and tourism rates have gone up. Architecture has become a visible tool for projecting their 
+advancements as a country to the world. The country feels the need to be seen as 
+contemporary, efficient, and internationally up to date to prove their growth.  
+Cairo’s new developments continue to take from modern aesthetic languages, mainly 
+within New Cairo and the New Administrative Capital. There the aesthetics are inspired 
+from those big cities, symbols of global ideals while it often overlooks the site specific 
+design like climate, social behaviour, and history as it is not specific to Cairo. As 
+architecture becomes more separated from culture questions rise, where is individuality? 
+Where did architecture’s ability to tell stories go? And what happens to identity when 
+different cities all begin to look the same? 
+Historically, Cairo’s architecture was shaped by climate, social life, and natural changes. In 
+the past few decades, this has leaned toward real estate driven developments and large 
+scale planning that prioritise quick construction, aesthetic appeal, and commercial return, 
+often producing spaces that are disconnected from Cairo’s history. The research puts 
+homogenisation under the light as not just a phenomenon, but as a social and spatial 
+concept that is controlled by economic pressures, government decisions, and developers’ 
+ideals. 
+Using Cairo as the main focus, the selected case studies being researched are the New 
+Administrative Capital, a central district called Zamalek, and another called West el Balad 
+and finally the informal neighbourhoods called Ashwa’iyat. The research looks at theories of 
+globalisation, critical regionalism, and phenomenology of place. Through literature review, 
+urban analysis, analytical drawings, and interviews with architects, it explores how 
+homogenisation is accomplished. The dissertation dives into whether or not the future of 
+Cairo’s architectural identity is at risk and how it depends on balancing contemporary 
+development with culture and context responsive design as well as understanding 
+architecture’s role as a story teller of history. 
+ 
+3 
+
+=== PAGE 5 ===
+ 
+ 
+ 
+02 Positionality  
+This research is informed by my position as an Egyptian British architecture student who 
+has lived between Cairo and London. Experiencing both worlds has made me understand 
+questions of architectural identity, cultural unity, and globalised development. Growing up 
+in Cairo allowed for firsthand experience of historic urban architecture in Zamalek and 
+West el Balad as well as the Ashwa’iyat. While studying in the UK I got insight into the 
+planning designs and contemporary architectural practices of the West. These experiences 
+eventually influence my perception of architecture and my interest in homogenisation as 
+well as becoming visually aware of its impact. 
+I am aware that this background may push me to value culture over homogenisation. To 
+limit this personal bias, this dissertation adopts a comparative and evidence based 
+methodology, combining architectural theories, urban analysis, analytical drawings, and 
+semi structured interviews with practicing architects. Rather than presenting 
+homogenisation as a negative aspect, the research approaches it as a social and contextual 
+process controlled by economic pressure, government decisions, and practices. 
+By gaining information through semi structured interviews, researched case studies, and 
+analytical drawings by urban observation, the research is balanced and subjective with 
+critical analysis. This reflective approach allows architectural identity to be examined not 
+as something set, but as something constantly changing by both global influence and local 
+practice. 
+ 
+03 Literature Review  
+3.1 Architectural Homogenisation and the Generic City 
+4 
+
+=== PAGE 6 ===
+ 
+ 
+Architectural homogenisation is the increase of visual and spatial similarity of cities across 
+the world. Different demographics all driven by the same forces. Koolhaas best captures 
+this through his work, the “Generic City,” describing urban environments that become 
+detached from history, identity, and site specific context over time (Koolhaas). Within the 
+Generic City, architecture prioritises efficiency, flexibility, and scale, creating landscapes 
+that would be overtaken by glass towers, neutral palettes, and repetitive masterplans 
+(Koolhaas). 
+Koolhaas argues that this comes from processes of globalisation and capital flow, allowing 
+urban forms to be replicated across the world with little to no change (Koolhaas). As cities 
+compete for global recognition, architecture becomes repetitive. This is due to the fact that 
+it is no longer influenced and driven by culture but more by efficiency and market 
+demands. This makes environments that feel as though they don’t belong anywhere, lost in 
+the world with no identity and no need for change. 
+These patterns are becoming more visible in Cairo because of the increase in gated 
+communities and large scale developments like the New Administrative Capital. Such 
+projects often use international design languages that focus on how to make things look 
+modern while ignoring climate, social experience, and history. Koolhaas’s framework 
+furthermore gives a perspective for understanding how Cairo’s contemporary development 
+adds to a wider range of global trends toward homogenisation (Koolhaas). 
+3.2 Globalisation, Capital, and Urban Production 
+Building on Koolhaas’s philosophy, Sassen, the theorist of ‘Global City’, stresses how the 
+global economic networks shape modern cities. They identify global cities as strategic 
+nodes in international financial systems where architecture is used to attract investment, 
+tourists, and business (Sassen). Urban form is becoming more and more influenced by 
+market logic, creating landmark projects and business districts to show that the city is 
+competing to this ideal of constant renovation (Sassen). 
+5 
+
+=== PAGE 7 ===
+ 
+ 
+Anthony D. King explains that architectural modernity is usually adopted from dominant 
+global cities, to developing areas, hence creating this inconsistent power dynamic in spatial 
+design (King). Architectural models created in Western contexts are replicated elsewhere, 
+usually without any amending to local culture or climate. Yet again contributing to 
+homogenisation by embracing the universal aesthetic symbolized by success and 
+development (King). 
+In upcoming cities like Cairo, globalization comes around with goals like economic growth 
+and international recognition. In order to show modern identity they opt for large scale 
+developments especially in times of increased tourism and cultural investment (Sassen). 
+However, this focus on attracting tourists and being recognized worldwide often leads to 
+pushing away from the existing history that lives in the day to day designs. Over time this 
+will replace the local identity causing Cairo to adopt another generic design (King). 
+Furthermore, homogenisation is not just style, but an outcome of chasing capital and urban 
+production. 
+3.3 Critical Regionalism and Contextual Design 
+Responding to the homogenising effects of global modernism, Frampton presents ‘Critical 
+Regionalism’ as an architectural approach that blends both universal civilisation and local 
+culture (Frampton). Frampton does not go against modernity, but supports it in a different 
+light. He believes in architecture that focuses on climate, topography, materiality, and 
+cultural context. He says the way in which to fight homogenization is through feel, social 
+awareness, and spatial orientation. (Frampton). 
+This theory shows that architecture should come from site specific context instead of 
+copying styles. Critical regionalism has a theory of how to reject generic styles. Doing this 
+by sourcing local materials, design climate specific approaches, and really focus on cultural 
+design, (Frampton). 
+The shaded streets, courtyards and thick walls in Cairo are all historical architectural 
+examples of traditions that answer to the climate and social life there. Contemporary 
+6 
+
+=== PAGE 8 ===
+ 
+ 
+designs that choose these strategies show that context and site specific design are still 
+important. Frampton’s work acts as a lens for analyzing if recent developments in Cairo 
+respond purposefully with place or just adopt generic global design(Frampton). 
+3.4 Phenomenology of Place and Lived Experience 
+Critical regionalism pays attention to architectural form and environment, phenomenon 
+theorists put their attention towards lived and sensory experience. Norberg Schulz says 
+that architecture’s role is to create meaningful connections between people and place to 
+encourage human engagements. This is believed to be done through introducing the 
+concept of ‘Genius Loci', or the spirit of place (Norberg Schulz). Architecture is special by 
+being able to create an experience inside a place (Norberg Schulz). 
+Similarly, Pallasmaa believes in multisensory design and that architecture must have touch, 
+feel, memory, and atmosphere (Pallasmaa). Zumthor shares that thought when he stressed 
+the importance of material presence and emotional impact, saying that architecture must 
+have meaning through sense and experience (Zumthor). 
+Phenomenology changes the meaning of homogenisation, it is an experience of how spaces 
+are felt, occupied, and remembered (Norberg Schulz, Pallasmaa, Zumthor). This new 
+meaning of it lets architectural identity be seen in a different light, as a phenomenon that is 
+constantly changing, never fixed or still. 
+3.5 Egyptian Perspectives on Architecture Identity 
+Egyptian architecture philosophies further elaborate on these global theories. Hassan Fathy 
+speaks for climate responsive and community led architecture. While he stresses the 
+importance of cultural knowledge, local materials, and socially embedded design, his work 
+shows how architectural identity in Egypt historically changed (Fathy). These changes are 
+because of needs, environment, and community life rather than to keep up with the global 
+trends (Fathy). 
+7 
+
+=== PAGE 9 ===
+ 
+ 
+A more recent architect, Walid Arafa, continues this theory by combining contemporary 
+design with culture. This shows how modern architecture can remain in place while still 
+meeting today’s needs (Arafa). These perspectives stress on the importance that 
+architectural identity in Egypt is another factor that is always changing. Whether it is 
+through adaptation, reuse, or lived experiences, it is never fixed.  
+These local perspectives support the argument that Cairo’s architectural identity has 
+changed through community, climate response, and history. However, today’s 
+developments prioritize speed and marketability. By putting both perspectives together, 
+this dissertation places Cairo in a broader discussion on homogenisation while analyzing its 
+cultural and historical conditions. 
+ 
+04 Methodology 
+4.1 Research Approach and Case Study Selection 
+The research is a comparative urban analysis across different scales, analysing both large 
+scale developments and small everyday neighbourhoods. Three key case studies are the 
+New Administrative Capital, representing large scale state and developer decision driven 
+expansion, central Cairo districts Zamalek and West El Balad, reflecting historic urban 
+memory with bits of contemporary pressure, and Ashwa’iyat (informal neighbourhoods), 
+which demonstrate adaptation and community driven spatial design that organically grown 
+from the lower class. 
+These case studies were chosen to embody the contrasting natures of urban designs in 
+Egypt. The planned versus nature, formal versus informal, international versus local design. 
+Side by side, comparing and contrasting, they provide a comprehensive research which 
+through that homogenisation can be seen as a spatial, social, and cultural concept. 
+4.2 Analytical Urban Drawings and Observation 
+8 
+
+=== PAGE 10 ===
+ 
+ 
+Analytical urban drawings create a main factor of the research that serves as tools for 
+significant and individual interpretation rather than representational and generic imagery. 
+Mapping, sectional studies, and diagrammatic analysis were used to examine urban forms, 
+shapes and structures as well as circulation patterns, material presence, and significant 
+relationships across the selected case study areas. These drawings were curated by direct 
+observation and photographic documentation. 
+The urban observation part focused on street life, transitions between public and private 
+space, climatic response and structure detailings. Particular attention was given to the 
+detailings and intricate work done which revealed contrasts between highly controlled 
+developments and organically evolved neighbourhoods. Attention to how people moved 
+and viewed the developments were also analyzed. This visual and use of space methodology 
+allows homogenisation to be understood not only through form, but through function. 
+4.3 Semi-Structured Interviews 
+Semi structured interviews were conducted with well known practising architects working 
+within the Cairo context. The architects practice in different fields allowing for more depth 
+to be covered. This method was selected to allow for the discussion to be structured while 
+still having free flowing expansion on professional experiences and personal perspectives. 
+Interview questions focused on perceptions of architectural homogenisation, the loss of 
+identity (if there was), and ways to bring it back through contextual and socially focused 
+practice. 
+The interviews were transcribed and analysed to identify the root issue of homogenisation. 
+Also used to depict any underlying patterns relating to market and development, any focus 
+on climate responsiveness architecture, adaptive reuse, public life, and informal urban 
+architecture. These professional insights complement the urban analysis by revealing the 
+realities shaping Cairo’s built environment. 
+4.4 Limitations of the Study 
+9 
+
+=== PAGE 11 ===
+ 
+ 
+The research is limited by the number of interviews conducted. The translation of Arabic to 
+English is also a limitation as the depth and meaning of some of the words may not be as 
+dramatic, intense or accurate when translated to another language. Another limitation 
+would be the emailed interview with Leithy, a face to face conversation wasn’t conducted 
+but a simple paragraph answer to each question, no discussion to understand the thought 
+process. While the selected case studies provide depth, they do not represent all urban 
+conditions within Greater Cairo. Time issues also limited the extent of on site observations, 
+meaning more could have been made. Nevertheless, analytical drawings, interviews, and 
+literature strengthens the reliability of the findings by allowing multiple different methods 
+of evidence to advise the analysis. 
+4.5 Ethics 
+This research was conducted in line with the University of Reading’s ethical guidelines. 
+Semi structured interviews were carried out with practicing architects who gave their 
+informed consent, ensuring that the participants were made aware of the purpose of the 
+study and their right to withdraw at any time. Interview data has an optional choice to be 
+made anonymous however the architects interviewed claimed to be happy with sharing 
+their name. Audio recordings and written materials were securely stored and accessible 
+only to the researcher.  
+ChatGPT was used as an assistance tool checking translation and content of the recorded 
+interviews into transcripts. As well as assisting the selection of relevant architectural 
+theories for the literature review from a premade selection list. All theoretical material and 
+references were independently sourced.  
+Nothing else was involved in the study. The observational and analytical drawings made 
+were solely focused on public environments and architecture, avoiding including any 
+individuals in the drawings. The research aimed to represent the places and communities 
+accurately while ensuring that it is presented in an appropriate manner. 
+ 
+10 
+
+=== PAGE 12 ===
+ 
+ 
+05 Urban Analysis - Case Study 
+This urban analysis looks at how architectural homogenisation shows up in different urban 
+conditions throughout Cairo. The four main studies previously mentioned, the New 
+Administrative Capital, Zamalek, West El Balad, and Ashwa’iyat. They are a contrasting 
+range of areas. Using analytical urban drawings, site observation, and photographic 
+documentation, this explores spatial, material, social, and climate responsiveness. This 
+shows modern developments’ relationship with history and informal urban practices. 
+5.1 The New Administrative Capital  
+The New Administrative Capital represents the most accurate representation of state led 
+and developer driven growth in Cairo. Its goal was to be a symbol of progress, growth and 
+modernisation, publicized by its large scale, wide boulevards, and government areas. 
+Analytical drawings demonstrate a spatial logic behind it through the isolated buildings and 
+how it prioritizes vehicle movement over pedestrians, visual symmetry over social 
+environments, and spatial organization over human engagement.  
+Figure 1, the Skyline of The New Administrative Capital 
+11 
+
+=== PAGE 13 ===
+ 
+ 
+Most buildings within the New Capital are identical, more or less. The glass façades, neutral 
+material schemes, and generic office and residential blocks. These parts look similar to 
+global districts found in larger cities like London, Dubai, and New York, adding to this 
+global urban design language. However, this adopted style isn’t made for the climate 
+condition of Cairo, relying too much on mechanical cooling, instead of adopting things like 
+shading, courtyards, and thick walls that are usually done in Egyptian architecture. 
+Figure 2, The Grand Entrance of the New Administrative Capital 
+Figure 3, The Building Shape and Size Outline 
+12 
+
+=== PAGE 14 ===
+ 
+ 
+Urban observation shows a lack of consideration for everyday street life. This is shown 
+through the little to no public space, mainly there for show rather than an actual social 
+environment. This is unlike real Cario where street life is always busy. Similar to the 
+architect’s focus on developer led designs that prioritize image and efficiency over spatial 
+logic and culture. The New Administrative Capital is a core example of Koolhaas’s Generic 
+City, identity there is replaced by bigger and modern designs while their architecture 
+becomes detached from site specificity. 
+5.2 Zamalek and West El Balad 
+ 
+Figure 4, Façade of Typical Building in West el Balad 
+ 
+Zamalek and West El Balad are historical areas of Cairo, loved by their depth of 
+architectural significance, the dense busy streets, mixed use areas, the detailings on the 
+façade and characteristics that have been shaped by the everyday social interactions. 
+13 
+
+=== PAGE 15 ===
+ 
+ 
+Analytical drawings show more detail into the modern structure, narrower streets, and the 
+unspoken borders between public and 
+private, emphasizing the core belief that 
+architecture must be felt and lived, not 
+just seen. 
+However, today both these historical 
+areas begin to feel the pressure of 
+homogenisation. In Zamalek, residential 
+buildings are slowly converting into 
+commercial, while façade renovations 
+replace original detailing with generic 
+finishes. West El Balad also shows a loss 
+of architectural identity through 
+minimal storefronts and renovations 
+done for business and capital. These 
+changes slowly kill the history on the 
+street and erase the urban memory. 
+Figure 5, Emphasis on Balcony and Street 
+Shading in West el Balad 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6, Typical Exterior of Building in Zamalek 
+14 
+
+=== PAGE 16 ===
+ 
+ 
+ 
+Figure 7, Balconies and Shading in 
+Zamalek, Worm’s Eye View in the Narrow 
+Streets Between Buildings 
+ 
+ 
+Climate responsive architecture can still 
+be seen through shaded sidewalks, 
+balconies, and  unspoken borders 
+between public and private. These 
+methods show how historic architecture 
+focused on both the environment and 
+social life. However modern renovations 
+often ignore these strategies and favour 
+sealed interiors and modern materials. As 
+highlighted by the architects, this change 
+reflects the market driven priorities that 
+disregard making the architecture deep 
+and felt in favour of quicker construction 
+and profitability. 
+ 
+5.3 Ashwa’iyat and Informal Urbanism  
+Figure 8, Asha’iyat Landscape Overview 
+15 
+
+=== PAGE 17 ===
+ 
+ 
+In contrast to formal developments, Ashwa’iyat, organically grown informal 
+neighbourhoods, which may seem odd to analyze, but the Ashwa’iyat are a large part of 
+Cairo’s history. It reveals an alternative of urban production that solely focuses on needs, 
+adaptation, and community. Analytical drawings show the compact building and spatial 
+organization as well as the flexibility and accessibility to add construction overtime. 
+ 
+Figure 9, Street View Ashwa’iyat Façade  
+Unlike planned developments, Ashwa’iyat change over time, responding directly to 
+residents’ needs rather than masterplans from large developing practices. Developers 
+always sought out Ashwa’iyat residents to take over the land to build a modern 
+development however this would leave hundreds or thousands misplaced. Instead artists 
+decided to make the Ashwa’iyat more memorable and create murals and façade designs on 
+top of the existing structure (Molloy). They collectively express identity, culture and rooted 
+memory into the urban fabric.  
+16 
+
+=== PAGE 18 ===
+ 
+ 
+ 
+Figure 10, Artworks on Façade of the Ashwa’iyat seen from the Highway  
+ 
+Figure 11, Semi Inhabited Broken 
+Down Ashwaya (singular of 
+Ashwaiyat) 
+ 
+The urban observation identified the 
+strong street life presence, 
+spontaneous interaction, and spatial 
+use, only emphasizing the theory of 
+place as a lived experience even 
+more. Ashwa’iyat are often ignored in official state planning however they represent a 
+17 
+
+=== PAGE 19 ===
+ 
+ 
+strong part of Cairo and its social life as well as spatial logic that many new developments 
+could learn from to keep identity alive. Their resistance to modernization is admirable. This 
+shows the potential of a bottom up urban design that resists homogenisation because of 
+the strong cultural expression that lives within them.  
+5.4 Summary of Findings 
+Across all four studies, homogenisation comes out as a complex process. It is controlled by 
+economic ambition, developer control, and foreign architectural styles. The New 
+Administrative Capital reflects large scale generic modernization that only prioritizes visual 
+modernity over human experience. Zamalek and West El Balad reflect how historic 
+neighborhoods slowly lose their character through profit driven renovation. Ashwa’iyat, 
+however, reveals different ways of thinking spatially, socially and fluidly.  
+These case studies demonstrate that architectural identity in Cairo is not vanishing 
+overtime, but is being renovated bit by bit. While formal developments adopt globalised 
+aesthetics thinking they are improving the city, informal neighbourhoods and adaptive 
+historic concepts continue to defend their culturally rich environment.  
+ 
+06 Architects Perspective on Homogenisation in Cairo 
+The purpose of the interviews with the architects was to understand how practicing 
+architects perceive the rise of architectural homogenisation in their city. The purpose was 
+also to understand the driving forces as well as the interference it has with cultural identity 
+and experience. The following analysis will integrate the recurring statements and specific 
+quotes from the architects and place them within debates on globalisation, urban memory, 
+and design practice discovered from previous theories and philosophies researched.  
+After the interviews were recorded there were five recurring themes that all architects 
+touched base on. First the developer led design and logical thinking for the market, second, 
+division of architectural identity and the rise of social life, third, environmental disregard 
+18 
+
+=== PAGE 20 ===
+ 
+ 
+and loss of climate responsive architecture, fourth, resistance of adaptive reuse and 
+context responsive design, and lastly informal practices as carriers of urban identity. These 
+themes reveal not only shared concerns but also a variety of priorities based on the 
+architects’ professional experiences and design philosophies. 
+6.1 Developer Led Urbanism and Logical Thinking 
+The most dominant theme across all interviews was the perception that market centered 
+logic and developer control were central drivers of homogenisation in Cairo. According to 
+Salem Mostafa, current development models prioritise visual appeal, branding, and 
+financial efficiency over climatic responsive design, cultural continuity, and contextual 
+design: “Architectural decisions are often driven by financial efficiency and visual appeal 
+rather than spatial quality or cultural unity.” (Mostafa) 
+Similar to this, Hisham Ghorab said that there was a priority of commercial return over 
+protecting architecture in historic neighbourhoods. Examples are West El Balad and 
+Zamalek, where renovations are made in favour of generic global styles: “Many streets have 
+lost their specificity, replaced by generic storefronts and repetitive alterations aimed at fast 
+commercial return rather than cultural continuity.” (Ghorab) 
+These statements reflect broader academic observations about globalisation’s influence on 
+architectural production. This world is economically dependent, the commercial return 
+often overrides identity embedded design (Sassen and King). The architects strongly stood 
+on the fact that the developers (often the ones paying the architects) priorities not just 
+aesthetics but also space orientation which leads the environments to resemble one 
+another on both the inside and the outside across different sites and cities. 
+6.2 Breaking Apart Architectural Identity 
+Architects also stated that homogenisation in Cairo is not only superficial style and goes 
+into the social life and real life experiences. Salem Mostafa highlighted how there is a 
+decline of public space and street life, arguing that it is due to private compounds and 
+19 
+
+=== PAGE 21 ===
+ 
+ 
+gated developments that caused a divide in the social unity: “Public space is steadily 
+diminishing… reducing opportunities for spontaneous social interaction.”(Mostafa) This 
+aligns with Leithy’s opinion of contemporary urbanisation, where historical presence has 
+been replaced by broken up and disconnected developments: “Architecture has shifted 
+toward speed, density, and surface-level modernity … weakening the urban character that 
+once defined Cairo.” (Leithy)  
+For Nehal Lehta, architectural identity is not carried in just preserved façades but is 
+experienced through everyday life. She believed that West El Balad’s ongoing renovations 
+should prioritise and embrace the social life and architecture rather than be like a museum 
+and keep them as is in preservation: “Identity is not just heritage façades but the daily life 
+they contain.” (Lehta) These inputs almost copy or mimic Norberg Schulz’s philosophy that 
+true architecture is in the human interaction with space and place (Norberg Schulz), once 
+again stressing that identity loss cannot be measured just by viewing the architecture but 
+must truly experience the social terms of it. 
+6.3 Loss of Environmental and Climate Responsiveness 
+Several architects saw another aspect of homogenisation, how the detachment of 
+contemporary architecture from environmental thinking and climate response was 
+increasing. Salem Mostafa said the usage of sealed glass buildings disregard traditional 
+simple solutions like shading, courtyards, and local material:“New projects rarely draw from 
+traditional principles such as shaded circulation, passive cooling strategies, or locally 
+rooted material use.” (Mostafa) 
+Leithy emphasised that Cairo’s historical architecture, that integrated climate responsive 
+design through form and material, has been ignored by designs that prioritise visual 
+modernity over environmental logic:“Elements such as minarets, courtyards, arcades 
+shared climate intelligence across eras. Today, this dialogue has fractured.” (Leithy) 
+This opinion goes along the same focus of Frampton, architecture’s responsibility to 
+respond to the local environment (Frampton). The neglect of climate responsive 
+20 
+
+=== PAGE 22 ===
+ 
+ 
+architecture proves that this universal homogenous language often ignores site specific 
+design. 
+6.4 Resisting Homogenisation through Adaptive Reuse and Context Specificity  
+Yes there is a widespread concern about homogenisation across the interviews however 
+the architects also claimed that there are design strategies that resist this by focusing 
+solely on contextualism, adaptive reuse, and human focused spatial design. Hisham Ghorab 
+spoke on projects like Emaret Kodak and Consulya, where historic exteriors are preserved 
+while interiors are adapted to contemporary use: “Façades, proportions, and historic details 
+must stay… interiors can adapt to modern needs.” (Ghorab) This approach shows just how 
+heritage structures can be renovated without completely erasing their identity. Showing 
+that preservation and modern adaptation are not incompatible and can in fact co-exist. 
+Salem Mostafa also similarly described how his own practice is driven by site conditions, 
+climatic response, and human behaviour. This just emphasises his careful attention to 
+circulation, transitions between indoor and outdoor spaces, and spatial experience: “I try 
+to design spaces that encourage movement, interaction, and a sense of belonging.” 
+(Mostafa) 
+All these factors and strategies align with Critical Regionalism, which prioritize the use of 
+local materials, environmental integration, and site specific design as a way to fend off 
+homogenisation in contemporary architecture (Frampton). 
+6.5 Informal Practices as Carriers of Urban Identity 
+A unique contribution of these interviews that stood out most was the focus on informal 
+urban practices and community led identity, the Ashwa’iyat. Nehal Lehta is the one 
+architect who highlighted Ashwa’iyat. They are simply neighbourhoods not designed as 
+failed attempts but as sites of organic identity where residents choose to live, central to 
+cairo and near the highways. Over the years the residents have been sought to be bought 
+out by bigger developments however they choose to resist. This inspired artists collaborate 
+21 
+
+=== PAGE 23 ===
+ 
+ 
+with the residents and transform the Ashwa’iyat into façades with large scale murals that 
+reflect collective narratives: “Murals turned walls into collective art, revealing identity 
+through colour, poetry, and context.” (Lehta) 
+She also discussed the preservation of movements and experience beyond physical form, 
+like the continued ritual of hospitality in Mohamed Saghayer’s salon, which retains an 
+architectural ethos of care, history and presence: “Keeping these core experiences alive is 
+as important as physical preservation.”(Lehta) 
+This perspective goes beyond just understanding architectural identity. She sheds light on 
+how it is crucial to include everyday practices, rituals, and informal creations. Such a 
+community driven concept is so much more impactful than any other resistance. It shows a 
+greater resistance to homogenisation that comes from inside the community which only 
+deepens the value of lived and experienced culture even more. 
+ 
+07 Discussion 
+This dissertation was aimed to analyze how architectural homogenisation is changing 
+Cairo’s built environment and what that means for cultural identity. Through literature 
+reviews, urban analysis, analytical drawings, and architect interviews, homogenisation can 
+be seen as a social and spatial concept focusing on profit, developer led decisions, and 
+foreign aesthetics of architectural modernity. 
+The Urban Analysis shows homogenisation scattered in all areas around Cairo. The New 
+Administrative Capital is the most accurate example of generic homogenisation, a large 
+scale of repetitive isolated building prioritizing image, convenience, and what will be seen 
+as progress over lived experience. It's the spatial logic that truly exposes how that the city 
+was designed mainly for show rather than  actual everyday life. This goes along with the 
+theory of Koolhaas’ ‘Generic City’, where architecture becomes constantly changing and 
+disconnected from community, history, and climate. 
+22 
+
+=== PAGE 24 ===
+ 
+ 
+Zamalek and West El Balad is a slower form of homogenisation, where it is fading slowly 
+through small commercial renovations. Façade changes and repetitive designs adopted by 
+economic return slowly weakening historical presence. Analytical drawings show how 
+these areas keep their historic touch, however the pressures of modernisation make these 
+qualities seem less important. Going back to the architects making observations that 
+architectural loss often happens through market research change rather than intentional 
+elimination. 
+In contrast, the Ashwa’iyat show a parallel urban setting that is based on informality, needs, 
+and community engagement. These neighbourhoods aren’t necessarily stable but still show 
+deep meaningful social interactions and cultural presence. Architectural identity lives 
+through them, the artwork, the constant additions in construction, and everyday routines. 
+These settings question the common belief that informality leads to ‘failure’ and instead 
+show how these cities can embrace and learn from these ‘failures’.  
+The interviews strengthened the findings by showing the true way homogenisation works. 
+The architects discussed how developer led designs and cost effective decisions were the 
+key constant factors. This causes environments to focus on marketing and speed. At the 
+same time, architects looked to methods to resist this like adaptive reuse, local material 
+choices, and attention to experience. These methods truly show that architects can still 
+make their independent decisions without crossing the line over into the developers 
+requests. 
+The phenomenology aspect of architecture is the key for understanding what is lost 
+through homogenisation. Beyond façades and styles, identity is born in atmosphere, rituals, 
+and interactions. Hospitality, street life, and artistic interventions are just a few examples 
+that highlight architectural meaning in an experience, not just a façade. When cities 
+renovate and choose modern designs from bigger cities, they don’t just risk losing the 
+unique look and identity of their own country but also lose a deep and emotional 
+connection. What is architecture without it? 
+23 
+
+=== PAGE 25 ===
+ 
+ 
+Cairo is not just a city where global modern trends come and go, but as a city where 
+identity is constantly changing and negotiated. 
+ 
+08 Conclusion 
+While Cairo’s horizons continue to homogenise like those big cities around, the outcome 
+may not be so tragic. Today’s skylines may become tomorrow’s memory, therefore creating 
+entirely new attachments and cultural meanings. Homogenisation does change Cairo and 
+sometimes in a repetitive manner, however through this research of the local practices and 
+community engagement possible alternate futures for Cairo’s architectural identity arose. 
+Therefore, homogenisation is not a final outcome, but an ongoing back and forth 
+discussion. Merely a negotiation between modernisation and memory.  Cairo has the 
+opportunity to change repetition into relevance and homogenisation into shared identity.  
+Homogenisation is always on the horizon, yet its impact lies on how it is transformed.
+24 
+
+=== PAGE 26 ===
+ 
+ 
+09 Bibliography 
+Arafa, W. (2018) Building with Memory: Contemporary Architecture in Egypt. Cairo: 
+Dar El Sherouk. Retrieved from: Public Library of Egypt. Accessed 03 January 2026 
+Fathy, H. (1973) Architecture for the Poor: An Experiment in Rural Egypt. Chicago: 
+University of Chicago Press. Retrieved from: Hard Copy. Purchased October 2023 
+Frampton, K. (1983) ‘Towards a Critical Regionalism: Six Points for an Architecture of 
+Resistance’, in Foster, H. (ed.) The Anti-Aesthetic: Essays on Postmodern Culture. 
+Seattle: Bay Press, pp. 16–30. Retrieved from: 
+https://modernindenver.com/wp-content/uploads/2015/08/Frampton.pdf 
+Accessed 10 January 2026 
+Ghorab, H. (2025) Interview by Tala Hagras, 28 December 2025, Cairo. 
+King, A.D. (2004) Spaces of Global Cultures: Architecture, Urbanism, Identity. London: 
+Routledge. Retrieved from:  
+https://api.pageplace.de/preview/DT0400.9781134644469_A24933290/preview-978
+1134644469_A24933290.pdf Accessed 10 January 2026 
+Koolhaas, R. (1995) S,M,L,XL. New York: Monacelli Press. Retrieved from 
+https://www.scribd.com/document/245218452/The-Generic-City-Rem-Koolhaas-
+Scan-S-M-L-XL. Accessed 15 December 2025 
+Lehta, N. (2026) Interview by Tala Hagras, 05 January 2026, Cairo.  
+Leithy. (2026) Interview by Tala Hagras, 11 January 2026, Cairo. 
+Molloy, M. (2016) Artist creates amazing murals across 50 buildings in Cairo, The 
+Telegraph. Retrieved from 
+https://www.telegraph.co.uk/news/2016/04/14/artist-creates-amazing-mural-acr
+oss-50-buildings-in-cairo---with/ Accessed Demebver 28, 2025 
+25 
+
+=== PAGE 27 ===
+ 
+ 
+Norberg-Schulz, C. (1980) Genius Loci: Towards a Phenomenology of Architecture. 
+New York: Rizzoli. Retrieved from: 
+https://marywoodthesisresearch.wordpress.com/wp-content/uploads/2014/03/g
+enius-loci-towards-a-phenomenology-of-architecture-part1_.pdf Accessed 05 
+December 2026 
+OpenAI (2026) ChatGPT (GPT-5.2) (Large language model). Retrieved from  
+https://chat.openai.com Accessed 01 January 2026 
+Pallasmaa, J. (2012) The Eyes of the Skin: Architecture and the Senses. 3rd edn. 
+Chichester: Wiley. Retrieved from: 
+https://doubleoperative.com/wp-content/uploads/2009/12/pallasmaa_the-eyes-
+of-the-skin.pdf Accessed 05 January 2026 
+Salem, M. (2025) Interview by Tala Hagras, 24 December 2025, Cairo. 
+Sassen, S. (2001) The Global City: New York, London, Tokyo. 2nd edn. Princeton: 
+Princeton University Press. Retrieved from: 
+https://www.jstor.org/stable/pdf/4177112.pdf?refreqid=fastly-default%3Abbefd4f90
+c29c1495a661921a5c6d487&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&in
+itiator=search-results&acceptTC=1 Accessed 05 December 2025 
+Zumthor, P. (2006) Atmospheres: Architectural Environments – Surrounding Objects. 
+Basel: Birkhäuser. Retrieved from: 
+https://arhitectura2tm2016.wordpress.com/wp-content/uploads/2019/09/peter_
+zumthor__atmospheres.pdf Accessed 05 December 2026  
+​
+ 
+26 
+
+=== PAGE 28 ===
+ 
+ 
+Figure References 
+Figure 1 - The New Administrative Skyline drawn by Tala Hagras 
+Figure 2 - The Large Grandiose Entrance into The New Administrative drawn by Tala 
+Hagras  
+Figure 3 - The Linear Generic Formal Building Facades of The New Administrative, 
+drawn by Tala Hagras 
+Figure 4 - The Exterior Facade of a Typical Building in West el Balad, drawn by Tala 
+Hagras 
+Figure 5 - Street view of Facade in West el Balad showing balconies and street 
+shading, drawn by Tala Hagras 
+Figure 6 - The Exterior Facade of a Typical Building in Zamalek, drawn by Tala 
+Hagras 
+Figure 7 - Worm’s Eye View showing the narrow streets between building and use of 
+shading, drawn by Tala Hagras 
+Figure 8 - Ashwa’iyat Landscape Overview, drawn by Tala Hagras 
+Figure 9 - Street View of Typical Ashwa’iyat Facade, drawn by Author 
+Figure 10 - Image of Mural of Ashwa’iyat seen from the Highway, captured by Seed, 
+El. (2016) The Stunning Mural. Retrieved from: 
+https://www.telegraph.co.uk/news/2016/04/14/artist-creates-amazing-mural-acr
+oss-50-buildings-in-cairo---with/ Accessed 28 December 2025 
+Figure 11 - Semi Inhabited Broken Down Ashway, drawn by Tala Hagras 
+ 
+27 
+

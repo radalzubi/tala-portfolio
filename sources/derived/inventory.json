@@ -1,0 +1,2151 @@
+{
+ "archive": {
+  "file": "Portfolios_Rough_Draft (1).zip",
+  "sha256": "a43e2a34012e99d38d222cba87caf4e4b36db1af1176554e107fe2bdc5aca388",
+  "bytes": 12874360
+ },
+ "extracted": [
+  {
+   "file": "raw/TalaHagras_Dissertation_2025-6 (1) (1).pdf",
+   "bytes": 7631019,
+   "sha256": "3fb2fe17fdedbd6748b2d84d65df4a4207665c26ce393ee2577be93dc5ea8f7d"
+  },
+  {
+   "file": "raw/Tala_Portfolio_Preview_17_Pages.pdf",
+   "bytes": 5243013,
+   "sha256": "f15d5cab09646aa76de8f759aa15eb880f23e286114175a128205689671b83fa"
+  }
+ ],
+ "documents": [
+  {
+   "slug": "dissertation",
+   "file": "TalaHagras_Dissertation_2025-6 (1) (1).pdf",
+   "sha256": "3fb2fe17fdedbd6748b2d84d65df4a4207665c26ce393ee2577be93dc5ea8f7d",
+   "bytes": 7631019,
+   "page_count": 48,
+   "metadata": {
+    "format": "PDF 1.4",
+    "title": "TalaHagras_Dissertation_2025-6",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Skia/PDF m146 Google Docs Renderer",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+   },
+   "is_pdf_a_or_x": false,
+   "embedded_files": [],
+   "has_3d_annotations": false,
+   "pages": [
+    {
+     "page": 1,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 1560,
+     "image_count": 1,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 2,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 2054,
+     "image_count": 0,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 3,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 2157,
+     "image_count": 0,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 4,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 2149,
+     "image_count": 0,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 5,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 1665,
+     "image_count": 0,
+     "vector_drawing_count": 2,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 6,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 2133,
+     "image_count": 0,
+     "vector_drawing_count": 2,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 7,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 2139,
+     "image_count": 0,
+     "vector_drawing_count": 2,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 8,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 1983,
+     "image_count": 0,
+     "vector_drawing_count": 3,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 9,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 1826,
+     "image_count": 0,
+     "vector_drawing_count": 3,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 10,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 2062,
+     "image_count": 0,
+     "vector_drawing_count": 3,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 11,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 2082,
+     "image_count": 0,
+     "vector_drawing_count": 2,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 12,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 1161,
+     "image_count": 1,
+     "vector_drawing_count": 2,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 13,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 659,
+     "image_count": 2,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 14,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 942,
+     "image_count": 1,
+     "vector_drawing_count": 2,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 15,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 836,
+     "image_count": 2,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 16,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 740,
+     "image_count": 2,
+     "vector_drawing_count": 2,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 17,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 1034,
+     "image_count": 1,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 18,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 424,
+     "image_count": 2,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 19,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 2099,
+     "image_count": 0,
+     "vector_drawing_count": 2,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 20,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 2156,
+     "image_count": 0,
+     "vector_drawing_count": 3,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 21,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 2207,
+     "image_count": 0,
+     "vector_drawing_count": 2,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 22,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 2095,
+     "image_count": 0,
+     "vector_drawing_count": 3,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 23,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 1991,
+     "image_count": 0,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 24,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 2193,
+     "image_count": 0,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 25,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 949,
+     "image_count": 0,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 26,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 1555,
+     "image_count": 0,
+     "vector_drawing_count": 8,
+     "annotations": [],
+     "links": 7
+    },
+    {
+     "page": 27,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 1308,
+     "image_count": 0,
+     "vector_drawing_count": 11,
+     "annotations": [],
+     "links": 11
+    },
+    {
+     "page": 28,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 1168,
+     "image_count": 0,
+     "vector_drawing_count": 3,
+     "annotations": [],
+     "links": 2
+    },
+    {
+     "page": 29,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 48,
+     "image_count": 1,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 30,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 10,
+     "image_count": 1,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 31,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 10,
+     "image_count": 1,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 32,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 10,
+     "image_count": 1,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 33,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 10,
+     "image_count": 1,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 34,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 12,
+     "image_count": 1,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 35,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 10,
+     "image_count": 1,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 36,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 14,
+     "image_count": 1,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 37,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 40,
+     "image_count": 1,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 38,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 2887,
+     "image_count": 0,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 39,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 2038,
+     "image_count": 0,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 40,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 39,
+     "image_count": 1,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 41,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 2169,
+     "image_count": 0,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 42,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 1411,
+     "image_count": 0,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 43,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 38,
+     "image_count": 1,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 44,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 2415,
+     "image_count": 0,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 45,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 1080,
+     "image_count": 0,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 46,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 33,
+     "image_count": 1,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 47,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 2333,
+     "image_count": 0,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 48,
+     "width_pt": 612.0,
+     "height_pt": 792.0,
+     "rotation": 0,
+     "render_px": [
+      1275,
+      1650
+     ],
+     "text_chars": 211,
+     "image_count": 0,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    }
+   ],
+   "contact_sheets": [
+    "dissertation-sheet-1.png",
+    "dissertation-sheet-2.png",
+    "dissertation-sheet-3.png"
+   ],
+   "images": [
+    {
+     "page": 1,
+     "xref": 9,
+     "smask": 0,
+     "width": 559,
+     "height": 99,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "FlateDecode",
+     "placements": [
+      [
+       49.5,
+       18.0,
+       573.75,
+       111.0
+      ]
+     ],
+     "sha256": "3fb8f12b7214cd98afda11ebecc3faaed39160dcb87144df765acabf141904e2",
+     "file": "images/dissertation/p01-x9-559x99.png"
+    },
+    {
+     "page": 12,
+     "xref": 36,
+     "smask": 0,
+     "width": 1536,
+     "height": 1024,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "DCTDecode",
+     "placements": [
+      [
+       80.25,
+       423.44,
+       540.0,
+       730.38
+      ]
+     ],
+     "sha256": "4125bd33e39632c8f009d59a776c180e3d4cc5ce2979a256dcd97cc74088a576",
+     "file": "images/dissertation/p12-x36-1536x1024.jpeg"
+    },
+    {
+     "page": 13,
+     "xref": 39,
+     "smask": 0,
+     "width": 1536,
+     "height": 1024,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "DCTDecode",
+     "placements": [
+      [
+       68.25,
+       174.73,
+       386.25,
+       387.29
+      ]
+     ],
+     "sha256": "5ad05e58295cc2bdfdd853a48d927081db7e033c4dbb38eb2e803ca343870be7",
+     "file": "images/dissertation/p13-x39-1536x1024.jpeg"
+    },
+    {
+     "page": 13,
+     "xref": 40,
+     "smask": 0,
+     "width": 1536,
+     "height": 1024,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "DCTDecode",
+     "placements": [
+      [
+       76.5,
+       441.41,
+       392.25,
+       652.16
+      ]
+     ],
+     "sha256": "5ec9968995f46c04660cb8f73f395cac38fa52b6ae5d9f448a93c5f994ae0950",
+     "file": "images/dissertation/p13-x40-1536x1024.jpeg"
+    },
+    {
+     "page": 14,
+     "xref": 43,
+     "smask": 0,
+     "width": 1024,
+     "height": 1536,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "DCTDecode",
+     "placements": [
+      [
+       73.5,
+       250.43,
+       323.25,
+       625.09
+      ]
+     ],
+     "sha256": "35f11f2cbd0c23fadbec5909ab3ed3c7011bee4be1634366150c7ec560e49971",
+     "file": "images/dissertation/p14-x43-1024x1536.jpeg"
+    },
+    {
+     "page": 15,
+     "xref": 46,
+     "smask": 0,
+     "width": 1536,
+     "height": 2048,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "DCTDecode",
+     "placements": [
+      [
+       73.5,
+       122.49,
+       414.75,
+       582.99
+      ]
+     ],
+     "sha256": "d67e3c09e35780e38c558edd6d606c351b461924e0b2559e992c727bb11e22bd",
+     "file": "images/dissertation/p15-x46-1536x2048.jpeg"
+    },
+    {
+     "page": 15,
+     "xref": 47,
+     "smask": 0,
+     "width": 1024,
+     "height": 1536,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "DCTDecode",
+     "placements": [
+      [
+       328.16,
+       461.48,
+       595.0,
+       860.21
+      ]
+     ],
+     "sha256": "6800bf49f3fa22bcce268c3132edeaecc5a9084c4049bd0d79d1c39d3f914fc6",
+     "file": "images/dissertation/p15-x47-1024x1536.jpeg"
+    },
+    {
+     "page": 16,
+     "xref": 50,
+     "smask": 0,
+     "width": 1024,
+     "height": 1536,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "DCTDecode",
+     "placements": [
+      [
+       264.61,
+       51.47,
+       556.5,
+       487.49
+      ]
+     ],
+     "sha256": "6685af7da963812a99a1efb7f3c474caa63f60ec76c3cd34398336ba07c78280",
+     "file": "images/dissertation/p16-x50-1024x1536.jpeg"
+    },
+    {
+     "page": 16,
+     "xref": 51,
+     "smask": 0,
+     "width": 1536,
+     "height": 1024,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "DCTDecode",
+     "placements": [
+      [
+       68.58,
+       452.03,
+       491.58,
+       723.5
+      ]
+     ],
+     "sha256": "536cd3bc61f073be65b165596b6492ff6e0f986698626cd821cb4c630157911e",
+     "file": "images/dissertation/p16-x51-1536x1024.jpeg"
+    },
+    {
+     "page": 17,
+     "xref": 54,
+     "smask": 0,
+     "width": 1536,
+     "height": 1024,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "DCTDecode",
+     "placements": [
+      [
+       36.6,
+       193.67,
+       474.75,
+       486.15
+      ]
+     ],
+     "sha256": "e0d18d676f0a59143d6f6b4037e31d2ca2cf00e5dea689550e3702bac901abd8",
+     "file": "images/dissertation/p17-x54-1536x1024.jpeg"
+    },
+    {
+     "page": 18,
+     "xref": 57,
+     "smask": 0,
+     "width": 1209,
+     "height": 761,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "FlateDecode",
+     "placements": [
+      [
+       73.5,
+       88.07,
+       541.5,
+       382.82
+      ]
+     ],
+     "sha256": "58cce8dc00019bb4e99e89334ab10eba9d4c5ec177c92cd39ed88edf4d857745",
+     "file": "images/dissertation/p18-x57-1209x761.png"
+    },
+    {
+     "page": 18,
+     "xref": 58,
+     "smask": 0,
+     "width": 1536,
+     "height": 1024,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "DCTDecode",
+     "placements": [
+      [
+       242.15,
+       436.37,
+       591.46,
+       661.38
+      ]
+     ],
+     "sha256": "38322e72bed027e3bcbed2ac41a80fad3da898b0eb57f8194d2d909cce600858",
+     "file": "images/dissertation/p18-x58-1536x1024.jpeg"
+    },
+    {
+     "page": 29,
+     "xref": 102,
+     "smask": 0,
+     "width": 844,
+     "height": 1097,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "FlateDecode",
+     "placements": [
+      [
+       85.64,
+       164.73,
+       514.5,
+       721.87
+      ]
+     ],
+     "sha256": "a406e8db606b164f35c34ab162fa8359b83fae0737ccc1447190eabcb6e5e72e",
+     "file": "images/dissertation/p29-x102-844x1097.png"
+    },
+    {
+     "page": 30,
+     "xref": 105,
+     "smask": 0,
+     "width": 842,
+     "height": 1095,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "FlateDecode",
+     "placements": [
+      [
+       65.25,
+       77.89,
+       533.25,
+       686.57
+      ]
+     ],
+     "sha256": "900dd4c9b33e73a31e69da9be3d12c896d917356a757c8a9a4626f96d783abcb",
+     "file": "images/dissertation/p30-x105-842x1095.png"
+    },
+    {
+     "page": 31,
+     "xref": 108,
+     "smask": 0,
+     "width": 894,
+     "height": 1084,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "FlateDecode",
+     "placements": [
+      [
+       34.83,
+       74.89,
+       556.5,
+       706.82
+      ]
+     ],
+     "sha256": "7208cb30b627951c643d51ebe40cc93685d00ae2256aed5f1656b8daf1802e41",
+     "file": "images/dissertation/p31-x108-894x1084.png"
+    },
+    {
+     "page": 32,
+     "xref": 111,
+     "smask": 0,
+     "width": 835,
+     "height": 1094,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "FlateDecode",
+     "placements": [
+      [
+       73.5,
+       76.39,
+       541.5,
+       688.82
+      ]
+     ],
+     "sha256": "1aa48d653e22ff91fb012e99a3e52ff6e391179cdfe774be7e239a029c4559ea",
+     "file": "images/dissertation/p32-x111-835x1094.png"
+    },
+    {
+     "page": 33,
+     "xref": 114,
+     "smask": 0,
+     "width": 942,
+     "height": 1233,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "FlateDecode",
+     "placements": [
+      [
+       73.5,
+       77.88,
+       541.5,
+       690.64
+      ]
+     ],
+     "sha256": "aeace321155a520287700fb13279a7011e28d5c2bfdbd87edff798ef27bbb7a9",
+     "file": "images/dissertation/p33-x114-942x1233.png"
+    },
+    {
+     "page": 34,
+     "xref": 117,
+     "smask": 0,
+     "width": 796,
+     "height": 1033,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "FlateDecode",
+     "placements": [
+      [
+       73.5,
+       76.39,
+       541.5,
+       682.82
+      ]
+     ],
+     "sha256": "af5c5297fd5b3624e9ae4ce7a204d71b7d270b910c226082bf31529d76273526",
+     "file": "images/dissertation/p34-x117-796x1033.png"
+    },
+    {
+     "page": 35,
+     "xref": 120,
+     "smask": 0,
+     "width": 797,
+     "height": 1035,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "FlateDecode",
+     "placements": [
+      [
+       62.25,
+       76.39,
+       530.25,
+       684.32
+      ]
+     ],
+     "sha256": "d8ecb530e3956046e8304d086d9d322b9cc9a56bf1492f6a7bc60d531bc4f85a",
+     "file": "images/dissertation/p35-x120-797x1035.png"
+    },
+    {
+     "page": 36,
+     "xref": 123,
+     "smask": 0,
+     "width": 799,
+     "height": 1037,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "FlateDecode",
+     "placements": [
+      [
+       60.75,
+       73.38,
+       528.75,
+       680.14
+      ]
+     ],
+     "sha256": "265c7eae0348c4ff7f132c631cc7593f873d1f552d943b7c2cefb2157241e38d",
+     "file": "images/dissertation/p36-x123-799x1037.png"
+    },
+    {
+     "page": 37,
+     "xref": 126,
+     "smask": 0,
+     "width": 947,
+     "height": 1218,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "FlateDecode",
+     "placements": [
+      [
+       49.48,
+       77.09,
+       533.07,
+       699.44
+      ]
+     ],
+     "sha256": "5173f119f6db352aae38ab7348ee916599f306ba5f9ec06500b5a5cc25e44a99",
+     "file": "images/dissertation/p37-x126-947x1218.png"
+    },
+    {
+     "page": 40,
+     "xref": 135,
+     "smask": 0,
+     "width": 988,
+     "height": 1209,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "FlateDecode",
+     "placements": [
+      [
+       44.28,
+       102.61,
+       537.0,
+       705.61
+      ]
+     ],
+     "sha256": "c88cfbd06112bad7bc30dca2a89fca16796693696f3c1e21466353dfb72aef2d",
+     "file": "images/dissertation/p40-x135-988x1209.png"
+    },
+    {
+     "page": 43,
+     "xref": 142,
+     "smask": 0,
+     "width": 1385,
+     "height": 1778,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "DCTDecode",
+     "placements": [
+      [
+       109.5,
+       114.61,
+       577.5,
+       715.36
+      ]
+     ],
+     "sha256": "59d02039f7a81244a7a4bd22afb6c1b0711ac21cda79d15b652e9914623b6b65",
+     "file": "images/dissertation/p43-x142-1385x1778.jpeg"
+    },
+    {
+     "page": 46,
+     "xref": 149,
+     "smask": 0,
+     "width": 1599,
+     "height": 2133,
+     "colorspace": "ICCBased",
+     "bpc": 8,
+     "filter": "DCTDecode",
+     "placements": [
+      [
+       73.5,
+       102.61,
+       607.69,
+       819.66
+      ]
+     ],
+     "sha256": "ac8e084d8ae571e020db6383160de95fb40b1b8a8d8ee1371e16adfc37bbacd7",
+     "file": "images/dissertation/p46-x149-1599x2133.jpeg"
+    }
+   ]
+  },
+  {
+   "slug": "portfolio",
+   "file": "Tala_Portfolio_Preview_17_Pages.pdf",
+   "sha256": "f15d5cab09646aa76de8f759aa15eb880f23e286114175a128205689671b83fa",
+   "bytes": 5243013,
+   "page_count": 17,
+   "metadata": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+   },
+   "is_pdf_a_or_x": false,
+   "embedded_files": [
+    {
+     "name": "Content Credentials",
+     "collection": 0,
+     "filename": "Content Credentials",
+     "ufilename": "Content Credentials",
+     "description": "Content Credentials",
+     "size": -1,
+     "length": 24278
+    }
+   ],
+   "has_3d_annotations": false,
+   "pages": [
+    {
+     "page": 1,
+     "width_pt": 1190.0,
+     "height_pt": 842.0,
+     "rotation": 0,
+     "render_px": [
+      2480,
+      1755
+     ],
+     "text_chars": 133,
+     "image_count": 1,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 2,
+     "width_pt": 1190.0,
+     "height_pt": 842.0,
+     "rotation": 0,
+     "render_px": [
+      2480,
+      1755
+     ],
+     "text_chars": 374,
+     "image_count": 2,
+     "vector_drawing_count": 7,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 3,
+     "width_pt": 1190.0,
+     "height_pt": 842.0,
+     "rotation": 0,
+     "render_px": [
+      2480,
+      1755
+     ],
+     "text_chars": 317,
+     "image_count": 2,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 4,
+     "width_pt": 1190.0,
+     "height_pt": 842.0,
+     "rotation": 0,
+     "render_px": [
+      2480,
+      1755
+     ],
+     "text_chars": 219,
+     "image_count": 2,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 5,
+     "width_pt": 1190.0,
+     "height_pt": 842.0,
+     "rotation": 0,
+     "render_px": [
+      2480,
+      1755
+     ],
+     "text_chars": 248,
+     "image_count": 2,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 6,
+     "width_pt": 1190.0,
+     "height_pt": 842.0,
+     "rotation": 0,
+     "render_px": [
+      2480,
+      1755
+     ],
+     "text_chars": 209,
+     "image_count": 3,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 7,
+     "width_pt": 1190.0,
+     "height_pt": 842.0,
+     "rotation": 0,
+     "render_px": [
+      2480,
+      1755
+     ],
+     "text_chars": 213,
+     "image_count": 3,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 8,
+     "width_pt": 1190.0,
+     "height_pt": 842.0,
+     "rotation": 0,
+     "render_px": [
+      2480,
+      1755
+     ],
+     "text_chars": 291,
+     "image_count": 2,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 9,
+     "width_pt": 1190.0,
+     "height_pt": 842.0,
+     "rotation": 0,
+     "render_px": [
+      2480,
+      1755
+     ],
+     "text_chars": 261,
+     "image_count": 3,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 10,
+     "width_pt": 1190.0,
+     "height_pt": 842.0,
+     "rotation": 0,
+     "render_px": [
+      2480,
+      1755
+     ],
+     "text_chars": 75,
+     "image_count": 3,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 11,
+     "width_pt": 1190.0,
+     "height_pt": 842.0,
+     "rotation": 0,
+     "render_px": [
+      2480,
+      1755
+     ],
+     "text_chars": 209,
+     "image_count": 3,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 12,
+     "width_pt": 1190.0,
+     "height_pt": 842.0,
+     "rotation": 0,
+     "render_px": [
+      2480,
+      1755
+     ],
+     "text_chars": 77,
+     "image_count": 4,
+     "vector_drawing_count": 1,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 13,
+     "width_pt": 1190.0,
+     "height_pt": 842.0,
+     "rotation": 0,
+     "render_px": [
+      2480,
+      1755
+     ],
+     "text_chars": 394,
+     "image_count": 0,
+     "vector_drawing_count": 4,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 14,
+     "width_pt": 1190.0,
+     "height_pt": 842.0,
+     "rotation": 0,
+     "render_px": [
+      2480,
+      1755
+     ],
+     "text_chars": 431,
+     "image_count": 0,
+     "vector_drawing_count": 10,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 15,
+     "width_pt": 1190.0,
+     "height_pt": 842.0,
+     "rotation": 0,
+     "render_px": [
+      2480,
+      1755
+     ],
+     "text_chars": 415,
+     "image_count": 0,
+     "vector_drawing_count": 10,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 16,
+     "width_pt": 1190.0,
+     "height_pt": 842.0,
+     "rotation": 0,
+     "render_px": [
+      2480,
+      1755
+     ],
+     "text_chars": 324,
+     "image_count": 0,
+     "vector_drawing_count": 7,
+     "annotations": [],
+     "links": 0
+    },
+    {
+     "page": 17,
+     "width_pt": 1190.0,
+     "height_pt": 842.0,
+     "rotation": 0,
+     "render_px": [
+      2480,
+      1755
+     ],
+     "text_chars": 498,
+     "image_count": 0,
+     "vector_drawing_count": 7,
+     "annotations": [],
+     "links": 0
+    }
+   ],
+   "contact_sheets": [
+    "portfolio-sheet-1.png",
+    "portfolio-sheet-2.png"
+   ],
+   "images": [
+    {
+     "page": 1,
+     "xref": 3,
+     "smask": 0,
+     "width": 912,
+     "height": 645,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       600.0,
+       232.69,
+       1100.0,
+       586.31
+      ]
+     ],
+     "sha256": "cad95987022ec10eadcfff24fe80d036d1873f1d50222c682ccee02a26b5b96d",
+     "file": "images/portfolio/p01-x3-912x645.jpeg"
+    },
+    {
+     "page": 2,
+     "xref": 5,
+     "smask": 0,
+     "width": 953,
+     "height": 688,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       351.89,
+       135.0,
+       518.11,
+       255.0
+      ]
+     ],
+     "sha256": "8e167cd6051c872c2014617d52a8d2272be182ba4cc844eb4ce8976e2fc7b4ba",
+     "file": "images/portfolio/p02-x5-953x688.jpeg"
+    },
+    {
+     "page": 2,
+     "xref": 6,
+     "smask": 0,
+     "width": 372,
+     "height": 263,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       350.13,
+       290.0,
+       519.87,
+       410.0
+      ]
+     ],
+     "sha256": "3526c4791ed7563e292e9be8b5625bfff08c78b38218c97688d81812cabf0e14",
+     "file": "images/portfolio/p02-x6-372x263.jpeg"
+    },
+    {
+     "page": 3,
+     "xref": 9,
+     "smask": 0,
+     "width": 1216,
+     "height": 774,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       75.0,
+       450.84,
+       440.0,
+       683.16
+      ]
+     ],
+     "sha256": "2f22b836138e8308add462c5041d2e4436cd37b9c3c832c0e226155ce44963dc",
+     "file": "images/portfolio/p03-x9-1216x774.jpeg"
+    },
+    {
+     "page": 3,
+     "xref": 8,
+     "smask": 0,
+     "width": 973,
+     "height": 716,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       480.0,
+       202.84,
+       1130.0,
+       681.16
+      ]
+     ],
+     "sha256": "e41c6d2f1834a869cb15d54bd2770c62e28688ec95cc21e6a80c077f3053ecd4",
+     "file": "images/portfolio/p03-x8-973x716.jpeg"
+    },
+    {
+     "page": 4,
+     "xref": 11,
+     "smask": 0,
+     "width": 1763,
+     "height": 1174,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       55.0,
+       126.45,
+       815.0,
+       632.55
+      ]
+     ],
+     "sha256": "cbe94edbfe88d88337d3ffed2593a46bf9fcad05b55edd828de09d69ce7de7a0",
+     "file": "images/portfolio/p04-x11-1763x1174.jpeg"
+    },
+    {
+     "page": 4,
+     "xref": 12,
+     "smask": 0,
+     "width": 1743,
+     "height": 1146,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       832.0,
+       180.09,
+       1142.0,
+       383.91
+      ]
+     ],
+     "sha256": "962214d9cb6770276bba59b662a41d6f580923c76a9d18543342c39da53db0ec",
+     "file": "images/portfolio/p04-x12-1743x1146.jpeg"
+    },
+    {
+     "page": 5,
+     "xref": 14,
+     "smask": 0,
+     "width": 1946,
+     "height": 1088,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       214.92,
+       132.0,
+       975.08,
+       557.0
+      ]
+     ],
+     "sha256": "f98be149343d70ad4d25f5e14d18bfedaa380ef8889c13f32d4cbf692c119d07",
+     "file": "images/portfolio/p05-x14-1946x1088.jpeg"
+    },
+    {
+     "page": 5,
+     "xref": 15,
+     "smask": 0,
+     "width": 1804,
+     "height": 1174,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       765.36,
+       575.0,
+       1049.64,
+       760.0
+      ]
+     ],
+     "sha256": "77ace7a58f3bb2c6e72c1ebe47d46f89217445142a2c3238ecdcaec8939f457e",
+     "file": "images/portfolio/p05-x15-1804x1174.jpeg"
+    },
+    {
+     "page": 6,
+     "xref": 18,
+     "smask": 0,
+     "width": 1926,
+     "height": 1246,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       625.0,
+       119.53,
+       1135.0,
+       449.47
+      ]
+     ],
+     "sha256": "bac714e9da0623bbc8e8c9c015f0fbef753d35cce151cafc83a52f9efcab21f0",
+     "file": "images/portfolio/p06-x18-1926x1246.jpeg"
+    },
+    {
+     "page": 6,
+     "xref": 19,
+     "smask": 0,
+     "width": 1946,
+     "height": 1174,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       183.23,
+       477.0,
+       630.77,
+       747.0
+      ]
+     ],
+     "sha256": "30cea42f873f830f45a12d1b2e74cfd182b92c7da234c9d4739721d48908998a",
+     "file": "images/portfolio/p06-x19-1946x1174.jpeg"
+    },
+    {
+     "page": 6,
+     "xref": 17,
+     "smask": 0,
+     "width": 1885,
+     "height": 1231,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       64.68,
+       117.0,
+       585.32,
+       457.0
+      ]
+     ],
+     "sha256": "65e3dc73eb1b00ee11b30c013abba87f1e24cca560f3829a587a72e61408f737",
+     "file": "images/portfolio/p06-x17-1885x1231.jpeg"
+    },
+    {
+     "page": 7,
+     "xref": 23,
+     "smask": 0,
+     "width": 1095,
+     "height": 658,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       156.89,
+       579.0,
+       453.11,
+       757.0
+      ]
+     ],
+     "sha256": "44d90608b7d94237703e705f89368da2235e1a21ded74ef8efaf07259d150e6f",
+     "file": "images/portfolio/p07-x23-1095x658.jpeg"
+    },
+    {
+     "page": 7,
+     "xref": 22,
+     "smask": 0,
+     "width": 973,
+     "height": 730,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       750.0,
+       191.33,
+       1125.0,
+       472.67
+      ]
+     ],
+     "sha256": "cbc705776fc9fe6cd0f31a4ade69306ec5c80ee78245c5ed354cbc280d0f87c7",
+     "file": "images/portfolio/p07-x22-973x730.jpeg"
+    },
+    {
+     "page": 7,
+     "xref": 21,
+     "smask": 0,
+     "width": 953,
+     "height": 744,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       106.79,
+       107.0,
+       683.21,
+       557.0
+      ]
+     ],
+     "sha256": "512fa525bef7ea2f84effebe4c58b1181f05dd5895c63125dc935009651a6451",
+     "file": "images/portfolio/p07-x21-953x744.jpeg"
+    },
+    {
+     "page": 8,
+     "xref": 26,
+     "smask": 0,
+     "width": 680,
+     "height": 446,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       70.0,
+       459.64,
+       405.0,
+       679.36
+      ]
+     ],
+     "sha256": "268403b6b3337f17e14e48e606839f1d56e742717bb319c4db6d0dfa53de6f33",
+     "file": "images/portfolio/p08-x26-680x446.jpeg"
+    },
+    {
+     "page": 8,
+     "xref": 25,
+     "smask": 0,
+     "width": 358,
+     "height": 228,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       440.0,
+       224.78,
+       1130.0,
+       664.22
+      ]
+     ],
+     "sha256": "c89b9c8fb1d81c293744b8f981c59d35ab1e5f28311fdc30f93087dd292bfa8a",
+     "file": "images/portfolio/p08-x25-358x228.jpeg"
+    },
+    {
+     "page": 9,
+     "xref": 30,
+     "smask": 0,
+     "width": 673,
+     "height": 481,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       190.62,
+       467.0,
+       589.38,
+       752.0
+      ]
+     ],
+     "sha256": "c4bd23ed2a2f663b93a64191abfdef4a08e7c4d493afc4022d73d1edb7d7cb0f",
+     "file": "images/portfolio/p09-x30-673x481.jpeg"
+    },
+    {
+     "page": 9,
+     "xref": 28,
+     "smask": 0,
+     "width": 666,
+     "height": 456,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       65.0,
+       115.18,
+       545.0,
+       443.82
+      ]
+     ],
+     "sha256": "964c8056b0e8373dcc5ef0ef243d125b1851cb038aeaa944aa567a513078882d",
+     "file": "images/portfolio/p09-x28-666x456.jpeg"
+    },
+    {
+     "page": 9,
+     "xref": 29,
+     "smask": 0,
+     "width": 687,
+     "height": 486,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       604.69,
+       107.0,
+       1085.31,
+       447.0
+      ]
+     ],
+     "sha256": "665f3b58f71a4da69d227cea6ba458d3572eed2c861d4e5767d42b691845cd9e",
+     "file": "images/portfolio/p09-x29-687x486.jpeg"
+    },
+    {
+     "page": 10,
+     "xref": 34,
+     "smask": 0,
+     "width": 588,
+     "height": 466,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       461.2,
+       542.0,
+       738.8,
+       762.0
+      ]
+     ],
+     "sha256": "53c2dc012aa072881db3e679742762c9cf539466cf5e73dbbe157b65183a678d",
+     "file": "images/portfolio/p10-x34-588x466.jpeg"
+    },
+    {
+     "page": 10,
+     "xref": 32,
+     "smask": 0,
+     "width": 687,
+     "height": 426,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       65.0,
+       161.38,
+       575.0,
+       477.62
+      ]
+     ],
+     "sha256": "8e88ea36abf5932b086dc59b286eeb5423c2293fee90309d5b0bae6c5bc0f238",
+     "file": "images/portfolio/p10-x32-687x426.jpeg"
+    },
+    {
+     "page": 10,
+     "xref": 33,
+     "smask": 0,
+     "width": 687,
+     "height": 426,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       600.0,
+       161.38,
+       1110.0,
+       477.62
+      ]
+     ],
+     "sha256": "54e555168a05f3c5689050eaa3d026eb370d3a1db7bad9e954f9377f3e2ad3ec",
+     "file": "images/portfolio/p10-x33-687x426.jpeg"
+    },
+    {
+     "page": 11,
+     "xref": 38,
+     "smask": 0,
+     "width": 680,
+     "height": 471,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       227.02,
+       557.0,
+       522.98,
+       762.0
+      ]
+     ],
+     "sha256": "eb2703686161c91b201c63ba89e866aacdba3b433c4b6b5aaef4022bf4b256a2",
+     "file": "images/portfolio/p11-x38-680x471.jpeg"
+    },
+    {
+     "page": 11,
+     "xref": 37,
+     "smask": 0,
+     "width": 687,
+     "height": 461,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       750.0,
+       177.86,
+       1120.0,
+       426.14
+      ]
+     ],
+     "sha256": "76a92af7176bc74c018013bd65804c58eeb007519d859c748555bdfb67b0f20e",
+     "file": "images/portfolio/p11-x37-687x461.jpeg"
+    },
+    {
+     "page": 11,
+     "xref": 36,
+     "smask": 0,
+     "width": 687,
+     "height": 456,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       76.09,
+       112.0,
+       723.91,
+       542.0
+      ]
+     ],
+     "sha256": "b5c9f14a458f45425a63cdd5905ef6171dd16b0c555a090d43827c98690ada35",
+     "file": "images/portfolio/p11-x36-687x456.jpeg"
+    },
+    {
+     "page": 12,
+     "xref": 40,
+     "smask": 0,
+     "width": 394,
+     "height": 289,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       65.0,
+       118.95,
+       605.0,
+       515.05
+      ]
+     ],
+     "sha256": "c512e50373416b14d04be385fd1d3760904e8ddec582d552bf5ae80688bb4b8d",
+     "file": "images/portfolio/p12-x40-394x289.jpeg"
+    },
+    {
+     "page": 12,
+     "xref": 42,
+     "smask": 0,
+     "width": 680,
+     "height": 461,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       155.12,
+       547.0,
+       464.88,
+       757.0
+      ]
+     ],
+     "sha256": "ce5b6068db75a564a51e9b6bf385977232caa1005b775bdaa4466634c756d5fc",
+     "file": "images/portfolio/p12-x42-680x461.jpeg"
+    },
+    {
+     "page": 12,
+     "xref": 43,
+     "smask": 0,
+     "width": 687,
+     "height": 471,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       706.85,
+       547.0,
+       1013.15,
+       757.0
+      ]
+     ],
+     "sha256": "a2d0ef64fdd5a6f1b167f8a2f0548b0518a3e65fc25e3b67d1a41c72a41a4bca",
+     "file": "images/portfolio/p12-x43-687x471.jpeg"
+    },
+    {
+     "page": 12,
+     "xref": 41,
+     "smask": 0,
+     "width": 680,
+     "height": 268,
+     "colorspace": "DeviceRGB",
+     "bpc": 8,
+     "filter": "ASCII85Decode",
+     "placements": [
+      [
+       625.0,
+       218.47,
+       1125.0,
+       415.53
+      ]
+     ],
+     "sha256": "0b3d9bbdd2aeec34abdbbaaa0c9527a72a351f70fac1b40aa0bba3db6ca62709",
+     "file": "images/portfolio/p12-x41-680x268.jpeg"
+    }
+   ]
+  }
+ ],
+ "render_dpi": 150,
+ "note": "Private working inventory. Physical one-based page numbers. Nothing here is served from public/."
+}

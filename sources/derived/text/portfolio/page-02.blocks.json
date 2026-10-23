@@ -1,0 +1,182 @@
+[
+ {
+  "bbox": [
+   100.3,
+   307.95,
+   172.3,
+   746.0
+  ],
+  "type": "text",
+  "text": "CONTENTS\n"
+ },
+ {
+  "bbox": [
+   600.0,
+   164.36,
+   684.28,
+   178.36
+  ],
+  "type": "text",
+  "text": "PROJECT 01\n"
+ },
+ {
+  "bbox": [
+   600.0,
+   192.56,
+   814.97,
+   211.56
+  ],
+  "type": "text",
+  "text": "MUSIC INSTITUTION\n"
+ },
+ {
+  "bbox": [
+   600.0,
+   216.64,
+   1063.11,
+   234.64
+  ],
+  "type": "text",
+  "text": "Architecture as Music\n03\u201407\n"
+ },
+ {
+  "bbox": [
+   600.0,
+   319.36,
+   684.28,
+   333.36
+  ],
+  "type": "text",
+  "text": "PROJECT 02\n"
+ },
+ {
+  "bbox": [
+   600.0,
+   347.56,
+   779.47,
+   366.56
+  ],
+  "type": "text",
+  "text": "MAISON PEPLUM\n"
+ },
+ {
+  "bbox": [
+   600.0,
+   371.64,
+   1063.11,
+   389.64
+  ],
+  "type": "text",
+  "text": "Jupps Warehouse, Brentford\n08\u201412\n"
+ },
+ {
+  "bbox": [
+   325.0,
+   482.36,
+   452.48,
+   496.36
+  ],
+  "type": "text",
+  "text": "RESEARCH / DS5\n"
+ },
+ {
+  "bbox": [
+   325.0,
+   508.16,
+   449.61,
+   517.16
+  ],
+  "type": "text",
+  "text": "Awaiting source artwork\n"
+ },
+ {
+  "bbox": [
+   600.0,
+   474.36,
+   684.28,
+   488.36
+  ],
+  "type": "text",
+  "text": "PROJECT 03\n"
+ },
+ {
+  "bbox": [
+   600.0,
+   502.56,
+   828.57,
+   521.56
+  ],
+  "type": "text",
+  "text": "SOUND AROMA LOOM\n"
+ },
+ {
+  "bbox": [
+   600.0,
+   526.64,
+   1063.11,
+   544.64
+  ],
+  "type": "text",
+  "text": "Sensory pavilion, Whitechapel\n13\u201416\n"
+ },
+ {
+  "bbox": [
+   325.0,
+   637.36,
+   471.13,
+   651.36
+  ],
+  "type": "text",
+  "text": "CAIRO / RESEARCH\n"
+ },
+ {
+  "bbox": [
+   325.0,
+   663.16,
+   449.61,
+   672.16
+  ],
+  "type": "text",
+  "text": "Awaiting source artwork\n"
+ },
+ {
+  "bbox": [
+   600.0,
+   629.36,
+   701.14,
+   643.36
+  ],
+  "type": "text",
+  "text": "DISSERTATION\n"
+ },
+ {
+  "bbox": [
+   600.0,
+   657.56,
+   714.19,
+   676.56
+  ],
+  "type": "text",
+  "text": "RESEARCH\n"
+ },
+ {
+  "bbox": [
+   600.0,
+   681.64,
+   1043.24,
+   699.64
+  ],
+  "type": "text",
+  "text": "Architectural Homogenisation in Cairo\n17\n"
+ },
+ {
+  "bbox": [
+   65.0,
+   806.16,
+   1110.84,
+   815.16
+  ],
+  "type": "text",
+  "text": "TALA HAGRAS   /   ARCHITECTURE\nCONTENTS\n02\n"
+ }
+]

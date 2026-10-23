@@ -1,0 +1,52 @@
+[
+ {
+  "bbox": [
+   85.0,
+   118.26,
+   431.03,
+   287.26
+  ],
+  "type": "text",
+  "text": "TALA\nHAGRAS\n"
+ },
+ {
+  "bbox": [
+   89.0,
+   324.84,
+   358.7,
+   340.84
+  ],
+  "type": "text",
+  "text": "SELECTED ARCHITECTURAL WORKS\n"
+ },
+ {
+  "bbox": [
+   89.0,
+   354.88,
+   168.46,
+   366.88
+  ],
+  "type": "text",
+  "text": "2024 \u2014 2026\n"
+ },
+ {
+  "bbox": [
+   90.0,
+   708.64,
+   328.39,
+   719.64
+  ],
+  "type": "text",
+  "text": "DESIGN / MATERIAL / MOVEMENT / PLACE\n"
+ },
+ {
+  "bbox": [
+   90.0,
+   765.16,
+   317.56,
+   774.16
+  ],
+  "type": "text",
+  "text": "EDITORIAL STUDY  /  ORIGINAL WORK RETAINED\n"
+ }
+]

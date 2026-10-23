@@ -3,6 +3,7 @@
 
 Usage:
     python3 -I scripts/extract_sources.py --archive <path-to-zip> --out sources
+    python3 -I scripts/extract_sources.py --pdf <a.pdf> --pdf <b.pdf> --out sources   (re-run on individual PDFs)
 
 Everything this script writes is PRIVATE working material and must stay
 outside public/. Curated web derivatives are produced separately by
@@ -254,18 +255,29 @@ def inventory_pdf(pdf: Path, slug: str, derived: Path, dpi: int) -> dict:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--archive", required=True, type=Path)
+    ap.add_argument("--archive", type=Path, help="zip archive to extract safely into <out>/raw")
+    ap.add_argument("--pdf", type=Path, action="append", default=[], help="PDF(s) to inventory directly (copied into <out>/raw)")
     ap.add_argument("--out", required=True, type=Path)
     ap.add_argument("--dpi", type=int, default=150)
     args = ap.parse_args()
+    if not args.archive and not args.pdf:
+        ap.error("give --archive <zip> or one or more --pdf <file>")
 
     args.out = args.out.resolve()
     raw = args.out / "raw"
     derived = args.out / "derived"
     derived.mkdir(parents=True, exist_ok=True)
-    files = safe_extract(args.archive, raw)
+    files: list[Path] = []
+    if args.archive:
+        files += safe_extract(args.archive, raw)
+    for pdf in args.pdf:
+        raw.mkdir(parents=True, exist_ok=True)
+        target = raw / pdf.name
+        if pdf.resolve() != target.resolve():
+            target.write_bytes(pdf.read_bytes())
+        files.append(target)
     inventory = {
-        "archive": {"file": args.archive.name, "sha256": sha256_file(args.archive), "bytes": args.archive.stat().st_size},
+        "archive": {"file": args.archive.name, "sha256": sha256_file(args.archive), "bytes": args.archive.stat().st_size} if args.archive else None,
         "extracted": [],
         "documents": [],
         "render_dpi": args.dpi,
