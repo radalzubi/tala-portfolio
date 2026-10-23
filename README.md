@@ -13,7 +13,9 @@ Next.js 16 export with small client-side 3D islands (three.js / React Three Fibe
 npm install
 npm run dev        # http://localhost:3000
 npm run build      # static export to ./out
-npx serve out      # serve the export locally
+npm run preview    # serve the export at http://127.0.0.1:4173
+npm run check      # typecheck + lint
+npm test           # Playwright tests against ./out (run build first)
 ```
 
 ## Layout
@@ -29,7 +31,10 @@ npx serve out      # serve the export locally
 | `scripts/extract_sources.py` | Reproducible extraction of the supplied archive (private outputs under `sources/`) |
 | `scripts/build_media.py` | Builds `public/media` derivatives and `src/content/media.generated.json` |
 | `scripts/make_research_excerpt.py` | Dissertation reading edition (pages 1–28, appendices excluded, personal-data scan) |
-| `docs/` | Brief, decisions, ownership, content needed, QA, performance, handoff |
+| `scripts/capture_posters.mjs` | Captures still posters of the 3D studies from the built site (`data/posters/*.png`) |
+| `scripts/check_content.mjs` | Content integrity check: media ids resolve, no third-party assets, no production notes |
+| `tests/` | Playwright end-to-end and axe accessibility checks against the static export |
+| `docs/` | Brief, decisions, ownership, assets, reconstruction, content needed, QA, performance, handoff |
 
 ## Sources
 

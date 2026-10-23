@@ -398,6 +398,379 @@
     1356
    ],
    "quality": 76
+  },
+  {
+   "id": "mi-section",
+   "kind": "section",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 5,
+    "xref": 14
+   },
+   "alt": "Section through the Music Institution: recording studios, the double-height performance space with stepped seating, café and mezzanine under a green roof, with outdoor stepped seating descending to the right; construction and space-use legends at the margins.",
+   "caption": "Section: a continuous sequence links practice, performance and the public landscape. Legends CT01–CT20 (construction) and SU01– (space use) are part of the drawing.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    960,
+    1400,
+    1946
+   ],
+   "quality": 78
+  },
+  {
+   "id": "mi-exploded-axo",
+   "kind": "axonometric",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 5,
+    "xref": 15
+   },
+   "alt": "Exploded axonometric of the Music Institution: ground ring with the performance hall, upper ring with practice rooms, and the roof disc with its skylight, above the landscaped site with curved stepped seating; space-use legend SU01–SU14.",
+   "caption": "Exploded axonometric: ground floor, upper floor and roof garden lifted apart over the stepped landscape (legend SU01–SU14).",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    960,
+    1400,
+    1804
+   ],
+   "quality": 78
+  },
+  {
+   "id": "mp-section",
+   "kind": "section",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 11,
+    "xref": 36
+   },
+   "alt": "Section 1:50 through Maison Peplum: two floors inside the existing warehouse shell with a timber stair, curved timber fins rising on both faces and over the pitched roof, the canal at left, and ground build-up labels below.",
+   "caption": "Section at 1:50: two floors within the retained shell, fins on both faces and over the roof, the canal to one side.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    687
+   ],
+   "quality": 80
+  },
+  {
+   "id": "mp-plan-ground",
+   "kind": "plan",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 10,
+    "xref": 32
+   },
+   "alt": "Ground-floor plan of Maison Peplum in context: the long warehouse beside a canal, with the café and showroom opening towards the water and trees along the quay.",
+   "caption": "Ground-floor plan in its canal-side context.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    687
+   ],
+   "quality": 80
+  },
+  {
+   "id": "mp-plan-roof",
+   "kind": "plan",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 10,
+    "xref": 33
+   },
+   "alt": "Roof plan of Maison Peplum in context, showing the fin-wrapped roof beside the canal.",
+   "caption": "Roof plan in context.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    687
+   ],
+   "quality": 80
+  },
+  {
+   "id": "mp-exploded-axo",
+   "kind": "axonometric",
+   "provenance": "derivative",
+   "source": {
+    "file": "portfolio",
+    "page": 10,
+    "xref": 34,
+    "note": "programme list cropped off at left; it is reproduced in the project metadata"
+   },
+   "crop": [
+    0.4,
+    0,
+    1,
+    1
+   ],
+   "alt": "Exploded axonometric of Maison Peplum: the fin-wrapped roof, first floor, ground floor and site lifted apart, with numbered programme labels.",
+   "caption": "Exploded axonometric: roof, upper floor, ground floor and site separated to show how the programme stacks within the shell.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    353
+   ]
+  },
+  {
+   "id": "mp-render-night",
+   "kind": "render",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 12,
+    "xref": 40
+   },
+   "alt": "Night render of Maison Peplum: the curved timber fins glow against a dark sky, lit from the glazed floors behind them.",
+   "caption": "Night render: the fins read as a lantern, lit from the floors behind.",
+   "credit": "Render by Tala Hagras",
+   "widths": [
+    394
+   ],
+   "quality": 80
+  },
+  {
+   "id": "mp-tectonic-models",
+   "kind": "model-photo",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 9,
+    "xref": 29
+   },
+   "alt": "Tectonic model response: a gridded card and timber study with folded canopies, and clay studies of folded fabric, with Tala's notes on the move from neoclassical geometry to organic, flowing movement.",
+   "caption": "Tectonic model response: from a gridded study with folded canopies to clay studies of flowing folds. The notes are part of the sheet.",
+   "credit": "Models and photographs by Tala Hagras",
+   "widths": [
+    480,
+    687
+   ],
+   "quality": 80
+  },
+  {
+   "id": "mi-timber-details",
+   "kind": "detail-drawing",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 6,
+    "xref": 18
+   },
+   "alt": "Timber connection detail drawings for the Music Institution.",
+   "caption": "Timber connection studies.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    960,
+    1400,
+    1926
+   ],
+   "quality": 78
+  },
+  {
+   "id": "mi-models",
+   "kind": "model-photo",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 6,
+    "xref": 19
+   },
+   "alt": "Physical models of the Music Institution: site model, tectonic model and section model.",
+   "caption": "Physical models: 1:200 site model, 1:20 tectonic model and section model.",
+   "credit": "Models and photographs by Tala Hagras",
+   "widths": [
+    480,
+    960,
+    1400,
+    1946
+   ],
+   "quality": 78
+  },
+  {
+   "id": "mi-render-interior",
+   "kind": "render",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 7,
+    "xref": 22
+   },
+   "alt": "Interior render of the circular performance hall of the Music Institution.",
+   "caption": "Interior perspective of the circular performance hall.",
+   "credit": "Render by Tala Hagras",
+   "widths": [
+    480,
+    973
+   ],
+   "quality": 78
+  },
+  {
+   "id": "mi-model-photos",
+   "kind": "model-photo",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 7,
+    "xref": 23
+   },
+   "alt": "Photographs of physical models of the Music Institution.",
+   "caption": "Model photographs.",
+   "credit": "Models and photographs by Tala Hagras",
+   "widths": [
+    480,
+    960,
+    1095
+   ],
+   "quality": 78
+  },
+  {
+   "id": "mp-concept-collage",
+   "kind": "collage",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 8,
+    "xref": 26
+   },
+   "alt": "Concept collage for Maison Peplum: the existing Jupps Warehouse, garment references and façade studies.",
+   "caption": "Concept collage: the warehouse, the peplum jacket and first façade studies.",
+   "credit": "Collage by Tala Hagras",
+   "widths": [
+    480,
+    680
+   ],
+   "quality": 80
+  },
+  {
+   "id": "mp-garment-studies",
+   "kind": "garment-study",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 9,
+    "xref": 28
+   },
+   "alt": "Garment deconstruction drawings of a peplum jacket: pattern pieces, the hem, pleats and seams, with fabric swatches.",
+   "caption": "Garment to building: deconstruction drawings of the peplum jacket.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    666
+   ],
+   "quality": 80
+  },
+  {
+   "id": "mp-facade-model",
+   "kind": "model-photo",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 9,
+    "xref": 30
+   },
+   "alt": "1:200 physical model of the parametric fin façade of Maison Peplum, rows of wave-profiled fins in card.",
+   "caption": "1:200 model of the parametric façade.",
+   "credit": "Model and photograph by Tala Hagras",
+   "widths": [
+    480,
+    673
+   ],
+   "quality": 80
+  },
+  {
+   "id": "mp-facade-assembly",
+   "kind": "axonometric",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 11,
+    "xref": 37
+   },
+   "alt": "Façade assembly drawing of Maison Peplum with its numbered component list: unistrut connector, hanger rib, fin support rib, fins, screen brackets, glazing frame, spandrels, cantilever beam, mullions and transoms, cross-bracing frames.",
+   "caption": "Façade assembly: the fin system and its supporting frame, listed component by component.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    687
+   ],
+   "quality": 80
+  },
+  {
+   "id": "mp-wall-detail",
+   "kind": "detail-drawing",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 11,
+    "xref": 38
+   },
+   "alt": "Wall build-up detail of Maison Peplum: existing timber and steel frames, insulation, CLT and brick cladding, hanging rib, support panel, spacer and ventilation.",
+   "caption": "Wall build-up detail through the new envelope and the existing frame.",
+   "credit": "Drawing by Tala Hagras",
+   "widths": [
+    480,
+    680
+   ],
+   "quality": 80
+  },
+  {
+   "id": "mp-render-interior",
+   "kind": "render",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 12,
+    "xref": 41
+   },
+   "alt": "Interior render of the Maison Peplum showroom beneath the folded ceiling of the fins.",
+   "caption": "Interior: the showroom under the folded envelope.",
+   "credit": "Render by Tala Hagras",
+   "widths": [
+    480,
+    680
+   ],
+   "quality": 80
+  },
+  {
+   "id": "mp-model-section",
+   "kind": "model-photo",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 12,
+    "xref": 42
+   },
+   "alt": "1:50 section model of Maison Peplum.",
+   "caption": "1:50 section model.",
+   "credit": "Model and photograph by Tala Hagras",
+   "widths": [
+    480,
+    680
+   ],
+   "quality": 80
+  },
+  {
+   "id": "mp-model-facade-2",
+   "kind": "model-photo",
+   "provenance": "original",
+   "source": {
+    "file": "portfolio",
+    "page": 12,
+    "xref": 43
+   },
+   "alt": "1:200 façade model of Maison Peplum.",
+   "caption": "1:200 façade model.",
+   "credit": "Model and photograph by Tala Hagras",
+   "widths": [
+    480,
+    687
+   ],
+   "quality": 80
   }
  ]
 }

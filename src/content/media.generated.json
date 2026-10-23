@@ -878,5 +878,990 @@
   "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAUABgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECBAMF/8QAJxAAAgIBAgUDBQAAAAAAAAAAAQIDEQAEEgUUITFBEyJhMlFxkcH/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8A6cjIsLRuqqDKrbgboDK62M8rO711kWRaPjcc2asyvqVMLKwX60PQUfOTusn3qA6UhYdwCfB+cJ5kIh6nClldDapW7dXbzWMnXagywiGFBsqmcdh8DGWBa8yXiE/MhbXaxSxX375RJ5J3YSOSEPQfz8YxhKtOpJVQFNDaSf1jGMsF/9k=",
   "tone": "#9e958d",
   "rightsNote": "The photographs within the collage are site documentation whose authorship is not stated in the portfolio."
+ },
+ "mi-section": {
+  "id": "mi-section",
+  "alt": "Section through the Music Institution: recording studios, the double-height performance space with stepped seating, café and mezzanine under a green roof, with outdoor stepped seating descending to the right; construction and space-use legends at the margins.",
+  "caption": "Section: a continuous sequence links practice, performance and the public landscape. Legends CT01–CT20 (construction) and SU01– (space use) are part of the drawing.",
+  "credit": "Drawing by Tala Hagras",
+  "provenance": "original",
+  "kind": "section",
+  "source": {
+   "file": "portfolio",
+   "page": 5
+  },
+  "native": [
+   1946,
+   1088
+  ],
+  "lowResolution": false,
+  "variants": [
+   {
+    "src": "/media/mi-section-480.jpg",
+    "width": 480,
+    "height": 268,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-section-480.webp",
+    "width": 480,
+    "height": 268,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mi-section-960.jpg",
+    "width": 960,
+    "height": 537,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-section-960.webp",
+    "width": 960,
+    "height": 537,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mi-section-1400.jpg",
+    "width": 1400,
+    "height": 783,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-section-1400.webp",
+    "width": 1400,
+    "height": 783,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mi-section-1946.jpg",
+    "width": 1946,
+    "height": 1088,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-section-1946.webp",
+    "width": 1946,
+    "height": 1088,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAANABgDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBv/EABoQAAICAwAAAAAAAAAAAAAAAAABESECMZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A63Fq6fDUpOL4TGpgsAXakBN6AH//2Q==",
+  "tone": "#f5f5f6"
+ },
+ "mi-exploded-axo": {
+  "id": "mi-exploded-axo",
+  "alt": "Exploded axonometric of the Music Institution: ground ring with the performance hall, upper ring with practice rooms, and the roof disc with its skylight, above the landscaped site with curved stepped seating; space-use legend SU01–SU14.",
+  "caption": "Exploded axonometric: ground floor, upper floor and roof garden lifted apart over the stepped landscape (legend SU01–SU14).",
+  "credit": "Drawing by Tala Hagras",
+  "provenance": "original",
+  "kind": "axonometric",
+  "source": {
+   "file": "portfolio",
+   "page": 5
+  },
+  "native": [
+   1804,
+   1174
+  ],
+  "lowResolution": false,
+  "variants": [
+   {
+    "src": "/media/mi-exploded-axo-480.jpg",
+    "width": 480,
+    "height": 312,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-exploded-axo-480.webp",
+    "width": 480,
+    "height": 312,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mi-exploded-axo-960.jpg",
+    "width": 960,
+    "height": 625,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-exploded-axo-960.webp",
+    "width": 960,
+    "height": 625,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mi-exploded-axo-1400.jpg",
+    "width": 1400,
+    "height": 911,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-exploded-axo-1400.webp",
+    "width": 1400,
+    "height": 911,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mi-exploded-axo-1804.jpg",
+    "width": 1804,
+    "height": 1174,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-exploded-axo-1804.webp",
+    "width": 1804,
+    "height": 1174,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAQABgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEG/8QAFxABAQEBAAAAAAAAAAAAAAAAAAFREf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDZScLRLNoLgkAf/9k=",
+  "tone": "#fcfcfc"
+ },
+ "mp-section": {
+  "id": "mp-section",
+  "alt": "Section 1:50 through Maison Peplum: two floors inside the existing warehouse shell with a timber stair, curved timber fins rising on both faces and over the pitched roof, the canal at left, and ground build-up labels below.",
+  "caption": "Section at 1:50: two floors within the retained shell, fins on both faces and over the roof, the canal to one side.",
+  "credit": "Drawing by Tala Hagras",
+  "provenance": "original",
+  "kind": "section",
+  "source": {
+   "file": "portfolio",
+   "page": 11
+  },
+  "native": [
+   687,
+   456
+  ],
+  "lowResolution": true,
+  "variants": [
+   {
+    "src": "/media/mp-section-480.jpg",
+    "width": 480,
+    "height": 319,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-section-480.webp",
+    "width": 480,
+    "height": 319,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mp-section-687.jpg",
+    "width": 687,
+    "height": 456,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-section-687.webp",
+    "width": 687,
+    "height": 456,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAQABgDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBv/EACIQAAICAgEDBQAAAAAAAAAAAAERAgMABBITITEiQWGB0f/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8A1l+wKjxABkmWUAMUNi6uPK3gmvC+sbI0ylyl3KXnJt9t0LjGjpxqiUiy8izqnr7MLx6exTXxhk2natrs5GMCSFJe4Z/cMaZX/9k=",
+  "tone": "#e2dcd7"
+ },
+ "mp-plan-ground": {
+  "id": "mp-plan-ground",
+  "alt": "Ground-floor plan of Maison Peplum in context: the long warehouse beside a canal, with the café and showroom opening towards the water and trees along the quay.",
+  "caption": "Ground-floor plan in its canal-side context.",
+  "credit": "Drawing by Tala Hagras",
+  "provenance": "original",
+  "kind": "plan",
+  "source": {
+   "file": "portfolio",
+   "page": 10
+  },
+  "native": [
+   687,
+   426
+  ],
+  "lowResolution": true,
+  "variants": [
+   {
+    "src": "/media/mp-plan-ground-480.jpg",
+    "width": 480,
+    "height": 298,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-plan-ground-480.webp",
+    "width": 480,
+    "height": 298,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mp-plan-ground-687.jpg",
+    "width": 687,
+    "height": 426,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-plan-ground-687.webp",
+    "width": 687,
+    "height": 426,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAPABgDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMCBv/EAB4QAAICAgMBAQAAAAAAAAAAAAECABEhMQMSQVFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOszRGKOJB+YsGVUZkUdhyWDRB+S90NQAN0LPsCA2Ad3qJm+jhhq8j99iIf/2Q==",
+  "tone": "#eceae6"
+ },
+ "mp-plan-roof": {
+  "id": "mp-plan-roof",
+  "alt": "Roof plan of Maison Peplum in context, showing the fin-wrapped roof beside the canal.",
+  "caption": "Roof plan in context.",
+  "credit": "Drawing by Tala Hagras",
+  "provenance": "original",
+  "kind": "plan",
+  "source": {
+   "file": "portfolio",
+   "page": 10
+  },
+  "native": [
+   687,
+   426
+  ],
+  "lowResolution": true,
+  "variants": [
+   {
+    "src": "/media/mp-plan-roof-480.jpg",
+    "width": 480,
+    "height": 298,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-plan-roof-480.webp",
+    "width": 480,
+    "height": 298,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mp-plan-roof-687.jpg",
+    "width": 687,
+    "height": 426,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-plan-roof-687.webp",
+    "width": 687,
+    "height": 426,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAPABgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEG/8QAHxABAAIBAwUAAAAAAAAAAAAAAQARIQIxQRIzUXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDVW0mKcJGrt1lpsWXjb0knG+8CXYc+IkHp1ifYkH//2Q==",
+  "tone": "#ece8e4"
+ },
+ "mp-exploded-axo": {
+  "id": "mp-exploded-axo",
+  "alt": "Exploded axonometric of Maison Peplum: the fin-wrapped roof, first floor, ground floor and site lifted apart, with numbered programme labels.",
+  "caption": "Exploded axonometric: roof, upper floor, ground floor and site separated to show how the programme stacks within the shell.",
+  "credit": "Drawing by Tala Hagras",
+  "provenance": "derivative",
+  "kind": "axonometric",
+  "source": {
+   "file": "portfolio",
+   "page": 10,
+   "note": "programme list cropped off at left; it is reproduced in the project metadata"
+  },
+  "native": [
+   353,
+   466
+  ],
+  "lowResolution": true,
+  "variants": [
+   {
+    "src": "/media/mp-exploded-axo-353.jpg",
+    "width": 353,
+    "height": 466,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-exploded-axo-353.webp",
+    "width": 353,
+    "height": 466,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABIDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBv/EABwQAQACAgMBAAAAAAAAAAAAAAABEQIhMUFxYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDsM/Vxj7tJq5qfVx44BoAGMu61LUXWwBQAf//Z",
+  "tone": "#fafaf9"
+ },
+ "mp-render-night": {
+  "id": "mp-render-night",
+  "alt": "Night render of Maison Peplum: the curved timber fins glow against a dark sky, lit from the glazed floors behind them.",
+  "caption": "Night render: the fins read as a lantern, lit from the floors behind.",
+  "credit": "Render by Tala Hagras",
+  "provenance": "original",
+  "kind": "render",
+  "source": {
+   "file": "portfolio",
+   "page": 12
+  },
+  "native": [
+   394,
+   289
+  ],
+  "lowResolution": true,
+  "variants": [
+   {
+    "src": "/media/mp-render-night-394.jpg",
+    "width": 394,
+    "height": 289,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-render-night-394.webp",
+    "width": 394,
+    "height": 289,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAASABgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMFBgEE/8QAKRAAAQQBAQYGAwAAAAAAAAAAAgABAxEEEgUUITJUkxMiMUFRYXGhwf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQBBAgP/2gAMAwEAAhEDEQA/AKxpAI3YuJA9PbKcZRca0iT/ALVcLDBkHbHJHdN9r2454zORFNpJ/RtD/hL6MnBt2EpJZSfWz+78apFLLJhxQ6Mcr1c1j/UUejpLwY2m3HE6WHtsm44nSw9tkREWZ2nDGO3PDGMGC28rC1cvwiIiS//Z",
+  "tone": "#5f575b"
+ },
+ "mp-tectonic-models": {
+  "id": "mp-tectonic-models",
+  "alt": "Tectonic model response: a gridded card and timber study with folded canopies, and clay studies of folded fabric, with Tala's notes on the move from neoclassical geometry to organic, flowing movement.",
+  "caption": "Tectonic model response: from a gridded study with folded canopies to clay studies of flowing folds. The notes are part of the sheet.",
+  "credit": "Models and photographs by Tala Hagras",
+  "provenance": "original",
+  "kind": "model-photo",
+  "source": {
+   "file": "portfolio",
+   "page": 9
+  },
+  "native": [
+   687,
+   486
+  ],
+  "lowResolution": true,
+  "variants": [
+   {
+    "src": "/media/mp-tectonic-models-480.jpg",
+    "width": 480,
+    "height": 340,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-tectonic-models-480.webp",
+    "width": 480,
+    "height": 340,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mp-tectonic-models-687.jpg",
+    "width": 687,
+    "height": 486,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-tectonic-models-687.webp",
+    "width": 687,
+    "height": 486,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAARABgDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAMEBgH/xAAtEAACAQQAAgYLAAAAAAAAAAABAgMABBESBSEGE0FhcXIUFSIxMjQ1UZGxwv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABcRAQEBAQAAAAAAAAAAAAAAAAABAjH/2gAMAwEAAhEDEQA/ALUF1dQ6STTMRs+zAHCjUY9/fUk140rwvcXEckCsT7SjkdTiu+mNxRUtHiwtwpOSeQxz+/dUlrwmWG8ifrIjAhLFNTknUjw7ajVdpz63gMQOphZWKA4Bzkc/zSoej1w0lsUcguJSSvaAcYpUDgP1hPK36rWN8J8KUrWuiMBZ/MS+T+hSlKKX/9k=",
+  "tone": "#a09e9f"
+ },
+ "mi-timber-details": {
+  "id": "mi-timber-details",
+  "alt": "Timber connection detail drawings for the Music Institution.",
+  "caption": "Timber connection studies.",
+  "credit": "Drawing by Tala Hagras",
+  "provenance": "original",
+  "kind": "detail-drawing",
+  "source": {
+   "file": "portfolio",
+   "page": 6
+  },
+  "native": [
+   1926,
+   1246
+  ],
+  "lowResolution": false,
+  "variants": [
+   {
+    "src": "/media/mi-timber-details-480.jpg",
+    "width": 480,
+    "height": 311,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-timber-details-480.webp",
+    "width": 480,
+    "height": 311,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mi-timber-details-960.jpg",
+    "width": 960,
+    "height": 621,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-timber-details-960.webp",
+    "width": 960,
+    "height": 621,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mi-timber-details-1400.jpg",
+    "width": 1400,
+    "height": 906,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-timber-details-1400.webp",
+    "width": 1400,
+    "height": 906,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mi-timber-details-1926.jpg",
+    "width": 1926,
+    "height": 1246,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-timber-details-1926.webp",
+    "width": 1926,
+    "height": 1246,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAQABgDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAECBAb/xAAcEAACAgMBAQAAAAAAAAAAAAABAgARAyExEkH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A2VVcWhyMyIBK6PyALkVjSm9XCVsNY3T0SzEVs8MIH//Z",
+  "tone": "#f7f6f6"
+ },
+ "mi-models": {
+  "id": "mi-models",
+  "alt": "Physical models of the Music Institution: site model, tectonic model and section model.",
+  "caption": "Physical models: 1:200 site model, 1:20 tectonic model and section model.",
+  "credit": "Models and photographs by Tala Hagras",
+  "provenance": "original",
+  "kind": "model-photo",
+  "source": {
+   "file": "portfolio",
+   "page": 6
+  },
+  "native": [
+   1946,
+   1174
+  ],
+  "lowResolution": false,
+  "variants": [
+   {
+    "src": "/media/mi-models-480.jpg",
+    "width": 480,
+    "height": 290,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-models-480.webp",
+    "width": 480,
+    "height": 290,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mi-models-960.jpg",
+    "width": 960,
+    "height": 579,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-models-960.webp",
+    "width": 960,
+    "height": 579,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mi-models-1400.jpg",
+    "width": 1400,
+    "height": 845,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-models-1400.webp",
+    "width": 1400,
+    "height": 845,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mi-models-1946.jpg",
+    "width": 1946,
+    "height": 1174,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-models-1946.webp",
+    "width": 1946,
+    "height": 1174,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAOABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAlEAACAQMCBQUAAAAAAAAAAAABAgMABBEhMRITIkFxI0JRYdH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8A6PqNMQDJwq2wPbPcnSsx2hZZ1iumDk6Di4sDOniqBz52DG4dEDbLjX6Om1TS3EluDIAgyOrA18VFaF20EptUkuJiQ5De44OvxRTA8qSchXART0jG37RRQ//Z",
+  "tone": "#b3a498"
+ },
+ "mi-render-interior": {
+  "id": "mi-render-interior",
+  "alt": "Interior render of the circular performance hall of the Music Institution.",
+  "caption": "Interior perspective of the circular performance hall.",
+  "credit": "Render by Tala Hagras",
+  "provenance": "original",
+  "kind": "render",
+  "source": {
+   "file": "portfolio",
+   "page": 7
+  },
+  "native": [
+   973,
+   730
+  ],
+  "lowResolution": false,
+  "variants": [
+   {
+    "src": "/media/mi-render-interior-480.jpg",
+    "width": 480,
+    "height": 360,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-render-interior-480.webp",
+    "width": 480,
+    "height": 360,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mi-render-interior-973.jpg",
+    "width": 973,
+    "height": 730,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-render-interior-973.webp",
+    "width": 973,
+    "height": 730,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAASABgDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBQT/xAAkEAACAgEDBAIDAAAAAAAAAAABAgADEQQFIRITMVEiYUGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwCnQlqNxAbnp6j5+jNd9wYMVwqkfnzMfRjv7kuCAzK2f0Z3nbinSrWZKnP3wDAxK6xrGqZn7gLeM4xE5LVY9qmutwxK/FvcQLU0lNS65GWpAcHkKPRlzgHfrQRx2Sf5ETQSNaHeqh0rxSpHHg5iIkH/2Q==",
+  "tone": "#918c87"
+ },
+ "mi-model-photos": {
+  "id": "mi-model-photos",
+  "alt": "Photographs of physical models of the Music Institution.",
+  "caption": "Model photographs.",
+  "credit": "Models and photographs by Tala Hagras",
+  "provenance": "original",
+  "kind": "model-photo",
+  "source": {
+   "file": "portfolio",
+   "page": 7
+  },
+  "native": [
+   1095,
+   658
+  ],
+  "lowResolution": false,
+  "variants": [
+   {
+    "src": "/media/mi-model-photos-480.jpg",
+    "width": 480,
+    "height": 288,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-model-photos-480.webp",
+    "width": 480,
+    "height": 288,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mi-model-photos-960.jpg",
+    "width": 960,
+    "height": 577,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-model-photos-960.webp",
+    "width": 960,
+    "height": 577,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mi-model-photos-1095.jpg",
+    "width": 1095,
+    "height": 658,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mi-model-photos-1095.webp",
+    "width": 1095,
+    "height": 658,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAOABgDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EACIQAAICAQMEAwAAAAAAAAAAAAECAxEABRIhBCIxMkKRof/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwC2ZSWaKNHZST3lggA+7xooo5DPE88UppQ0SfHnzeWvpQdyXIZSPXmsd4HhXs2AtwT5wyMnTtPO2KSNxuYPZayaojj8wynpZ5x1aQMyiMlhtRQAOLwzUSv/2Q==",
+  "tone": "#b7a699"
+ },
+ "mp-concept-collage": {
+  "id": "mp-concept-collage",
+  "alt": "Concept collage for Maison Peplum: the existing Jupps Warehouse, garment references and façade studies.",
+  "caption": "Concept collage: the warehouse, the peplum jacket and first façade studies.",
+  "credit": "Collage by Tala Hagras",
+  "provenance": "original",
+  "kind": "collage",
+  "source": {
+   "file": "portfolio",
+   "page": 8
+  },
+  "native": [
+   680,
+   446
+  ],
+  "lowResolution": true,
+  "variants": [
+   {
+    "src": "/media/mp-concept-collage-480.jpg",
+    "width": 480,
+    "height": 315,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-concept-collage-480.webp",
+    "width": 480,
+    "height": 315,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mp-concept-collage-680.jpg",
+    "width": 680,
+    "height": 446,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-concept-collage-680.webp",
+    "width": 680,
+    "height": 446,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAQABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAb/xAAgEAACAQQDAAMAAAAAAAAAAAABAgMABBIhETFhBTJB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECEVH/2gAMAwEAAhEDEQA/AOnuLqG2VXmYIGOI1SJr6NIix2utD3qsN9IbmBXVQZY3BUAcjflTpnuMJFdPsyno7P7WTrhWFhL6R7losuAp4G/BRS/igmcksr7BxGQopOtBn//Z",
+  "tone": "#c2b7a0"
+ },
+ "mp-garment-studies": {
+  "id": "mp-garment-studies",
+  "alt": "Garment deconstruction drawings of a peplum jacket: pattern pieces, the hem, pleats and seams, with fabric swatches.",
+  "caption": "Garment to building: deconstruction drawings of the peplum jacket.",
+  "credit": "Drawing by Tala Hagras",
+  "provenance": "original",
+  "kind": "garment-study",
+  "source": {
+   "file": "portfolio",
+   "page": 9
+  },
+  "native": [
+   666,
+   456
+  ],
+  "lowResolution": true,
+  "variants": [
+   {
+    "src": "/media/mp-garment-studies-480.jpg",
+    "width": 480,
+    "height": 329,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-garment-studies-480.webp",
+    "width": 480,
+    "height": 329,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mp-garment-studies-666.jpg",
+    "width": 666,
+    "height": 456,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-garment-studies-666.webp",
+    "width": 666,
+    "height": 456,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAQABgDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBv/EACEQAAEEAgICAwAAAAAAAAAAAAEAAgMEERIFQRMhUWHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDSWuQpVJ/FPKWvxtjBPpMh5GtZiD4ZNmuOoOpHtS3+FZetid0zmHXXAaPv9TOLpMpVpK4JkDHkhzh8qi3BHXSErc9lCg//2Q==",
+  "tone": "#dfe0e1"
+ },
+ "mp-facade-model": {
+  "id": "mp-facade-model",
+  "alt": "1:200 physical model of the parametric fin façade of Maison Peplum, rows of wave-profiled fins in card.",
+  "caption": "1:200 model of the parametric façade.",
+  "credit": "Model and photograph by Tala Hagras",
+  "provenance": "original",
+  "kind": "model-photo",
+  "source": {
+   "file": "portfolio",
+   "page": 9
+  },
+  "native": [
+   673,
+   481
+  ],
+  "lowResolution": true,
+  "variants": [
+   {
+    "src": "/media/mp-facade-model-480.jpg",
+    "width": 480,
+    "height": 343,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-facade-model-480.webp",
+    "width": 480,
+    "height": 343,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mp-facade-model-673.jpg",
+    "width": 673,
+    "height": 481,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-facade-model-673.webp",
+    "width": 673,
+    "height": 481,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAARABgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECAwQF/8QAJxAAAgICAQIEBwAAAAAAAAAAAQIAAwQRIQUSExQxgSIyQXFysdH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMA/8QAFxEBAQEBAAAAAAAAAAAAAAAAABEBMf/aAAwDAQACEQMRAD8AjRxsoasdWL6AI2WG5R7MjGsbuZ1cHnn1/s2tyybE80q1gNtdc7952XWZOahOBWjEa7hrTKfeTUrCvByM2sXK6q7cNsfWJavG6t46k1WLXv4h3DRiaBUdS+V/xnrdM9Lfsn6iI2dDeOwRERiv/9k=",
+  "tone": "#9d8b7d"
+ },
+ "mp-facade-assembly": {
+  "id": "mp-facade-assembly",
+  "alt": "Façade assembly drawing of Maison Peplum with its numbered component list: unistrut connector, hanger rib, fin support rib, fins, screen brackets, glazing frame, spandrels, cantilever beam, mullions and transoms, cross-bracing frames.",
+  "caption": "Façade assembly: the fin system and its supporting frame, listed component by component.",
+  "credit": "Drawing by Tala Hagras",
+  "provenance": "original",
+  "kind": "axonometric",
+  "source": {
+   "file": "portfolio",
+   "page": 11
+  },
+  "native": [
+   687,
+   461
+  ],
+  "lowResolution": true,
+  "variants": [
+   {
+    "src": "/media/mp-facade-assembly-480.jpg",
+    "width": 480,
+    "height": 322,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-facade-assembly-480.webp",
+    "width": 480,
+    "height": 322,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mp-facade-assembly-687.jpg",
+    "width": 687,
+    "height": 461,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-facade-assembly-687.webp",
+    "width": 687,
+    "height": 461,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAQABgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAG/8QAHhAAAQQCAwEAAAAAAAAAAAAAAQACAxESITFBQmH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A2DrzBA6RS+USx7aWer556SnuINAE6tHMgwjcGAZVp31AtSlIP//Z",
+  "tone": "#f2f2f2"
+ },
+ "mp-wall-detail": {
+  "id": "mp-wall-detail",
+  "alt": "Wall build-up detail of Maison Peplum: existing timber and steel frames, insulation, CLT and brick cladding, hanging rib, support panel, spacer and ventilation.",
+  "caption": "Wall build-up detail through the new envelope and the existing frame.",
+  "credit": "Drawing by Tala Hagras",
+  "provenance": "original",
+  "kind": "detail-drawing",
+  "source": {
+   "file": "portfolio",
+   "page": 11
+  },
+  "native": [
+   680,
+   471
+  ],
+  "lowResolution": true,
+  "variants": [
+   {
+    "src": "/media/mp-wall-detail-480.jpg",
+    "width": 480,
+    "height": 332,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-wall-detail-480.webp",
+    "width": 480,
+    "height": 332,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mp-wall-detail-680.jpg",
+    "width": 680,
+    "height": 471,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-wall-detail-680.webp",
+    "width": 680,
+    "height": 471,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAARABgDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMBBv/EAB0QAAICAgMBAAAAAAAAAAAAAAABAhESQTEzUXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A7JujIcU3bNfwJ3qgJyTcm9AZQzpuN+ACoAAhPvQAA//Z",
+  "tone": "#f9f9f9"
+ },
+ "mp-render-interior": {
+  "id": "mp-render-interior",
+  "alt": "Interior render of the Maison Peplum showroom beneath the folded ceiling of the fins.",
+  "caption": "Interior: the showroom under the folded envelope.",
+  "credit": "Render by Tala Hagras",
+  "provenance": "original",
+  "kind": "render",
+  "source": {
+   "file": "portfolio",
+   "page": 12
+  },
+  "native": [
+   680,
+   268
+  ],
+  "lowResolution": true,
+  "variants": [
+   {
+    "src": "/media/mp-render-interior-480.jpg",
+    "width": 480,
+    "height": 189,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-render-interior-480.webp",
+    "width": 480,
+    "height": 189,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mp-render-interior-680.jpg",
+    "width": 680,
+    "height": 268,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-render-interior-680.webp",
+    "width": 680,
+    "height": 268,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAJABgDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EACYQAAEDAQYHAQAAAAAAAAAAAAEAAgMEBREiQXFyEhMhMTIzNLH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAMAwEAAhEDEQA/ANaqbkHic3GMmm7tl0RprQjmLXOpZA4kAkE3ap9T637QulSfOzaFMKmyLNLzRtxAG8/qkabwdopM5FL/2Q==",
+  "tone": "#b19e91"
+ },
+ "mp-model-section": {
+  "id": "mp-model-section",
+  "alt": "1:50 section model of Maison Peplum.",
+  "caption": "1:50 section model.",
+  "credit": "Model and photograph by Tala Hagras",
+  "provenance": "original",
+  "kind": "model-photo",
+  "source": {
+   "file": "portfolio",
+   "page": 12
+  },
+  "native": [
+   680,
+   461
+  ],
+  "lowResolution": true,
+  "variants": [
+   {
+    "src": "/media/mp-model-section-480.jpg",
+    "width": 480,
+    "height": 325,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-model-section-480.webp",
+    "width": 480,
+    "height": 325,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mp-model-section-680.jpg",
+    "width": 680,
+    "height": 461,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-model-section-680.webp",
+    "width": 680,
+    "height": 461,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAQABgDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACMQAAIBAwQBBQAAAAAAAAAAAAECAwARIQUSQVETBBQxMsH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGREBAQADAQAAAAAAAAAAAAAAAQACEjED/9oADAMBAAIRAxEAPwBtVjXV7LHNvLZYnBzzU6eb1k7mCAJHPExEikXGObnirae4OthRJGYg5um34HFj3T02lQzSeSTL223C5t1R1Hstk5Z6Hyo21zHMR9ggsQf0UVoI9KiVgysbjtaKD5jIzb//2Q==",
+  "tone": "#b2a59b"
+ },
+ "mp-model-facade-2": {
+  "id": "mp-model-facade-2",
+  "alt": "1:200 façade model of Maison Peplum.",
+  "caption": "1:200 façade model.",
+  "credit": "Model and photograph by Tala Hagras",
+  "provenance": "original",
+  "kind": "model-photo",
+  "source": {
+   "file": "portfolio",
+   "page": 12
+  },
+  "native": [
+   687,
+   471
+  ],
+  "lowResolution": true,
+  "variants": [
+   {
+    "src": "/media/mp-model-facade-2-480.jpg",
+    "width": 480,
+    "height": 329,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-model-facade-2-480.webp",
+    "width": 480,
+    "height": 329,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mp-model-facade-2-687.jpg",
+    "width": 687,
+    "height": 471,
+    "format": "jpg"
+   },
+   {
+    "src": "/media/mp-model-facade-2-687.webp",
+    "width": 687,
+    "height": 471,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAQABgDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEEQUSIRNBcRQxMlHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAMAwEAAhEDEQA/ADYba6UBpFZnwB75BP3SnNxbSHJcOD2Py/aoluZUkT1Q4ByNg4HmrHF7foTaMI8Y3K42kHz3qcUpUemz3cYlEojZ+Cdveit2+m6it2kkjJ0w3K9TORRTBuv/2Q==",
+  "tone": "#9d8b7d"
  }
 }

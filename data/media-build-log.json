@@ -458,6 +458,453 @@
     "/media/mi-site-analysis-1356.jpg",
     "/media/mi-site-analysis-1356.webp"
    ]
+  },
+  {
+   "id": "mi-section",
+   "sourceFile": "sources/derived/images/portfolio/p05-x14-1946x1088.jpeg",
+   "sourceSha256": "f98be149343d70ad4d25f5e14d18bfedaa380ef8889c13f32d4cbf692c119d07",
+   "nativeSize": [
+    1946,
+    1088
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 268)",
+    "resize(960, 537)",
+    "resize(1400, 783)",
+    "resize(1946, 1088)"
+   ],
+   "outputs": [
+    "/media/mi-section-480.jpg",
+    "/media/mi-section-480.webp",
+    "/media/mi-section-960.jpg",
+    "/media/mi-section-960.webp",
+    "/media/mi-section-1400.jpg",
+    "/media/mi-section-1400.webp",
+    "/media/mi-section-1946.jpg",
+    "/media/mi-section-1946.webp"
+   ]
+  },
+  {
+   "id": "mi-exploded-axo",
+   "sourceFile": "sources/derived/images/portfolio/p05-x15-1804x1174.jpeg",
+   "sourceSha256": "77ace7a58f3bb2c6e72c1ebe47d46f89217445142a2c3238ecdcaec8939f457e",
+   "nativeSize": [
+    1804,
+    1174
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 312)",
+    "resize(960, 625)",
+    "resize(1400, 911)",
+    "resize(1804, 1174)"
+   ],
+   "outputs": [
+    "/media/mi-exploded-axo-480.jpg",
+    "/media/mi-exploded-axo-480.webp",
+    "/media/mi-exploded-axo-960.jpg",
+    "/media/mi-exploded-axo-960.webp",
+    "/media/mi-exploded-axo-1400.jpg",
+    "/media/mi-exploded-axo-1400.webp",
+    "/media/mi-exploded-axo-1804.jpg",
+    "/media/mi-exploded-axo-1804.webp"
+   ]
+  },
+  {
+   "id": "mp-section",
+   "sourceFile": "sources/derived/images/portfolio/p11-x36-687x456.jpeg",
+   "sourceSha256": "b5c9f14a458f45425a63cdd5905ef6171dd16b0c555a090d43827c98690ada35",
+   "nativeSize": [
+    687,
+    456
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 319)",
+    "resize(687, 456)"
+   ],
+   "outputs": [
+    "/media/mp-section-480.jpg",
+    "/media/mp-section-480.webp",
+    "/media/mp-section-687.jpg",
+    "/media/mp-section-687.webp"
+   ]
+  },
+  {
+   "id": "mp-plan-ground",
+   "sourceFile": "sources/derived/images/portfolio/p10-x32-687x426.jpeg",
+   "sourceSha256": "8e88ea36abf5932b086dc59b286eeb5423c2293fee90309d5b0bae6c5bc0f238",
+   "nativeSize": [
+    687,
+    426
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 298)",
+    "resize(687, 426)"
+   ],
+   "outputs": [
+    "/media/mp-plan-ground-480.jpg",
+    "/media/mp-plan-ground-480.webp",
+    "/media/mp-plan-ground-687.jpg",
+    "/media/mp-plan-ground-687.webp"
+   ]
+  },
+  {
+   "id": "mp-plan-roof",
+   "sourceFile": "sources/derived/images/portfolio/p10-x33-687x426.jpeg",
+   "sourceSha256": "54e555168a05f3c5689050eaa3d026eb370d3a1db7bad9e954f9377f3e2ad3ec",
+   "nativeSize": [
+    687,
+    426
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 298)",
+    "resize(687, 426)"
+   ],
+   "outputs": [
+    "/media/mp-plan-roof-480.jpg",
+    "/media/mp-plan-roof-480.webp",
+    "/media/mp-plan-roof-687.jpg",
+    "/media/mp-plan-roof-687.webp"
+   ]
+  },
+  {
+   "id": "mp-exploded-axo",
+   "sourceFile": "sources/derived/images/portfolio/p10-x34-588x466.jpeg",
+   "sourceSha256": "53c2dc012aa072881db3e679742762c9cf539466cf5e73dbbe157b65183a678d",
+   "nativeSize": [
+    588,
+    466
+   ],
+   "crop": [
+    0.4,
+    0,
+    1,
+    1
+   ],
+   "history": [
+    "decode",
+    "crop(235, 0, 588, 466)",
+    "resize(353, 466)"
+   ],
+   "outputs": [
+    "/media/mp-exploded-axo-353.jpg",
+    "/media/mp-exploded-axo-353.webp"
+   ]
+  },
+  {
+   "id": "mp-render-night",
+   "sourceFile": "sources/derived/images/portfolio/p12-x40-394x289.jpeg",
+   "sourceSha256": "c512e50373416b14d04be385fd1d3760904e8ddec582d552bf5ae80688bb4b8d",
+   "nativeSize": [
+    394,
+    289
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(394, 289)"
+   ],
+   "outputs": [
+    "/media/mp-render-night-394.jpg",
+    "/media/mp-render-night-394.webp"
+   ]
+  },
+  {
+   "id": "mp-tectonic-models",
+   "sourceFile": "sources/derived/images/portfolio/p09-x29-687x486.jpeg",
+   "sourceSha256": "665f3b58f71a4da69d227cea6ba458d3572eed2c861d4e5767d42b691845cd9e",
+   "nativeSize": [
+    687,
+    486
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 340)",
+    "resize(687, 486)"
+   ],
+   "outputs": [
+    "/media/mp-tectonic-models-480.jpg",
+    "/media/mp-tectonic-models-480.webp",
+    "/media/mp-tectonic-models-687.jpg",
+    "/media/mp-tectonic-models-687.webp"
+   ]
+  },
+  {
+   "id": "mi-timber-details",
+   "sourceFile": "sources/derived/images/portfolio/p06-x18-1926x1246.jpeg",
+   "sourceSha256": "bac714e9da0623bbc8e8c9c015f0fbef753d35cce151cafc83a52f9efcab21f0",
+   "nativeSize": [
+    1926,
+    1246
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 311)",
+    "resize(960, 621)",
+    "resize(1400, 906)",
+    "resize(1926, 1246)"
+   ],
+   "outputs": [
+    "/media/mi-timber-details-480.jpg",
+    "/media/mi-timber-details-480.webp",
+    "/media/mi-timber-details-960.jpg",
+    "/media/mi-timber-details-960.webp",
+    "/media/mi-timber-details-1400.jpg",
+    "/media/mi-timber-details-1400.webp",
+    "/media/mi-timber-details-1926.jpg",
+    "/media/mi-timber-details-1926.webp"
+   ]
+  },
+  {
+   "id": "mi-models",
+   "sourceFile": "sources/derived/images/portfolio/p06-x19-1946x1174.jpeg",
+   "sourceSha256": "30cea42f873f830f45a12d1b2e74cfd182b92c7da234c9d4739721d48908998a",
+   "nativeSize": [
+    1946,
+    1174
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 290)",
+    "resize(960, 579)",
+    "resize(1400, 845)",
+    "resize(1946, 1174)"
+   ],
+   "outputs": [
+    "/media/mi-models-480.jpg",
+    "/media/mi-models-480.webp",
+    "/media/mi-models-960.jpg",
+    "/media/mi-models-960.webp",
+    "/media/mi-models-1400.jpg",
+    "/media/mi-models-1400.webp",
+    "/media/mi-models-1946.jpg",
+    "/media/mi-models-1946.webp"
+   ]
+  },
+  {
+   "id": "mi-render-interior",
+   "sourceFile": "sources/derived/images/portfolio/p07-x22-973x730.jpeg",
+   "sourceSha256": "cbc705776fc9fe6cd0f31a4ade69306ec5c80ee78245c5ed354cbc280d0f87c7",
+   "nativeSize": [
+    973,
+    730
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 360)",
+    "resize(973, 730)"
+   ],
+   "outputs": [
+    "/media/mi-render-interior-480.jpg",
+    "/media/mi-render-interior-480.webp",
+    "/media/mi-render-interior-973.jpg",
+    "/media/mi-render-interior-973.webp"
+   ]
+  },
+  {
+   "id": "mi-model-photos",
+   "sourceFile": "sources/derived/images/portfolio/p07-x23-1095x658.jpeg",
+   "sourceSha256": "44d90608b7d94237703e705f89368da2235e1a21ded74ef8efaf07259d150e6f",
+   "nativeSize": [
+    1095,
+    658
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 288)",
+    "resize(960, 577)",
+    "resize(1095, 658)"
+   ],
+   "outputs": [
+    "/media/mi-model-photos-480.jpg",
+    "/media/mi-model-photos-480.webp",
+    "/media/mi-model-photos-960.jpg",
+    "/media/mi-model-photos-960.webp",
+    "/media/mi-model-photos-1095.jpg",
+    "/media/mi-model-photos-1095.webp"
+   ]
+  },
+  {
+   "id": "mp-concept-collage",
+   "sourceFile": "sources/derived/images/portfolio/p08-x26-680x446.jpeg",
+   "sourceSha256": "268403b6b3337f17e14e48e606839f1d56e742717bb319c4db6d0dfa53de6f33",
+   "nativeSize": [
+    680,
+    446
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 315)",
+    "resize(680, 446)"
+   ],
+   "outputs": [
+    "/media/mp-concept-collage-480.jpg",
+    "/media/mp-concept-collage-480.webp",
+    "/media/mp-concept-collage-680.jpg",
+    "/media/mp-concept-collage-680.webp"
+   ]
+  },
+  {
+   "id": "mp-garment-studies",
+   "sourceFile": "sources/derived/images/portfolio/p09-x28-666x456.jpeg",
+   "sourceSha256": "964c8056b0e8373dcc5ef0ef243d125b1851cb038aeaa944aa567a513078882d",
+   "nativeSize": [
+    666,
+    456
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 329)",
+    "resize(666, 456)"
+   ],
+   "outputs": [
+    "/media/mp-garment-studies-480.jpg",
+    "/media/mp-garment-studies-480.webp",
+    "/media/mp-garment-studies-666.jpg",
+    "/media/mp-garment-studies-666.webp"
+   ]
+  },
+  {
+   "id": "mp-facade-model",
+   "sourceFile": "sources/derived/images/portfolio/p09-x30-673x481.jpeg",
+   "sourceSha256": "c4bd23ed2a2f663b93a64191abfdef4a08e7c4d493afc4022d73d1edb7d7cb0f",
+   "nativeSize": [
+    673,
+    481
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 343)",
+    "resize(673, 481)"
+   ],
+   "outputs": [
+    "/media/mp-facade-model-480.jpg",
+    "/media/mp-facade-model-480.webp",
+    "/media/mp-facade-model-673.jpg",
+    "/media/mp-facade-model-673.webp"
+   ]
+  },
+  {
+   "id": "mp-facade-assembly",
+   "sourceFile": "sources/derived/images/portfolio/p11-x37-687x461.jpeg",
+   "sourceSha256": "76a92af7176bc74c018013bd65804c58eeb007519d859c748555bdfb67b0f20e",
+   "nativeSize": [
+    687,
+    461
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 322)",
+    "resize(687, 461)"
+   ],
+   "outputs": [
+    "/media/mp-facade-assembly-480.jpg",
+    "/media/mp-facade-assembly-480.webp",
+    "/media/mp-facade-assembly-687.jpg",
+    "/media/mp-facade-assembly-687.webp"
+   ]
+  },
+  {
+   "id": "mp-wall-detail",
+   "sourceFile": "sources/derived/images/portfolio/p11-x38-680x471.jpeg",
+   "sourceSha256": "eb2703686161c91b201c63ba89e866aacdba3b433c4b6b5aaef4022bf4b256a2",
+   "nativeSize": [
+    680,
+    471
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 332)",
+    "resize(680, 471)"
+   ],
+   "outputs": [
+    "/media/mp-wall-detail-480.jpg",
+    "/media/mp-wall-detail-480.webp",
+    "/media/mp-wall-detail-680.jpg",
+    "/media/mp-wall-detail-680.webp"
+   ]
+  },
+  {
+   "id": "mp-render-interior",
+   "sourceFile": "sources/derived/images/portfolio/p12-x41-680x268.jpeg",
+   "sourceSha256": "0b3d9bbdd2aeec34abdbbaaa0c9527a72a351f70fac1b40aa0bba3db6ca62709",
+   "nativeSize": [
+    680,
+    268
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 189)",
+    "resize(680, 268)"
+   ],
+   "outputs": [
+    "/media/mp-render-interior-480.jpg",
+    "/media/mp-render-interior-480.webp",
+    "/media/mp-render-interior-680.jpg",
+    "/media/mp-render-interior-680.webp"
+   ]
+  },
+  {
+   "id": "mp-model-section",
+   "sourceFile": "sources/derived/images/portfolio/p12-x42-680x461.jpeg",
+   "sourceSha256": "ce5b6068db75a564a51e9b6bf385977232caa1005b775bdaa4466634c756d5fc",
+   "nativeSize": [
+    680,
+    461
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 325)",
+    "resize(680, 461)"
+   ],
+   "outputs": [
+    "/media/mp-model-section-480.jpg",
+    "/media/mp-model-section-480.webp",
+    "/media/mp-model-section-680.jpg",
+    "/media/mp-model-section-680.webp"
+   ]
+  },
+  {
+   "id": "mp-model-facade-2",
+   "sourceFile": "sources/derived/images/portfolio/p12-x43-687x471.jpeg",
+   "sourceSha256": "a2d0ef64fdd5a6f1b167f8a2f0548b0518a3e65fc25e3b67d1a41c72a41a4bca",
+   "nativeSize": [
+    687,
+    471
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(480, 329)",
+    "resize(687, 471)"
+   ],
+   "outputs": [
+    "/media/mp-model-facade-2-480.jpg",
+    "/media/mp-model-facade-2-480.webp",
+    "/media/mp-model-facade-2-687.jpg",
+    "/media/mp-model-facade-2-687.webp"
+   ]
   }
  ]
 }

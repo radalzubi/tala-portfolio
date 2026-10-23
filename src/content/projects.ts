@@ -40,7 +40,7 @@ const maisonPeplumModel: ModelSpec = {
       camera: { position: [8, 6, 31], target: [0, 6.5, 0], fov: 30 },
       assembly: 0,
       emphasis: ["facade-fins"],
-      drawingId: "mp-model-facade",
+      drawingId: "mp-facade-model",
     },
     {
       id: "assembly",

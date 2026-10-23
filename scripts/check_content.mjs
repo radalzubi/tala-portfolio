@@ -24,8 +24,12 @@ for (const m of projectsSrc.matchAll(/\b(?:id|heroId|posterId|drawingId|mediaId)
 for (const m of researchSrc.matchAll(/\b(?:mediaId):\s*"([a-z0-9-]+)"/g)) ids.add(m[1]);
 for (const m of researchSrc.matchAll(/figures:\s*\[([^\]]+)\]/g)) for (const id of m[1].matchAll(/"([a-z0-9-]+)"/g)) ids.add(id[1]);
 
-const mediaLike = [...ids].filter((id) => /^(mp|mi|cx|id|sal)-/.test(id));
-const missing = mediaLike.filter((id) => !media[id]);
+// sal-* ids are rendered by the SensoryDiagram SVG component, not the media pipeline; *-poster ids are
+// captured from the built site by scripts/capture_posters.mjs and only warned about until then.
+const mediaLike = [...ids].filter((id) => /^(mp|mi|cx|id)-/.test(id));
+const missingPosters = mediaLike.filter((id) => id.endsWith("-poster") && !media[id]);
+const missing = mediaLike.filter((id) => !id.endsWith("-poster") && !media[id]);
+if (missingPosters.length) console.log("posters not yet captured (viewer falls back to the hero image):", missingPosters.join(", "));
 const thirdParty = mediaLike.filter((id) => media[id]?.provenance === "third-party");
 
 const banned = [/insert original/i, /awaiting source/i, /should become the principal/i, /in the final portfolio/i, /production note/i, /lorem ipsum/i, /@example\.com/i, /\bTODO\b/];
