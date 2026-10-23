@@ -17,7 +17,8 @@ import { ChevronDown, Maximize2, Minimize2, Pause, Play, RotateCcw, ZoomIn, Zoom
 import type { MediaAsset, ModelSpec } from "@/content/types";
 import { cn } from "@/lib/cn";
 import { useMotionPreference } from "@/components/motion/motion-provider";
-import { Figure, largestVariant, srcSetOf, useInspector, variantsOf } from "@/components/media";
+import { Figure, useInspector } from "@/components/media";
+import { largestVariant, srcSetOf, variantsOf } from "@/components/media/asset-utils";
 import { findHotspot, findPreset, initialViewerState, viewerReducer, type ViewerCanvasApi } from "./model-contract";
 import { readHashState, writeHashState } from "./url-state";
 import { useCoarsePointer, useWebGLSupport } from "./use-webgl-support";
