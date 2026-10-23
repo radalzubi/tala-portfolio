@@ -1863,5 +1863,121 @@
   ],
   "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAQABgDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEEQUSIRNBcRQxMlHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAMAwEAAhEDEQA/ADYba6UBpFZnwB75BP3SnNxbSHJcOD2Py/aoluZUkT1Q4ByNg4HmrHF7foTaMI8Y3K42kHz3qcUpUemz3cYlEojZ+Cdveit2+m6it2kkjJ0w3K9TORRTBuv/2Q==",
   "tone": "#9d8b7d"
+ },
+ "mp-poster": {
+  "id": "mp-poster",
+  "alt": "Still of the interpretive 3D study of Maison Peplum: curved timber-coloured fins wrapping a pitched-roof warehouse shell, seen from the canal side.",
+  "caption": "Interpretive 3D study of Maison Peplum (still). Built from the portfolio drawings; not a photograph or a render by Tala.",
+  "credit": "Interpretive reconstruction from Tala Hagras’s drawings",
+  "provenance": "interpretive-3d",
+  "kind": "poster",
+  "source": {
+   "file": "portfolio",
+   "page": 11,
+   "note": "still of the interpretive 3D study; see docs/RECONSTRUCTION.md"
+  },
+  "native": [
+   1904,
+   1190
+  ],
+  "lowResolution": false,
+  "variants": [
+   {
+    "src": "/media/mp-poster-640.png",
+    "width": 640,
+    "height": 400,
+    "format": "png"
+   },
+   {
+    "src": "/media/mp-poster-640.webp",
+    "width": 640,
+    "height": 400,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mp-poster-1280.png",
+    "width": 1280,
+    "height": 800,
+    "format": "png"
+   },
+   {
+    "src": "/media/mp-poster-1280.webp",
+    "width": 1280,
+    "height": 800,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mp-poster-1900.png",
+    "width": 1900,
+    "height": 1188,
+    "format": "png"
+   },
+   {
+    "src": "/media/mp-poster-1900.webp",
+    "width": 1900,
+    "height": 1188,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAPABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAwb/xAAmEAACAQQAAwkAAAAAAAAAAAABAgMABBESBTFRFDJBUoGRkqHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGhEAAgMBAQAAAAAAAAAAAAAAABEBAkESIf/aAAwDAQACEQMRAD8A5W2hSRWL7dBitewx+aT4irtra8M4pGz2YeBx3lA5enL2pJeFXdvlotJ1HQ6n7/aE9McTVekWWziihLF3LEZGRjAop766R211bYLqVPhiitq9Kyw//9k=",
+  "tone": "#453326"
+ },
+ "mi-poster": {
+  "id": "mi-poster",
+  "alt": "Still of the interpretive 3D study of the Music Institution: a glazed drum with a planted roof and central skylight, a slatted annexe and curved terraces stepping to a canal.",
+  "caption": "Interpretive 3D study of the Music Institution (still). Built from the portfolio drawings; not a render by Tala.",
+  "credit": "Interpretive reconstruction from Tala Hagras’s drawings",
+  "provenance": "interpretive-3d",
+  "kind": "poster",
+  "source": {
+   "file": "portfolio",
+   "page": 5,
+   "note": "still of the interpretive 3D study; see docs/RECONSTRUCTION.md"
+  },
+  "native": [
+   1904,
+   1190
+  ],
+  "lowResolution": false,
+  "variants": [
+   {
+    "src": "/media/mi-poster-640.png",
+    "width": 640,
+    "height": 400,
+    "format": "png"
+   },
+   {
+    "src": "/media/mi-poster-640.webp",
+    "width": 640,
+    "height": 400,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mi-poster-1280.png",
+    "width": 1280,
+    "height": 800,
+    "format": "png"
+   },
+   {
+    "src": "/media/mi-poster-1280.webp",
+    "width": 1280,
+    "height": 800,
+    "format": "webp"
+   },
+   {
+    "src": "/media/mi-poster-1900.png",
+    "width": 1900,
+    "height": 1188,
+    "format": "png"
+   },
+   {
+    "src": "/media/mi-poster-1900.webp",
+    "width": 1900,
+    "height": 1188,
+    "format": "webp"
+   }
+  ],
+  "placeholder": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAPABgDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwb/xAAoEAACAQIEAwkAAAAAAAAAAAABAgQAAwUGESESQXETFCIxMpHB0fD/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oADAMBAAIRAxEAPwBFby3iL6cVoIPPdh8Ve+WbqaAyEB5gqRTbDpwn2i0K4Y91PVaccSfumlRmY48NxaxCCpYjZrbgg++9FMZ2VhEmOfCvbrza0CdOtFNXzSqA91hhCebN9UVUP//Z",
+  "tone": "#57554f"
  }
 }

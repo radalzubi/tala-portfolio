@@ -115,7 +115,9 @@ export function MaisonPeplumModel({ assemblyRef, preset, lowQuality }: ModelComp
         const mesh = finRefs.current[i];
         if (!mesh) continue;
         const stagger = 0.5 + 0.5 * Math.sin(f.index * 0.9 + (f.side === 1 ? 0 : 1.3));
-        mesh.position.set(f.x, spread * (0.9 + stagger * 0.9), f.side * spread * (2.4 + stagger * 0.6));
+        const travel = spread * (2.4 + stagger * 0.6);
+        const lift = spread * (0.9 + stagger * 0.9);
+        mesh.position.set(f.base[0] + f.outward[0] * travel, f.base[1] + lift, f.base[2] + f.outward[2] * travel);
       }
       if (roofGroup.current) roofGroup.current.position.y = smoothstep((a - 0.3) / 0.7) * 3.2;
       busy = true;
@@ -147,13 +149,13 @@ export function MaisonPeplumModel({ assemblyRef, preset, lowQuality }: ModelComp
       <group name="facade-fins">
         {fins.map((f, i) => (
           <mesh
-            key={`${f.side}-${f.index}`}
+            key={`${f.kind}-${f.side}-${f.index}`}
             ref={(el) => {
               finRefs.current[i] = el;
             }}
             geometry={f.geometry}
             material={finMaterials[i]}
-            position={[f.x, 0, 0]}
+            position={f.base}
             castShadow={castShadows}
             receiveShadow
           />

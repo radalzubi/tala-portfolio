@@ -172,11 +172,22 @@ test.describe("touch devices", () => {
     await viewer.getByRole("button", { name: "Explore in 3D" }).tap();
     await expect(viewer).toHaveAttribute("data-status", "interactive", { timeout: 20_000 });
     await viewer.getByRole("button", { name: "Done exploring" }).tap();
+    // a real touch swipe starting on the canvas must scroll the page once the viewer is no longer engaged
+    const box = (await viewer.locator("canvas").boundingBox())!;
+    const cdp = await page.context().newCDPSession(page);
+    const x = box.x + box.width / 2;
+    const y0 = box.y + box.height * 0.7;
     const before = await page.evaluate(() => window.scrollY);
-    await page.mouse.wheel(0, 600);
-    await page.waitForTimeout(300);
+    await cdp.send("Input.dispatchTouchEvent", { type: "touchStart", touchPoints: [{ x, y: y0 }] });
+    for (let i = 1; i <= 8; i++) {
+      await cdp.send("Input.dispatchTouchEvent", { type: "touchMove", touchPoints: [{ x, y: y0 - i * 40 }] });
+    }
+    await cdp.send("Input.dispatchTouchEvent", { type: "touchEnd", touchPoints: [] });
+    await page.waitForTimeout(400);
     const after = await page.evaluate(() => window.scrollY);
     expect(after).toBeGreaterThan(before);
     expect(await page.evaluate(() => getComputedStyle(document.body).overflow)).not.toBe("hidden");
+    const stage = viewer.getByRole("group", { name: /model\./ });
+    await expect(stage).toHaveCSS("touch-action", "pan-y");
   });
 });

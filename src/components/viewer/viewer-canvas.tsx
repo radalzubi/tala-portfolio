@@ -135,6 +135,7 @@ function Scene({ spec, state, dispatch, reducedMotion, rotateEnabled, zoomEnable
           focused={state.focusedHotspot}
           onSelect={(id) => dispatch({ type: "hotspot", id })}
           assemblyRef={assemblyRef}
+          section={preset.section}
         />
       )}
     </>

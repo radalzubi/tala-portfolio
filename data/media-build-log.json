@@ -905,6 +905,54 @@
     "/media/mp-model-facade-2-687.jpg",
     "/media/mp-model-facade-2-687.webp"
    ]
+  },
+  {
+   "id": "mp-poster",
+   "sourceFile": "data/posters/mp-poster.png",
+   "sourceSha256": "611b65411cbf7c8e770e137aa9128f788aec2e0fd43f56c3be9e5bca3c169c68",
+   "nativeSize": [
+    1904,
+    1190
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(640, 400)",
+    "resize(1280, 800)",
+    "resize(1900, 1188)"
+   ],
+   "outputs": [
+    "/media/mp-poster-640.png",
+    "/media/mp-poster-640.webp",
+    "/media/mp-poster-1280.png",
+    "/media/mp-poster-1280.webp",
+    "/media/mp-poster-1900.png",
+    "/media/mp-poster-1900.webp"
+   ]
+  },
+  {
+   "id": "mi-poster",
+   "sourceFile": "data/posters/mi-poster.png",
+   "sourceSha256": "93011f8e105cbc44a4b6ef6f70578914e64bef7807be1a8dd2abfa5e43a55101",
+   "nativeSize": [
+    1904,
+    1190
+   ],
+   "crop": null,
+   "history": [
+    "decode",
+    "resize(640, 400)",
+    "resize(1280, 800)",
+    "resize(1900, 1188)"
+   ],
+   "outputs": [
+    "/media/mi-poster-640.png",
+    "/media/mi-poster-640.webp",
+    "/media/mi-poster-1280.png",
+    "/media/mi-poster-1280.webp",
+    "/media/mi-poster-1900.png",
+    "/media/mi-poster-1900.webp"
+   ]
   }
  ]
 }

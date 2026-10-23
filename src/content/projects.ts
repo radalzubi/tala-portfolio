@@ -54,7 +54,7 @@ const maisonPeplumModel: ModelSpec = {
       id: "section",
       label: "Section",
       description: "The model cut through its short axis, paired with Tala’s 1:50 section: two floors inside the existing shell, fins on both faces, the canal to one side.",
-      camera: { position: [-46, 7, 0.5], target: [0, 5, 0], fov: 22 },
+      camera: { position: [-62, 9, 0.5], target: [0, 5.5, 0], fov: 20 },
       assembly: 0,
       section: { normal: [1, 0, 0], constant: 0 },
       drawingId: "mp-section",

@@ -28,16 +28,24 @@ export function HotspotMarkers({
   spec,
   focused,
   onSelect,
+  section,
 }: {
   spec: ModelSpec;
   focused: string | null;
   onSelect: (id: string) => void;
   assemblyRef: RefObject<number>;
+  /** Active section plane; markers anchored in the clipped-away half are hidden. */
+  section?: { normal: [number, number, number]; constant: number };
 }) {
   const textures = useMemo(() => ({ idle: ringTexture("#191a18"), active: ringTexture("#a95336") }), []);
+  const visible = spec.hotspots.filter((h) => {
+    if (!section) return true;
+    const [nx, ny, nz] = section.normal;
+    return nx * h.anchor[0] + ny * h.anchor[1] + nz * h.anchor[2] + section.constant >= 0;
+  });
   return (
     <group name="hotspots" userData={{ noClip: true }}>
-      {spec.hotspots.map((h) => (
+      {visible.map((h) => (
         <sprite
           key={h.id}
           position={h.anchor}

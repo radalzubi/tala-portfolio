@@ -15,7 +15,7 @@ mkdirSync(new URL("../data/posters", import.meta.url), { recursive: true });
 const preinstalled = ["/opt/pw-browsers/chromium-1243/chrome-linux64/chrome"].find((p) => existsSync(p));
 const executablePath = process.env.PW_CHROMIUM ?? preinstalled;
 const browser = await chromium.launch({ executablePath, args: ["--use-gl=angle", "--use-angle=swiftshader", "--enable-unsafe-swiftshader"] });
-const page = await browser.newPage({ viewport: { width: 1600, height: 1100 }, deviceScaleFactor: 1 });
+const page = await browser.newPage({ viewport: { width: 1600, height: 1100 }, deviceScaleFactor: 2 });
 for (const t of targets) {
   await page.goto(`${BASE}${t.route}`, { waitUntil: "networkidle" });
   const viewer = page.getByRole("region", { name: new RegExp(`${t.subject}: interactive study`) }).first();

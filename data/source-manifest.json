@@ -771,6 +771,46 @@
     687
    ],
    "quality": 80
+  },
+  {
+   "id": "mp-poster",
+   "kind": "poster",
+   "provenance": "interpretive-3d",
+   "sourcePath": "data/posters/mp-poster.png",
+   "source": {
+    "file": "portfolio",
+    "page": 11,
+    "note": "still of the interpretive 3D study; see docs/RECONSTRUCTION.md"
+   },
+   "alt": "Still of the interpretive 3D study of Maison Peplum: curved timber-coloured fins wrapping a pitched-roof warehouse shell, seen from the canal side.",
+   "caption": "Interpretive 3D study of Maison Peplum (still). Built from the portfolio drawings; not a photograph or a render by Tala.",
+   "credit": "Interpretive reconstruction from Tala Hagras’s drawings",
+   "widths": [
+    640,
+    1280,
+    1900
+   ],
+   "quality": 80
+  },
+  {
+   "id": "mi-poster",
+   "kind": "poster",
+   "provenance": "interpretive-3d",
+   "sourcePath": "data/posters/mi-poster.png",
+   "source": {
+    "file": "portfolio",
+    "page": 5,
+    "note": "still of the interpretive 3D study; see docs/RECONSTRUCTION.md"
+   },
+   "alt": "Still of the interpretive 3D study of the Music Institution: a glazed drum with a planted roof and central skylight, a slatted annexe and curved terraces stepping to a canal.",
+   "caption": "Interpretive 3D study of the Music Institution (still). Built from the portfolio drawings; not a render by Tala.",
+   "credit": "Interpretive reconstruction from Tala Hagras’s drawings",
+   "widths": [
+    640,
+    1280,
+    1900
+   ],
+   "quality": 80
   }
  ]
 }
