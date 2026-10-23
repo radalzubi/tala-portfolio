@@ -3,12 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { cn } from "@/lib/cn";
-
-export const NAV_ITEMS = [
-  { href: "/work", label: "Work" },
-  { href: "/research/cairo", label: "Research" },
-  { href: "/about", label: "About" },
-] as const;
+import { NAV_ITEMS } from "./nav-items";
 
 export function SiteNav({ className }: { className?: string }) {
   const pathname = usePathname() ?? "/";

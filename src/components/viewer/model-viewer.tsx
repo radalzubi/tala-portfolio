@@ -396,12 +396,11 @@ export function ModelViewer({ spec, poster, drawings, subject, variant = "study"
                     step={1}
                     value={[Math.round(state.assembly * 100)]}
                     onValueChange={([v]) => dispatch({ type: "assembly", value: v / 100 })}
-                    aria-label={spec.assembly.label}
                   >
                     <Slider.Track className="relative h-px w-full grow bg-rule">
                       <Slider.Range className="absolute h-px bg-ink" />
                     </Slider.Track>
-                    <Slider.Thumb className="block h-4 w-4 rounded-full border border-ink bg-sheet shadow-control hover:bg-chalk" aria-valuetext={`${Math.round(state.assembly * 100)}% separated`} />
+                    <Slider.Thumb className="block h-4 w-4 rounded-full border border-ink bg-sheet shadow-control hover:bg-chalk" aria-label={spec.assembly.label} aria-valuetext={`${Math.round(state.assembly * 100)}% separated`} />
                   </Slider.Root>
                   <p className="meta mt-1">{spec.assembly.description}</p>
                 </div>
@@ -424,12 +423,11 @@ export function ModelViewer({ spec, poster, drawings, subject, variant = "study"
                     step={1}
                     value={[Math.round(state.lightStudy * 100)]}
                     onValueChange={([v]) => dispatch({ type: "light", value: v / 100 })}
-                    aria-label={spec.lightStudy.label}
                   >
                     <Slider.Track className="relative h-px w-full grow bg-rule">
                       <Slider.Range className="absolute h-px bg-ink" />
                     </Slider.Track>
-                    <Slider.Thumb className="block h-4 w-4 rounded-full border border-ink bg-sheet shadow-control hover:bg-chalk" aria-valuetext={`${state.lightStudy < 0.33 ? "morning" : state.lightStudy < 0.66 ? "midday" : "evening"} light`} />
+                    <Slider.Thumb className="block h-4 w-4 rounded-full border border-ink bg-sheet shadow-control hover:bg-chalk" aria-label={spec.lightStudy.label} aria-valuetext={`${state.lightStudy < 0.33 ? "morning" : state.lightStudy < 0.66 ? "midday" : "evening"} light`} />
                   </Slider.Root>
                   <p className="meta mt-1">{spec.lightStudy.description}</p>
                 </div>

@@ -44,6 +44,8 @@ interface Box {
 }
 
 const clamp01 = (n: number) => Math.min(1, Math.max(0, Number.isFinite(n) ? n : 0));
+/** ViewBox units rounded to a tenth: tidy markup, no floating-point noise. */
+const vb = (n: number) => Math.round(n * 10) / 10;
 
 /**
  * The content contract says rect/ellipse coords are `[x, y, w, h]` in 0–1 figure space. Some records
@@ -130,10 +132,10 @@ function ShapeMark({ placed, vbH, index, drawOn }: { placed: PlacedShape; vbH: n
   if (shape.type === "ellipse") {
     return (
       <ellipse
-        cx={(box.x + box.w / 2) * VB_W}
-        cy={(box.y + box.h / 2) * vbH}
-        rx={(box.w / 2) * VB_W}
-        ry={(box.h / 2) * vbH}
+        cx={vb((box.x + box.w / 2) * VB_W)}
+        cy={vb((box.y + box.h / 2) * vbH)}
+        rx={vb((box.w / 2) * VB_W)}
+        ry={vb((box.h / 2) * vbH)}
         {...common}
       />
     );
@@ -146,7 +148,9 @@ function ShapeMark({ placed, vbH, index, drawOn }: { placed: PlacedShape; vbH: n
       </g>
     );
   }
-  return <rect x={box.x * VB_W} y={box.y * vbH} width={box.w * VB_W} height={box.h * vbH} rx={6} ry={6} {...common} />;
+  return (
+    <rect x={vb(box.x * VB_W)} y={vb(box.y * vbH)} width={vb(box.w * VB_W)} height={vb(box.h * vbH)} rx={6} ry={6} {...common} />
+  );
 }
 
 export function AnnotatedFigure({
@@ -206,6 +210,7 @@ export function AnnotatedFigure({
 
         {visible && (
           <svg
+            data-annotations={activeTheme}
             aria-hidden="true"
             focusable="false"
             viewBox={`0 0 ${VB_W} ${vbH}`}

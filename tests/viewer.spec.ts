@@ -48,16 +48,16 @@ test.describe("Maison Peplum viewer (desktop)", () => {
     await expect(pause).toHaveAccessibleName("Play rotation");
 
     // presets
-    const facade = viewer.getByRole("button", { name: "Façade rhythm" });
+    const facade = viewer.getByRole("button", { name: "Façade rhythm", exact: true });
     await facade.click();
     await expect(facade).toHaveAttribute("aria-pressed", "true");
     await expect(page).toHaveURL(/#view=facade/);
-    await viewer.getByRole("button", { name: "Section" }).click();
+    await viewer.getByRole("button", { name: "Section", exact: true }).click();
     await expect(page).toHaveURL(/#view=section/);
     await expect(page.getByRole("complementary", { name: /Drawing paired with the Section view/ })).toBeVisible();
 
     // assembly slider changes geometry (pixels differ)
-    await viewer.getByRole("button", { name: "Whole" }).click();
+    await viewer.getByRole("button", { name: "Whole", exact: true }).click();
     await page.waitForTimeout(1300);
     const before = await canvasPixels(page);
     const slider = viewer.getByRole("slider", { name: "Fold / assembly" });
@@ -95,7 +95,7 @@ test.describe("Maison Peplum viewer (desktop)", () => {
   test("direct link with view and fold restores viewer state", async ({ page }) => {
     await page.goto("/work/maison-peplum#view=assembly&fold=0.80");
     const viewer = page.getByRole("region", { name: /interactive study/ }).first();
-    await expect(viewer.getByRole("button", { name: "Assembly" })).toHaveAttribute("aria-pressed", "true");
+    await expect(viewer.getByRole("button", { name: "Assembly", exact: true })).toHaveAttribute("aria-pressed", "true");
     await expect(viewer.getByRole("slider", { name: "Fold / assembly" })).toHaveAttribute("aria-valuenow", "80");
   });
 
@@ -108,9 +108,9 @@ test.describe("Maison Peplum viewer (desktop)", () => {
   test("music institution presets reveal relationships and keep the section drawing accessible", async ({ page }) => {
     const viewer = await gotoViewer(page, "/work/music-institution");
     await expect(viewer).toHaveAttribute("data-status", "interactive", { timeout: 20_000 });
-    await viewer.getByRole("button", { name: "Section" }).click();
+    await viewer.getByRole("button", { name: "Section", exact: true }).click();
     await expect(page.getByRole("complementary", { name: /Section view/ })).toBeVisible();
-    await viewer.getByRole("button", { name: "Plan" }).click();
+    await viewer.getByRole("button", { name: "Plan", exact: true }).click();
     const slider = viewer.getByRole("slider", { name: "Reveal" });
     await slider.focus();
     await page.keyboard.press("End");

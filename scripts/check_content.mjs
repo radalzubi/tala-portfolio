@@ -2,18 +2,6 @@
 // manifest, no production notes leak into public copy, and no third-party asset is referenced.
 // Run after `npm run media`:  node scripts/check_content.mjs
 import { readFileSync } from "node:fs";
-import { createRequire } from "node:module";
-
-const require = createRequire(import.meta.url);
-const ts = require("typescript");
-
-function loadTs(path) {
-  const src = readFileSync(new URL(path, import.meta.url), "utf8");
-  // strip the @/ imports we cannot resolve here; content files only import types + sibling data
-  const js = ts.transpileModule(src, { compilerOptions: { module: ts.ModuleKind.CommonJS, target: ts.ScriptTarget.ES2022 } }).outputText;
-  return js;
-}
-
 const media = JSON.parse(readFileSync(new URL("../src/content/media.generated.json", import.meta.url), "utf8"));
 const projectsSrc = readFileSync(new URL("../src/content/projects.ts", import.meta.url), "utf8");
 const researchSrc = readFileSync(new URL("../src/content/research.ts", import.meta.url), "utf8");

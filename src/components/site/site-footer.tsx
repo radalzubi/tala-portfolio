@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { MotionSetting } from "@/components/motion/motion-setting";
-import { NAV_ITEMS } from "./site-nav";
+import { NAV_ITEMS } from "./nav-items";
 
 export function SiteFooter() {
   return (
