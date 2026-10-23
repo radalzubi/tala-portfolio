@@ -293,3 +293,19 @@ mobile widths before multiplying the pattern to other pages. This is the master 
 - `main` holds the first scaffold commit. This checkpoint is on branch `handoff/cloud-2026-10-23`.
   Continue on that branch or a branch cut from it.
 - Do not merge into `main`, force-push or make the repository public without the owner's approval.
+
+## 13. Verification after push
+
+Run on 2026-10-23 against commit `6386a194cff891f450583deeec18ae67f3152e21`, freshly cloned from
+`origin/handoff/cloud-2026-10-23` into an empty directory:
+
+| Step | Result |
+| --- | --- |
+| `git ls-remote` and the GitHub API | Remote branch head equals the local commit. `docs/CLOUD_HANDOFF.md` is present on the branch. `main` is unchanged at `91c07ba`. Repository visibility is PRIVATE. |
+| Raw dissertation PDF in the clone | Absent, as intended. Dissertation page renders stop at `page-28.png`. |
+| `npm ci` | Exit 0, 537 packages. |
+| `npm run typecheck` | Pass. |
+| `npm run build` | Exit 0. Routes `/` and `/_not-found`. |
+| `npm run check:geometry` | Pass: 76 fins, 17,024 triangles. |
+
+The later commit that adds this section changes only this document.
