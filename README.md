@@ -4,8 +4,8 @@ Architecture portfolio website for Tala Hagras: selected architectural works (20
 dissertation research on the homogenisation of Cairo's urban horizons. The site is a static
 Next.js 16 export with small client-side 3D islands (three.js / React Three Fiber).
 
-**Status: work in progress.** See `docs/TASKS.json` for the task ledger and `docs/HANDOFF.md`
-(to be written) for the release report.
+**Status: ready for review as a private preview.** See `docs/HANDOFF.md` for the release report,
+`docs/QA.md` for test evidence and `docs/CONTENT_NEEDED.md` for the publication dependencies.
 
 ## Run
 

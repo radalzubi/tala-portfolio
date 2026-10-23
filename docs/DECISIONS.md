@@ -53,3 +53,8 @@ Each entry: decision, reason, consequence. Dates are 2026-10-23 unless noted.
     Tala’s, but the site photographs inside it carry no stated authorship. Tracked in CONTENT_NEEDED.
 18. **Sound Aroma Loom** gets a labelled interpretive SVG diagram (`SensoryDiagram`) drawn from the written
     description only; it is never presented as her artwork.
+19. **First-load JS exception.** Routes that mount the viewer shell or the atlas measure 202–208 KB
+    gzip against the 200 KB target (framework ≈ 180 KB). Accepted for this release; the next lever is
+    replacing Radix Slider with a native range input. The 250 KB three.js chunk stays lazy.
+20. **Hero poster is a still of the interpretive study**, labelled as such, because the supplied
+    Maison Peplum renders are 358–372 px wide and cannot carry a hero.

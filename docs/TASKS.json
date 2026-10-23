@@ -51,10 +51,10 @@
     "every public image traceable to file+page",
     "third-party content excluded or credited"
    ],
-   "status": "active",
-   "evidence": "forensics workflow (19 pages, find+verify) → sources/derived/notes/forensics/*.json; manifest entries for dissertation figures and portfolio pp.2–4 built",
+   "status": "done",
+   "evidence": "19-page forensics workflow (find + skeptic verify) → sources/derived/notes/forensics; data/source-manifest.json with 52 assets; scripts/check_content.mjs passes",
    "blockers": [],
-   "nextStep": "add manifest entries for portfolio pp.5–12 from verified forensics; capture 3D posters"
+   "nextStep": ""
   },
   {
    "id": "T2",
@@ -124,10 +124,10 @@
     "assembly slider moves fin groups and reverses",
     "fallback poster when no WebGL"
    ],
-   "status": "active",
-   "evidence": "ModelViewer shell (src/components/viewer/model-viewer.tsx), canvas, camera rig, Maison Peplum procedural model; tests/viewer.spec.ts written",
+   "status": "done",
+   "evidence": "tests/viewer.spec.ts passes on desktop and mobile; presets screenshots in docs/evidence/screenshots/presets",
    "blockers": [],
-   "nextStep": "browser verification after first build; validate fin silhouette against p.8/p.12 renders"
+   "nextStep": ""
   },
   {
    "id": "T5",
@@ -146,8 +146,8 @@
     "presets work",
     "section drawing accessible beside viewer"
    ],
-   "status": "active",
-   "evidence": "delegated: src/components/models/music-institution/** (geometry, component, spec)",
+   "status": "done",
+   "evidence": "src/components/models/music-institution/*; check_music_geometry.mjs; section/plan/route/layers presets screenshot-reviewed",
    "blockers": [],
    "nextStep": ""
   },
@@ -171,8 +171,8 @@
     "case switch updates artwork, text, refs",
     "no coordinates or scores"
    ],
-   "status": "active",
-   "evidence": "delegated: src/components/research/** (CairoAtlas, AnnotatedFigure); page at src/app/research/cairo/page.tsx written",
+   "status": "done",
+   "evidence": "src/components/research/*; tests/research.spec.ts passes; atlas screenshots",
    "blockers": [],
    "nextStep": ""
   },
@@ -195,10 +195,10 @@
     "direct URLs load",
     "inspector zoom/pan/keyboard/focus return"
    ],
-   "status": "active",
-   "evidence": "routes /, /work, /work/[slug], /research/cairo, /about, not-found written; media components (Figure, DrawingInspector) delivered",
+   "status": "done",
+   "evidence": "all routes in out/; tests/routes.spec.ts + inspector.spec.ts pass; screenshots at 360–1920",
    "blockers": [],
-   "nextStep": "first build, screenshots at 360/390/768/1440/1920"
+   "nextStep": ""
   },
   {
    "id": "T8",
@@ -221,10 +221,10 @@
    "acceptanceCriteria": [
     "all essential flows pass or have documented blockers"
    ],
-   "status": "active",
-   "evidence": "playwright.config.ts + tests/routes|viewer|inspector specs written (not yet run)",
+   "status": "done",
+   "evidence": "docs/QA.md; 40 desktop + 29 mobile tests passing; axe clean on 7 routes",
    "blockers": [],
-   "nextStep": ""
+   "nextStep": "real-device pass remains outstanding (documented)"
   },
   {
    "id": "T9",
@@ -242,10 +242,10 @@
    "acceptanceCriteria": [
     "measurements separated from targets"
    ],
-   "status": "todo",
-   "evidence": "",
+   "status": "done",
+   "evidence": "docs/PERFORMANCE.md with measured payloads and scene budgets",
    "blockers": [],
-   "nextStep": ""
+   "nextStep": "lab traces on real hardware"
   },
   {
    "id": "T10",
@@ -266,10 +266,10 @@
     "fresh checkout builds",
     "no production notes public"
    ],
-   "status": "todo",
-   "evidence": "",
+   "status": "active",
+   "evidence": "README, docs/HANDOFF.md written; fresh-install check pending",
    "blockers": [],
-   "nextStep": ""
+   "nextStep": "source-claim audit workflow results → fixes → fresh clone build → final commit"
   }
  ]
 }
