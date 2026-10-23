@@ -224,7 +224,8 @@ export function MaisonPeplumModel({ assemblyRef, preset, lowQuality }: ModelComp
 
       <group name="context" userData={{ noClip: true }}>
         {/* canal along the front façade, as drawn on the plan (p.10) and section (p.11) */}
-        <mesh material={canalMaterial} rotation-x={-Math.PI / 2} position={[0, -0.02, half + 7.5]} receiveShadow userData={{ noClip: true }}>
+        {/* renderOrder -1: drawn before the viewer's shadow plane at y=-0.01 so the water is never depth-occluded by it */}
+        <mesh material={canalMaterial} rotation-x={-Math.PI / 2} position={[0, -0.02, half + 7.5]} receiveShadow renderOrder={-1} userData={{ noClip: true }}>
           <planeGeometry args={[PEPLUM.length + 40, 9]} />
         </mesh>
         <mesh material={floorMaterial} position={[0, -0.1, half + 1.6]} receiveShadow userData={{ noClip: true }}>

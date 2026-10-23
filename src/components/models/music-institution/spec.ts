@@ -77,8 +77,8 @@ const presets: ViewPreset[] = [
 ];
 
 export const MUSIC_INSTITUTION_MODEL_DEFAULTS = {
-  /** Fits the drum, annexe, outdoor stage, terraces and the near canal; the plate's far corners may fall outside. */
-  bounds: { radius: 48, center: [-8, 3, 6] as [number, number, number] },
+  /** Fits the drum, annexe, outdoor stage and terraces; the plate, kerb and canal are context and may run beyond. */
+  bounds: { radius: 50, center: [-10, 3, 4] as [number, number, number] },
   presets,
   hotspotAnchors,
   groupIds: MUSIC_INSTITUTION_GROUP_IDS,

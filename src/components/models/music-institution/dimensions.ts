@@ -54,20 +54,20 @@ export const MUSIC = {
   terrace: { steps: 3, riser: 0.4, tread: 2.6 },
   /** Top edge of the terraces in plan (x, z): hugs the drum's east side, then sweeps along the canal. */
   terracePath: [
-    [24, -26],
+    [24, -24],
     [23, -14],
     [21, -2],
     [18, 8],
     [10, 17],
     [-4, 20.5],
     [-20, 22],
-    [-38, 22],
-    [-56, 21.5],
+    [-36, 22],
+    [-52, 21.5],
   ],
-  /** Plateau extents (the +Z side is bounded by the terrace path). */
-  site: { xMin: -56, xMax: 40, zMin: -26 },
+  /** Plateau extents (the +Z side is bounded by the terrace path, the first point of which lies on zMin). */
+  site: { xMin: -52, xMax: 40, zMin: -24 },
   /** Canal running along the south-east edge of the site, here parallel to X at +Z. */
-  canal: { near: 33, far: 42, xMin: -64, xMax: 48, surface: -0.02 },
+  canal: { near: 33, far: 42, xMin: -60, xMax: 44, surface: -0.02 },
 } as const;
 
 /** Finished levels (y) used by every builder and by the view spec. */

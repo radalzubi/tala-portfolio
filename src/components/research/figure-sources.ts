@@ -35,16 +35,13 @@ export function pictureSources(asset: MediaAsset): PictureSources {
   };
 }
 
-/** Dissertation figure number: from the source record, else parsed from an id such as `cx-fig-04`. */
-export function figureNumber(asset: MediaAsset | undefined, mediaId: string): number | undefined {
-  if (asset?.source.figure) return asset.source.figure;
-  const digits = mediaId.replace(/\D+/g, "");
-  return digits ? Number(digits) : undefined;
-}
-
-/** "Dissertation, p.12, fig. 1" */
-export function sourceLine(asset: MediaAsset): string {
-  const file = asset.source.file === "dissertation" ? "Dissertation" : "Portfolio";
-  const fig = asset.source.figure ? `, fig. ${asset.source.figure}` : "";
-  return `${file}, p.${asset.source.page}${fig}`;
+/**
+ * Short figure label for thumbnails: "4", or "7a" when the id carries a crop suffix (`cx-fig-07a`).
+ * The number comes from the source record when it is there, else from the id.
+ */
+export function figureLabel(asset: MediaAsset | undefined, mediaId: string): string | undefined {
+  const match = mediaId.match(/(\d+)([a-z]?)$/i);
+  const suffix = match?.[2] ?? "";
+  const number = asset?.source.figure ?? (match ? Number(match[1]) : undefined);
+  return number === undefined ? undefined : `${number}${suffix}`;
 }

@@ -3,7 +3,7 @@
 import * as Switch from "@radix-ui/react-switch";
 import { ZoomIn } from "lucide-react";
 import { useId, useRef, useState, useSyncExternalStore, type CSSProperties, type KeyboardEvent } from "react";
-import { useInspector } from "@/components/media";
+import { sourceLabel, useInspector } from "@/components/media";
 import { useMotionPreference } from "@/components/motion/motion-provider";
 import type { MediaAsset, ResearchCase, ResearchChapter, ResearchTheme, SourceRef } from "@/content/types";
 import { cn } from "@/lib/cn";
@@ -17,7 +17,7 @@ import {
   subscribeSearch,
   writeAtlasSearch,
 } from "./atlas-url";
-import { figureNumber, pictureSources, sourceLine } from "./figure-sources";
+import { figureLabel, pictureSources } from "./figure-sources";
 
 export interface CairoAtlasProps {
   chapter: ResearchChapter;
@@ -366,7 +366,7 @@ export function CairoAtlas({ chapter, figures, className }: CairoAtlasProps) {
               <div className="flex aspect-[4/3] items-center justify-center border border-rule-soft bg-sheet">
                 <p className="meta">
                   {currentMediaId
-                    ? `Drawing ${figureNumber(undefined, currentMediaId) ?? ""} is not available yet.`
+                    ? `Figure ${figureLabel(undefined, currentMediaId) ?? ""} is not available yet.`
                     : "No drawings for this case."}
                 </p>
               </div>
@@ -388,7 +388,8 @@ export function CairoAtlas({ chapter, figures, className }: CairoAtlasProps) {
                 <div>
                   <p className="text-sm text-ink">{currentAsset.caption}</p>
                   <p className="meta mt-1">
-                    {currentAsset.credit} · {sourceLine(currentAsset)}
+                    {currentAsset.credit} · {sourceLabel(currentAsset.source)}
+                    {currentAsset.source.note ? ` — ${currentAsset.source.note}` : ""}
                   </p>
                   {currentAsset.rightsNote && <p className="meta mt-1">{currentAsset.rightsNote}</p>}
                 </div>
@@ -426,7 +427,7 @@ export function CairoAtlas({ chapter, figures, className }: CairoAtlasProps) {
             <div role="group" aria-label="Drawings for this case" className="mt-5 flex flex-wrap gap-3">
               {selected.figures.map((id) => {
                 const asset = figures[id];
-                const n = figureNumber(asset, id);
+                const n = figureLabel(asset, id);
                 const active = id === currentMediaId;
                 return (
                   <button
