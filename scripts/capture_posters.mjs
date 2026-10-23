@@ -21,7 +21,9 @@ for (const t of targets) {
   const viewer = page.getByRole("region", { name: new RegExp(`${t.subject}: interactive study`) }).first();
   await viewer.waitFor();
   await page.waitForFunction((el) => el.getAttribute("data-status") === "interactive", await viewer.elementHandle(), { timeout: 30_000 });
-  // let the camera settle after the preset tween and the first shadow pass
+  // hide the hotspot markers (the poster is a still of the architecture, not of the UI) and let the camera settle
+  const markers = viewer.getByRole("checkbox", { name: /Show markers in 3D/ });
+  if ((await markers.count()) > 0 && (await markers.isChecked())) await markers.uncheck();
   await page.waitForTimeout(2500);
   const canvas = viewer.locator("canvas");
   // Read the canvas back with preserveDrawingBuffer off: force a render then capture via toDataURL inside rAF.

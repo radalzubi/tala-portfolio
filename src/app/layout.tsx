@@ -1,7 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import type React from "react";
 import "@fontsource-variable/newsreader/opsz.css";
-import "@fontsource-variable/newsreader/opsz-italic.css";
 import "@fontsource-variable/hanken-grotesk";
 import "@fontsource/ibm-plex-mono/400.css";
 import "./globals.css";
