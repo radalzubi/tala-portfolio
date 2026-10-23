@@ -256,9 +256,9 @@ export const cairoResearch: ResearchChapter = {
         {
           mediaId: "cx-fig-04",
           theme: "street-life",
-          note: "Arched shopfronts open the corner to the street: the dense, mixed-use life the dissertation describes.",
+          note: "Shopfronts open the corner to the street: the dense, mixed-use life the dissertation describes.",
           shapes: [
-            { type: "rect", coords: [0.084, 0.759, 0.842, 0.205], label: "Arched shopfronts" },
+            { type: "rect", coords: [0.084, 0.759, 0.842, 0.205], label: "Ground-floor shopfronts" },
           ],
           sourceRef: d(14),
         },
